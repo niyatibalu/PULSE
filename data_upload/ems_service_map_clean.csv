@@ -1,0 +1,817 @@
+Service Name,Service County,Service License Level,Service Primary Type,Primary Address City Name,Elite Region,Region Number,Transport group,Service Phone,Service Email,lat,lon
+,,,,,,1.0,,,,46.604775274,-91.166698122
+,,,,,,2.0,,,,46.162417724,-89.901908302
+,,,,,,3.0,,,,45.05779237,-87.450647064
+,,,,,,4.0,,,,43.702710098,-91.297936889
+,,,,,,5.0,,,,43.037193661,-90.278449631
+,,,,,,6.0,,,,44.168930539,-88.860058498
+,,,,,,7.0,,,,43.141717871,-87.878563858
+Lakeview Emergency Medical Service,Washington,Paramedic with Critical Care Endorsement,911 Transporting Service,Stillwater,Out of State,,911 Transporting Service,651-430-4621,jon.t.muller@lakeview.org,45.047650061,-92.817556902
+Pepin Emergency Ambulance Service,Pepin,Emergency Medical Technician (EMT),911 Transporting Service,Pepin,Region 1,,911 Transporting Service,715-442-2461,pepinamb@pepinwisconsin.org,44.440367,-92.148926
+Lund/Pepin First Responders,Pepin,Emergency Medical Responder (EMR),911 Non-Transporting Service,Pepin,Region 1,,911 Non-Transporting Service,715-442-2461,lundpepinemr@pepinwisconsin.org,44.440367,-92.148826
+Maiden Rock - Plum City - Stockholm Ems,Pierce,Emergency Medical Technician (EMT),911 Transporting Service,Maiden Rock,Region 1,,911 Transporting Service,715-647-2402,mrpcsambulance@gmail.com,44.5608,-92.3097
+Fairchild Fire Protection District Inc,Eau Claire,Emergency Medical Responder (EMR),911 Non-Transporting Service,Fairchild,Region 1,,911 Non-Transporting Service,715-334-2208,staciedwards13@gmail.com,44.601770754,-90.973329375
+Durand Municipal Ambulance Service,Pepin,Emergency Medical Technician (EMT),911 Transporting Service,Durand,Region 1,,911 Transporting Service,715-448-0046,allisjeff@gmail.com,44.627282,-91.962186
+Mchs Ambulance Service,Wood,Paramedic with Critical Care Endorsement,911 Transporting Service,Marshfield,Region 1,,911 Transporting Service,715-387-7433,skaya.dustin@marshfieldclinic.org,44.676378379,-90.178241832
+Augusta Bridge Creek First Responders,Eau Claire,Emergency Medical Responder (EMR),911 Non-Transporting Service,Augusta,Region 1,,911 Non-Transporting Service,715-456-5577,lilmama51208@yahoo.com,44.682964,-91.138199
+Ellsworth Area Ambulance Service,Pierce,Paramedic,911 Transporting Service,Ellsworth,Region 1,,911 Transporting Service,715-273-4879,info@ellsworthems.com,44.731023,-92.484735
+Fall Creek Area Fire District,Eau Claire,Emergency Medical Responder (EMR),911 Non-Transporting Service,Fall Creek,Region 1,,911 Non-Transporting Service,715-563-0043,karenwright99w@gmail.com,44.7632,-91.2774
+Elmwood Area Ambulance Service,Pierce,Emergency Medical Technician (EMT),911 Transporting Service,Elmwood,Region 1,,911 Transporting Service,715-639-2339,elmwoodareaems@gmail.com,44.781159,-92.150213
+Emergicare Division Of Township Fd,Eau Claire,Emergency Medical Responder (EMR),911 Non-Transporting Service,Eau Claire,Region 1,,911 Non-Transporting Service,715-829-5329,johnroxley1071@gmail.com,44.785465,-91.438057
+Altoona Fire And Rescue,Eau Claire,Emergency Medical Responder (EMR),911 Non-Transporting Service,Eau Claire,Region 1,,911 Non-Transporting Service,715-829-1041,troy.stoneberg@gmail.com,44.798955457,-91.460813032
+Eau Claire Fire Department,Eau Claire,Paramedic,911 Transporting Service,Eau Claire,Region 1,,911 Transporting Service,715-839-5012,Natasha.Myre@eauclairewi.gov,44.812361,-91.497955
+Spring Valley Area Ambulance,Pierce,Emergency Medical Technician (EMT),911 Transporting Service,Spring Valley,Region 1,,911 Transporting Service,715-495-2645,brad.r.jorgenson@gmail.com,44.843092,-92.239576
+Mayo One - Eau Claire,Eau Claire,Paramedic with Critical Care Endorsement,Air Medical Service,Eau Claire,Region 1,,Air Medical Service,320-333-0818,fennell.thomas@mayo.edu,44.8542,-91.47721
+Mayo Clinic Ambulance,Eau Claire,Paramedic,911 Transporting Service,Eau Claire,Region 1,,911 Transporting Service,320-333-0818,fennell.thomas@mayo.edu,44.8542,-91.47621
+Chippewa Fire District,Chippewa,Paramedic with Critical Care Endorsement,911 Transporting Service,Lake Hallie,Region 1,,911 Transporting Service,715-723-5488,sbernette@chippewafiredistrict.com,44.88642,-91.404788
+Dunn Co Medical Emergency First Responders,Dunn,Emergency Medical Responder (EMR),911 Non-Transporting Service,Menomonie,Region 1,,911 Non-Transporting Service,715-556-3662,aemt1332@gmail.com,44.891021,-91.880042
+Wheaton (Town Of) Fire & Rescue,Chippewa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Elk Mound,Region 1,,911 Non-Transporting Service,715-933-2057,james.gutsch@wheatonfirerescue.org,44.899701,-91.593071
+Menomonie Fire Department,Dunn,Paramedic with Critical Care Endorsement,911 Transporting Service,Menomonie,Region 1,,911 Transporting Service,715-232-2414,amucks@menomonie-wi.gov,44.912532,-91.925187
+Chippewa Falls Fire & Emergency Services,Chippewa,Paramedic with Critical Care Endorsement,911 Transporting Service,Chippewa Falls,Region 1,,911 Transporting Service,715-723-5710,jbusse@chippewafalls-wi.gov,44.922278,-91.370569
+Boyd-Edson-Delmar Fire Department Ambulance,Chippewa,Emergency Medical Technician (EMT),911 Transporting Service,Boyd,Region 1,,911 Transporting Service,715-828-3082,chiefpatten601@yahoo.com,44.946648,-91.044548
+Cadott Community Ambulance,Chippewa,Emergency Medical Technician (EMT),911 Transporting Service,Cadott,Region 1,,911 Transporting Service,715-289-3621,cadottems@yahoo.com,44.9482,-91.1508
+Baldwin Ambulance Service,St. Croix,Paramedic with Critical Care Endorsement,911 Transporting Service,Baldwin,Region 1,,911 Transporting Service,715-684-3188,tom.boyer@villageofbaldwin.com,44.95793048,-92.378685951
+Stanley Fire Department,Chippewa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Stanley,Region 1,,911 Non-Transporting Service,715-828-3082,chiefpatten601@yahoo.com,44.960012781,-90.933104871
+Hudson Fire Department,St. Croix,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hudson,Region 1,,911 Non-Transporting Service,715-386-4270,dspielman@hudsonwi.gov,44.964778302,-92.729727689
+Roberts Warren Fire And Rescue,St. Croix,Emergency Medical Responder (EMR),911 Non-Transporting Service,Roberts,Region 1,,911 Non-Transporting Service,715-749-3425,info@rwfd.org,44.982525,-92.557932
+Tilden (Town Of) Fire Department First Responders,Chippewa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Chippewa Falls,Region 1,,911 Non-Transporting Service,715-495-1188,tildenvfdchief@gmail.com,44.987768,-91.452557
+Colfax Rescue Squad,Dunn,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Colfax,Region 1,,911 Transporting Service,715-303-3049,emsdirector@vi.colfax.wi.gov,44.9988,-91.7271
+Hudson (Town Of) First Responders,St. Croix,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hudson (Town of),Region 1,,911 Non-Transporting Service,612-810-3864,jay@exenvironmental.com,45.003993,-92.675647
+Anson (Town Of) First Responders,Chippewa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Jim Falls,Region 1,,911 Non-Transporting Service,715-382-4324,ansonfiredepartment@gmail.com,45.044256,-91.275106
+Boyceville Community Ambulance District,Dunn,Emergency Medical Technician (EMT),911 Transporting Service,Boyceville,Region 1,,911 Transporting Service,715-643-3911,boycevilleambulance@hotmail.com,45.045105,-92.03981
+Glenwood City Ambulance Service,St. Croix,Emergency Medical Technician (EMT),911 Transporting Service,Glenwood City,Region 1,,911 Transporting Service,715-265-4227,glenwoodcityems@gmail.com,45.053912,-92.153668
+St. Joseph First Responders,St. Croix,Emergency Medical Responder (EMR),911 Non-Transporting Service,North Hudson,Region 1,,911 Non-Transporting Service,715-549-5655,zacspates@yahoo.com,45.055952,-92.740792
+Eagle Point Fd First Responders,Chippewa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Eagle Point (Town of),Region 1,,911 Non-Transporting Service,715-379-0492,erikanddebdickson@charter.net,45.057427,-91.389526
+Bloomer Community Ambulance Service,Chippewa,Emergency Medical Technician (EMT),911 Transporting Service,Bloomer,Region 1,,911 Transporting Service,715-568-5554,ambulance@ci.bloomer.wi.us,45.100164,-91.491751
+Bloomer Area First Responders,Chippewa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Bloomer,Region 1,,911 Non-Transporting Service,715-568-5554,bloomerseptic@yahoo.com,45.100164,-91.491651
+New Richmond Area Ambulance & Rescue,St. Croix,Paramedic with Critical Care Endorsement,911 Transporting Service,New Richmond,Region 1,,911 Transporting Service,715-246-7700,mcmmelby@yahoo.com,45.119776,-92.535794
+Somerset Fire And Rescue First Responders,St. Croix,Emergency Medical Responder (EMR),911 Non-Transporting Service,Somerset,Region 1,,911 Non-Transporting Service,715-247-5364,somfire@somtel.net,45.124337559,-92.662870275
+Cornell Area Ambulance Service,Chippewa,Emergency Medical Technician (EMT),911 Transporting Service,Cornell,Region 1,,911 Transporting Service,715-239-3346,CornellareaEMS@gmail.com,45.163724,-91.149266
+Deer Park First Responders,St. Croix,Emergency Medical Responder (EMR),911 Non-Transporting Service,Deer Park,Region 1,,911 Non-Transporting Service,715-220-3080,ailts@frontiernet.net,45.180312,-92.42919
+New Auburn Area Fire Dept First Responders,Chippewa,Emergency Medical Responder (EMR),911 Non-Transporting Service,New Auburn,Region 1,,911 Non-Transporting Service,715-642-0659,naareafiredept@citizens-tel.net,45.2031,-91.5588
+Dallas Area Ambulance Service,Barron,Emergency Medical Technician (EMT),911 Transporting Service,Prairie Farm,Region 1,,911 Transporting Service,715-418-9770,dallasareaamb@chibardun.net,45.2384,-91.9795
+Prairie Farm First Responders,Barron,Emergency Medical Responder (EMR),911 Non-Transporting Service,Prairie Farm,Region 1,,911 Non-Transporting Service,715-505-6125,kenboesl@gmail.com,45.238821174,-91.980884902
+Clear Lake Ambulance Service,Polk,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Clear Lake,Region 1,,911 Transporting Service,715-263-2804,director@ems.clearlake-wi.gov,45.251746,-92.270641
+"Northwestern Municipal Ems, Inc - Interfacility",Polk,Paramedic with Critical Care Endorsement,Interfacility Transfer Service,Amery,Region 1,,Other Primary Service Type,715-554-0594,ameryareaems@yahoo.com,45.297244913,-92.365520902
+"Northwestern Municipal Ems, Inc",Polk,Paramedic,911 Transporting Service,Amery,Region 1,,911 Transporting Service,715-268-8698,ameryareaems@yahoo.com,45.297244913,-92.365420902
+"Allied Emergency Services, Inc.",Polk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Amery,Region 1,,911 Non-Transporting Service,715-554-2172,benjamingrimsby11@gmail.com,45.307939,-92.494946
+Amery Fire Department,Polk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Amery,Region 1,,911 Non-Transporting Service,715-554-3682,jazzychristiansen@gmail.com,45.311353,-92.361924
+Osceola Area Ambulance Service,Polk,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Osceola,Region 1,,911 Transporting Service,715-294-3911,rfoster@serfware.com,45.3205,-92.706
+Chetek First Responders,Barron,Emergency Medical Responder (EMR),911 Non-Transporting Service,Chetek,Region 1,,911 Non-Transporting Service,715-924-4598,chetekfire1@gmail.com,45.321007,-91.663326
+Chetek Ambulance Service,Barron,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Chetek,Region 1,,911 Transporting Service,715-924-4211,ryan.olson@chetekambulance.com,45.321007,-91.663226
+Clayton First Responders,Polk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Clayton,Region 1,,911 Non-Transporting Service,715-554-7100,emtjackson977@gmail.com,45.3325,-92.1717
+Jump River First Responders,Rusk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sheldon,Region 1,,911 Non-Transporting Service,715-829-3462,kclandllc@gmail.com,45.352833402,-90.797965574
+Apple River First Responders,Polk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Amery,Region 1,,911 Non-Transporting Service,715-529-2748,appleriverfd@outlook.com,45.395433,-92.287174
+St Croix Falls Fd,Polk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Saint Croix Falls,Region 1,,911 Non-Transporting Service,715-483-3210,andyscffd@hotmail.com,45.403128,-92.623084
+Lakes Region Ems D.B.A. St. Croix Valley Ems,Polk,Paramedic with Critical Care Endorsement,911 Transporting Service,Saint Croix Falls,Region 1,,911 Transporting Service,651-277-4911,benw@lrems.com,45.40315,-92.625875
+Emergency Services Of Barron County,Barron,Emergency Medical Responder (EMR),911 Non-Transporting Service,Barron,Region 1,,911 Non-Transporting Service,715-296-1820,michael.judy@co.barron.wi.us,45.4189,-91.8478
+Balsam Lake First Responders,Polk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Balsam Lake,Region 1,,911 Non-Transporting Service,715-485-9050,angieblhh@lakeland.ws,45.451072,-92.467219
+Centuria Fire And Rescue,Polk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Centuria,Region 1,,911 Non-Transporting Service,715-222-7911,THEJOKER54824@GMAIL.COM,45.451977,-92.554182
+Rusk County Ambulance Service,Rusk,Emergency Medical Technician (EMT),911 Transporting Service,Ladysmith,Region 1,,911 Transporting Service,715-532-2121,theresal6554@gmail.com,45.4644,-91.097945
+Rice Lake Fire Department,Barron,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Rice Lake,Region 1,,911 Transporting Service,715-234-2119,rlfdmlh@ricelakegov.org,45.499679,-91.736201
+Milltown Volunteer Fire Department,Polk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Milltown,Region 1,,911 Non-Transporting Service,715-825-2217,mfd@lakeland.ws,45.530469,-92.501069
+Cumberland Memorial Hospital Ambulance Service,Barron,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Cumberland,Region 1,,911 Transporting Service,715-308-7524,mfeeney@cumberlandhealthcare.com,45.53192073,-92.028880749
+Cumberland Healthcare - Interfacility,Barron,Paramedic with Critical Care Endorsement,Interfacility Transfer Service,Cumberland,Region 1,,Other Primary Service Type,715-822-7911,mfeeney@cumberlandhealthcare.com,45.538749062,-92.052275833
+Cushing First Responders,Polk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Cushing,Region 1,,911 Non-Transporting Service,715-491-7120,cushingfirechief48@gmail.com,45.569878753,-92.653373809
+Bear Lake-Haugen First Responders,Barron,Emergency Medical Responder (EMR),911 Non-Transporting Service,Haugen,Region 1,,911 Non-Transporting Service,715-651-9447,TaylorWillger@gmail.com,45.606524,-91.781174
+Birchwood Four Corner Emergency Services District,Washburn,Emergency Medical Technician (EMT),911 Transporting Service,Birchwood,Region 1,,911 Transporting Service,608-751-4368,bfcesdems@gmail.com,45.658304443,-91.558950189
+Exeland Fire Protection District,Sawyer,Emergency Medical Responder (EMR),911 Non-Transporting Service,Exeland,Region 1,,911 Non-Transporting Service,715-934-2394,exelandfire@gmail.com,45.670484,-91.244094
+Long Lake Area First Responders-Washburn Co,Washburn,Emergency Medical Responder (EMR),911 Non-Transporting Service,Birchwood (Town of),Region 1,,911 Non-Transporting Service,715-651-6622,polywog1851@yahoo.com,45.740339,-91.63077
+Shell Lake Fire Association,Washburn,Emergency Medical Responder (EMR),911 Non-Transporting Service,Shell Lake,Region 1,,911 Non-Transporting Service,715-468-2323,shelllakefire@yahoo.com,45.743891,-91.931026
+St Croix Tribal / Hertel Fd First Responders,Burnett,Emergency Medical Responder (EMR),911 Non-Transporting Service,Webster,Region 1,,911 Non-Transporting Service,715-349-5463,stcroixhertelfire@gmail.com,45.813082,-92.207261
+North Air Care,Burnett,Paramedic with Critical Care Endorsement,Air Medical Service,Siren,Region 1,,Air Medical Service,763-581-9900,shimon.cohen@northmemorial.com,45.823631,-92.367187
+Webster Rural Fire Assn,Burnett,Emergency Medical Responder (EMR),911 Non-Transporting Service,Webster,Region 1,,911 Non-Transporting Service,715-566-1056,websterfire@sirentel.net,45.877535,-92.366112
+North Memorial Ambulance-Wi Region,Burnett,Paramedic with Critical Care Endorsement,911 Transporting Service,Webster,Region 1,,911 Transporting Service,763-581-9275,Simone.Ramler@NorthMemorial.com,45.878894,-92.36582
+Bass Lake Volunteer Fire Department,Sawyer,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hayward,Region 1,,911 Non-Transporting Service,715-634-8469,tammy@basslakewi.gov,45.914698794,-91.413165816
+Webb Lake Area First Responders,Burnett,Emergency Medical Responder (EMR),911 Non-Transporting Service,Danbury,Region 1,,911 Non-Transporting Service,715-416-3007,DMCCONNELL@EAGLE-ELEC.COM,45.973981,-92.082997
+Lac Courtes Oreilles Fire And Rescue,Sawyer,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hayward (Town of),Region 1,,911 Non-Transporting Service,715-699-1698,theremoore1976@gmail.com,45.982712235,-91.358477103
+Town Of Round Lake (Round Lake Fire/Rescue),Sawyer,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hayward (Town of),Region 1,,911 Non-Transporting Service,715-381-8915,vhaesemeyer@gmail.com,46.014834,-91.197638
+Butternut Fire Department Ems,Ashland,Emergency Medical Responder (EMR),911 Non-Transporting Service,Butternut,Region 1,,911 Non-Transporting Service,715-661-2403,butternutfire@outlook.com,46.014843,-90.494215
+Sawyer County Ambulance,Sawyer,Paramedic,911 Transporting Service,Hayward,Region 1,,911 Transporting Service,715-558-3170,john.froemel@sawyercountygov.org,46.018977,-91.487969
+Hayward (Town Of) Fire/Rescue,Sawyer,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hayward (Town of),Region 1,,911 Non-Transporting Service,715-634-4123,thfd@cheqnet.net,46.0554,-91.5518
+Spider Lake Volunteer Fire Department,Sawyer,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hayward (Town of),Region 1,,911 Non-Transporting Service,715-381-8915,vhaesemeyer@gmail.com,46.069973,-91.229494
+Minong Area Ambulance Service,Washburn,Emergency Medical Technician (EMT),911 Transporting Service,Minong,Region 1,,911 Transporting Service,715-466-2322,minongambulance117@yahoo.com,46.099638,-91.817191
+Glidden Area Emergency Medical Service,Ashland,Emergency Medical Technician (EMT),911 Transporting Service,Glidden,Region 1,,911 Transporting Service,715-638-0484,rentals@rentnorthernwi.com,46.135532,-90.576602
+Great Divide Ambulance Service,Bayfield,Paramedic with Critical Care Endorsement,911 Transporting Service,Cable (Town of),Region 1,,911 Transporting Service,715-209-0287,monicabigo@greatdivideems.com,46.208021,-91.29531
+Dairyland Fire Dept First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Dairyland,Region 1,,911 Non-Transporting Service,715-566-1493,dairylandfdchief@gmail.com,46.216253,-92.155414
+Gordon - Wascott Emergency Medical Service,Douglas,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Gordon,Region 1,,911 Transporting Service,715-376-2640,bettyebert71@gmail.com,46.2436,-91.8021
+Mellen Fire & Rescue Department,Ashland,Emergency Medical Technician (EMT),911 Transporting Service,Mellen,Region 1,,911 Transporting Service,715-274-2136,tonymfd@yahoo.com,46.325861,-90.660729
+Barnes Ambulance Service,Bayfield,Emergency Medical Technician (EMT),911 Transporting Service,Barnes,Region 1,,911 Transporting Service,715-795-2424,ambdirector@townofbarneswi.gov,46.339884,-91.468278
+Solon Springs Vol Fd First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Solon Springs,Region 1,,911 Non-Transporting Service,218-390-4847,bubblesdaytona@gmail.com,46.345733,-91.82628
+Highland Vfd First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Lake Nebagamon,Region 1,,911 Non-Transporting Service,863-800-4250,highlandvfdems@gmail.com,46.424606,-91.667693
+Mason Area Ambulance Service,Bayfield,Emergency Medical Technician (EMT),911 Transporting Service,Mason,Region 1,,911 Transporting Service,715-765-4449,jcduberock@cheqnet.net,46.435552,-91.060759
+Bennett Fire Dept First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Bennett (Town of),Region 1,,911 Non-Transporting Service,406-861-0626,melinda.anderson02@gmail.com,46.445975,-91.818746
+Summit Vol Fire Dept - Douglas Co,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Foxboro,Region 1,,911 Non-Transporting Service,715-493-9844,summitfire@yahoo.com,46.49022665,-92.168545959
+Hawthorne Fire Dept First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hawthorne (Town of),Region 1,,911 Non-Transporting Service,218-606-6800,richgeoff@gmail.com,46.502694941,-91.860897612
+Lake Nebagamon Volunteer Fire Department,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Lake Nebagamon,Region 1,,911 Non-Transporting Service,218-349-5576,jakefuller@outlook.com,46.515315,-91.703499
+Oakland (Town Of) Fire Department,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,South Range,Region 1,,911 Non-Transporting Service,218-393-3428,stacyfornengo@gmail.com,46.54318,-91.983175
+Brule Fire Department First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Brule (Town of),Region 1,,911 Non-Transporting Service,218-391-1896,khkbrule@yahoo.com,46.555567733,-91.5761533
+Iron River Ambulance,Bayfield,Emergency Medical Technician (EMT),911 Transporting Service,Iron River,Region 1,,911 Transporting Service,715-815-0095,warden112@hotmail.com,46.564501,-91.402124
+Superior (Town Of) Fire Dept,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Superior (Town of),Region 1,,911 Non-Transporting Service,715-399-8055,tsfireems@yahoo.com,46.584813658,-92.120052544
+Poplar Vol. Fire Department,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Poplar,Region 1,,911 Non-Transporting Service,612-723-3514,Badexpresso@yahoo.com,46.585613,-91.797454
+Ashland Fire Department,Ashland,Paramedic with Critical Care Endorsement,911 Transporting Service,Ashland,Region 1,,911 Transporting Service,715-682-7052,cpribek@coawi.org,46.589023,-90.878349
+Maple Vol Fire Dept First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Maple (Town of),Region 1,,911 Non-Transporting Service,715-363-2520,mlundeenmaple@gmail.com,46.590348612,-91.730684902
+Amnicon Fire Dept First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,South Range,Region 1,,911 Non-Transporting Service,715-364-8410,amniconfire@gmail.com,46.600446,-91.836761
+Parkland Vol Fire Dept First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,South Range,Region 1,,911 Non-Transporting Service,218-355-1460,louann1992@gmail.com,46.608965,-91.982575
+Lakeside Vol Fire Dept First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Poplar,Region 1,,911 Non-Transporting Service,715-364-2650,nnordrum@gmail.com,46.649051,-91.800255
+Bayfield County Mci Team,Bayfield,Emergency Medical Technician (EMT),911 Non-Transporting Service,Washburn,Region 1,,911 Non-Transporting Service,715-373-6113,EM@bayfieldcounty.wi.gov,46.67534293,-90.893954869
+Cloverland Fire Dept First Responders,Douglas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Maple,Region 1,,911 Non-Transporting Service,715-363-2357,toni23_27@yahoo.com,46.676799,-91.625983
+Washburn Area Ambulance Service,Bayfield,Emergency Medical Technician (EMT),911 Transporting Service,Washburn,Region 1,,911 Transporting Service,715-373-6176,emsdirector@cityofwashburnwi.gov,46.678670634,-90.894998899
+City Of Superior Fire Department,Douglas,Emergency Medical Technician (EMT),911 Non-Transporting Service,Superior,Region 1,,911 Non-Transporting Service,715-395-1680,sventekj@ci.superior.wi.us,46.699898,-92.103851
+Madeline Island Ambulance,Ashland,Emergency Medical Technician (EMT),911 Transporting Service,La Pointe,Region 1,,911 Transporting Service,715-747-6913,ambulancedirector@townoflapointewi.gov,46.785417293,-90.781311275
+Bayfield Community Ambulance Service,Bayfield,Emergency Medical Technician (EMT),911 Transporting Service,Bayfield,Region 1,,911 Transporting Service,715-209-3892,corneliuslynette9@gmail.com,46.812387,-90.825146
+South Shore Area Ambulance Service,Bayfield,Emergency Medical Technician (EMT),911 Transporting Service,Herbster,Region 1,,911 Transporting Service,715-774-3781,byerhofjw@gmail.com,46.832384,-91.261513
+Red Cliff Tribal Ambulance,Bayfield,Emergency Medical Technician (EMT),911 Transporting Service,Red Cliff Indian Reservation,Region 1,,911 Transporting Service,715-779-3707,MLang@redcliffhealth.org,46.856364319,-90.790570316
+Armenia First Responders,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Nekoosa,Region 2,,911 Non-Transporting Service,608-565-6945,leak_angie@hotmail.com,44.169881832,-90.036365453
+Rome Fire Department First Responders,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Nekoosa,Region 2,,911 Non-Transporting Service,715-213-8834,kane@romewi.com,44.220904,-89.809431
+Saratoga (Town Of) Ems-First Responders,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wisconsin Rapids,Region 2,,911 Non-Transporting Service,715-325-5402,mamamoose5100@gmail.com,44.306987,-89.815908
+Nekoosa Vol Fire Dept First Responders,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Nekoosa,Region 2,,911 Non-Transporting Service,715-572-5766,mhartje@nekoosawi.com,44.315213,-89.902422
+Port Edwards (Town) Emergency Medical Responders,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Nekoosa,Region 2,,911 Non-Transporting Service,608-843-2215,markymark5411@gmail.com,44.341832,-89.915952
+Port Edwards Fire Dept First Responders,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Port Edwards,Region 2,,911 Non-Transporting Service,715-887-3481,jgmancl@gmail.com,44.343707,-89.863847
+United Emergency Medical Response,Wood,Paramedic with Critical Care Endorsement,911 Transporting Service,Wisconsin Rapids,Region 2,,911 Transporting Service,715-423-7777,gjemt_p@yahoo.com,44.372557,-89.782714
+Grand Rapids Vfd,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wisconsin Rapids,Region 2,,911 Non-Transporting Service,715-424-1815,fire.chief@grandrapidswi.org,44.372989,-89.76587
+Wisconsin Rapids Fire Department,Wood,Paramedic with Critical Care Endorsement,911 Transporting Service,Wisconsin Rapids,Region 2,,911 Transporting Service,715-423-1150,jfetterer@wirapids.gov,44.378182,-89.811921
+Biron Vfd First Responders,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Biron,Region 2,,911 Non-Transporting Service,715-423-6585,sdillingham@biron.wi.gov,44.415893,-89.786594
+Pittsville Fire Department Inc.,Wood,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Pittsville,Region 2,,911 Transporting Service,715-884-6514,yerke2850@yahoo.com,44.441954,-90.125051
+Amherst Fire District,Portage,Paramedic,911 Transporting Service,Amherst,Region 2,,911 Transporting Service,715-824-5511,vvoss@amherstfd.org,44.44708,-89.29685
+Village Of Plover Fire Department,Portage,Paramedic,911 Transporting Service,Plover,Region 2,,911 Transporting Service,715-310-6882,THoward@ploverwi.gov,44.463135,-89.54393
+"Vesper Volunteer Fire Dept, Inc",Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Vesper,Region 2,,911 Non-Transporting Service,715-569-4600,vesperfiredept@gmail.com,44.4828,-89.967554
+Rudolph Fire Department,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Rudolph,Region 2,,911 Non-Transporting Service,715-435-3740,pholicek@rudolphfd.com,44.495939,-89.801139
+Portage County Emergency Medical Services,Portage,Emergency Medical Responder (EMR),911 Non-Transporting Service,Stevens Point,Region 2,,911 Non-Transporting Service,715-346-1399,krantza@co.portage.wi.gov,44.52056,-89.581424
+Portage County / Stevens Point Fire Department,Portage,Paramedic,911 Transporting Service,Stevens Point,Region 2,,911 Transporting Service,715-344-1833,luchinia@stevenspoint.com,44.526971,-89.574614
+Arpin Fire Dept First Responders,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Arpin,Region 2,,911 Non-Transporting Service,715-652-2414,arpin1ems@gmail.com,44.539928,-90.034937
+Neillsville Municipal Ambulance Service,Clark,Emergency Medical Technician (EMT),911 Transporting Service,Neillsville,Region 2,,911 Transporting Service,715-797-1175,kennethmarg@yahoo.com,44.557706432,-90.606616474
+Richfield Rural Fire Department,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Marshfield,Region 2,,911 Non-Transporting Service,715-207-2108,richfieldfd@gmail.com,44.569357,-90.139199
+Sherry Vol Fire Department,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sherry,Region 2,,911 Non-Transporting Service,715-652-2881,polishvic@tds.net,44.584255,-89.919136
+Granton Area First Responders,Clark,Emergency Medical Responder (EMR),911 Non-Transporting Service,Granton,Region 2,,911 Non-Transporting Service,715-213-0316,llsemt04@gmail.com,44.5894,-90.461628
+Auburndale Fire And Rescue,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Auburndale,Region 2,,911 Non-Transporting Service,715-897-2300,borestodd@yahoo.com,44.623869,-89.985289
+Rock (Town Of) Fire & Rescue,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Marshfield,Region 2,,911 Non-Transporting Service,715-305-7465,reedbob64@hotmail.com,44.627187,-90.239416
+Chili-Fremont Fire And Rescue,Clark,Emergency Medical Responder (EMR),911 Non-Transporting Service,Chili,Region 2,,911 Non-Transporting Service,715-683-2626,chilifirehall@yahoo.com,44.635570996,-90.35604876
+Lincoln (Town Of) Fire Dept Wood Co.,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Marshfield,Region 2,,911 Non-Transporting Service,715-207-5004,Beers_5@msn.com,44.644464,-90.25919
+Hewitt Area Volunteer Fd And First Responders,Wood,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hewitt,Region 2,,911 Non-Transporting Service,501-749-2103,michael.brian.pietsch@gmail.com,44.64628,-90.098182
+Hewitt (Town Of) Fire Department,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wausau (Town of),Region 2,,911 Non-Transporting Service,614-257-7924,googlit@gmail.com,44.646442843,-90.097432273
+Marshfield Fire & Rescue Department,Wood,Paramedic,911 Transporting Service,Marshfield,Region 2,,911 Transporting Service,715-486-2093,steve.bakos@ci.marshfield.wi.us,44.661514,-90.168865
+Mcmillan (Town Of) Fire Department First Responders,Wood,Emergency Medical Technician (EMT),911 Non-Transporting Service,Marshfield (Town of),Region 2,,911 Non-Transporting Service,715-207-2065,mcmillanfirewi@gmail.com,44.7282,-90.1251
+Bevent First Responders,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Bevent,Region 2,,911 Non-Transporting Service,715-630-4616,roninbevent@gmail.com,44.734161,-89.410053
+Loyal Ambulance Service,Clark,Emergency Medical Technician (EMT),911 Transporting Service,Loyal,Region 2,,911 Transporting Service,715-255-8721,rmszy6@frontier.com,44.7388,-90.4961
+Spencer Fire And Ambulance,Marathon,Emergency Medical Technician (EMT),911 Transporting Service,Spencer,Region 2,,911 Transporting Service,715-615-9596,danjenwall@gmail.com,44.750369,-90.296976
+Greenwood Area Ambulance Service,Clark,Emergency Medical Technician (EMT),911 Transporting Service,Greenwood,Region 2,,911 Transporting Service,715-267-7390,grwd59med1@tds.net,44.760502,-90.59838
+Mosinee Fire District-Ambulance Service,Marathon,Emergency Medical Technician (EMT),911 Transporting Service,Mosinee,Region 2,,911 Transporting Service,715-693-2059,dg14403@gmail.com,44.783364,-89.727677
+Stratford Area Fire Department & Ambulance,Marathon,Emergency Medical Technician (EMT),911 Transporting Service,Stratford,Region 2,,911 Transporting Service,715-687-4157,belliott@safdwi.com,44.7853,-90.0792
+Emmet First Responders,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Mosinee,Region 2,,911 Non-Transporting Service,715-897-3777,campnlyfe@yahoo.com,44.798736,-89.869587
+Kronenwetter Fire Department First Responders,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kronenwetter (Town of),Region 2,,911 Non-Transporting Service,715-370-0225,missalexamae@gmail.com,44.825506,-89.660402
+Hatley Area Ambulance Service,Marathon,Emergency Medical Technician (EMT),911 Transporting Service,Hatley,Region 2,,911 Transporting Service,715-581-2601,p.esker54@gmail.com,44.887,-89.337
+Riverside Fire District,Marathon,Paramedic with Critical Care Endorsement,911 Transporting Service,Rothschild,Region 2,,911 Transporting Service,715-359-3500,jacob.pribnow@riversidefd.com,44.88895,-89.624247
+Ringle Fire Department,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Ringle,Region 2,,911 Non-Transporting Service,715-446-3771,ringlefire@gmail.com,44.892729488,-89.42546743
+South Area Fire And Emergency Response District,Marathon,Paramedic with Critical Care Endorsement,911 Transporting Service,Rib Mountain,Region 2,,911 Transporting Service,715-355-6763,cgordon@saferdistrict.org,44.902765566,-89.654744298
+Maine (Village Of) Fire Dept Emergency Medical Services,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wausau (Town of),Region 2,,911 Non-Transporting Service,715-351-0228,timhahnconstruction@yahoo.com,44.9168,-89.6612
+Edgar Volunteer Fire Department Inc.,Marathon,Emergency Medical Technician (EMT),911 Transporting Service,Edgar,Region 2,,911 Transporting Service,715-581-0308,67emtzuleger@gmail.com,44.9223,-89.965
+Greenheck Fan Corporation,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Schofield,Region 2,,911 Non-Transporting Service,715-216-4640,katelyn.tincher@greenheck.com,44.922673315,-89.596174416
+Marathon City (Village Of) First Responders,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Marathon,Region 2,,911 Non-Transporting Service,715-443-2221,village@marathoncitywi.gov,44.931122,-89.838856
+"Kolbe & Kolbe Millwork Company, Inc.",Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wausau,Region 2,,911 Non-Transporting Service,715-881-0455,David.Owens@kolbewindows.com,44.943138,-89.648828
+Central Fire And Ems District,Clark,Emergency Medical Technician (EMT),911 Transporting Service,Abbotsford,Region 2,,911 Transporting Service,715-223-6485,tnixdorf@centralfireemsdistrict.com,44.945846,-90.321305
+Owen-Withee-Curtiss Fire And Ems District Commission,Clark,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Owen,Region 2,,911 Transporting Service,715-229-2652,tserocki@owcfd.com,44.947616,-90.55938
+Wausau Fire Department,Marathon,Paramedic with Critical Care Endorsement,911 Transporting Service,Wausau,Region 2,,911 Transporting Service,715-261-7900,fire@ci.wausau.wi.us,44.951513,-89.622345
+Thorp Area Ambulance District,Clark,Emergency Medical Technician (EMT),911 Transporting Service,Thorp,Region 2,,911 Transporting Service,715-512-0126,ems.coordinator@thorpfire-amb-district.com,44.958328,-90.8107
+Aspirus Wausau Hospital Medevac,Marathon,Paramedic with Critical Care Endorsement,Critical Care Transport Service,Wausau,Region 2,,Other Primary Service Type,715-843-1197,bob.kirkley@aspirus.org,44.964381,-89.666517
+Wausau (Town Of) First Responders,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wausau (Town of),Region 2,,911 Non-Transporting Service,715-845-8458,89.twausaufd@gmail.com,44.9823,-89.5357
+Easton Fire Department First Responders,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Ringle,Region 2,,911 Non-Transporting Service,715-573-2673,smbaumann2009@gmail.com,44.9874,-89.4235
+Hamburg Emergency Medical Responders,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Marathon,Region 2,,911 Non-Transporting Service,715-574-8329,EMR.karri@yahoo.com,44.9988,-89.8648
+Athens Area Ambulance Service,Marathon,Emergency Medical Technician (EMT),911 Transporting Service,Athens,Region 2,,911 Transporting Service,715-257-9086,ttreweek@earthlink.net,45.033287,-90.075029
+Taylor County First Responders,Taylor,Emergency Medical Responder (EMR),911 Non-Transporting Service,Stetsonville,Region 2,,911 Non-Transporting Service,715-965-5913,taylorcofirstresponders@gmail.com,45.062248235,-90.250348232
+Texas (Town Of) Fire Department,Marathon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wausau (Town of),Region 2,,911 Non-Transporting Service,715-675-7476,86.texasfd@gmail.com,45.0756,-89.5364
+Stetsonville Area First Responders,Taylor,Emergency Medical Responder (EMR),911 Non-Transporting Service,Stetsonville,Region 2,,911 Non-Transporting Service,715-560-3446,countrytough031@gmail.com,45.077089,-90.309094
+Taylor County Ambulance Service,Taylor,Emergency Medical Technician (EMT),911 Transporting Service,Medford,Region 2,,911 Transporting Service,715-203-3175,bob.kirkley@aspirus.org,45.140146,-90.357026
+Antigo (City Of) Fire Department,Langlade,Paramedic with Critical Care Endorsement,911 Transporting Service,Antigo,Region 2,,911 Transporting Service,715-623-3633,csmith@antigo-city.org,45.142085,-89.156402
+Antigo (Town Of) Fire Department,Langlade,Emergency Medical Responder (EMR),911 Non-Transporting Service,Antigo (Town of),Region 2,,911 Non-Transporting Service,715-350-1088,nvanvonderen12@hotmail.com,45.162101,-89.113746
+Corning First Responders,Lincoln,Emergency Medical Responder (EMR),911 Non-Transporting Service,Corning (Town of),Region 2,,911 Non-Transporting Service,715-218-7174,jody.geiger@corningfire.com,45.166222,-89.83815
+Pine River Fire Dept First Responders,Lincoln,Emergency Medical Responder (EMR),911 Non-Transporting Service,Merrill,Region 2,,911 Non-Transporting Service,715-409-1101,andrew.grawien@gmail.com,45.179,-89.548719
+Lincoln County Ems - Merrill,Lincoln,Paramedic,911 Transporting Service,Merrill,Region 2,,911 Transporting Service,715-536-2233,fdadministrative@ci.merrill.wi.us,45.18027,-89.693687
+Russell (Town) First Responders,Lincoln,Emergency Medical Responder (EMR),911 Non-Transporting Service,Gleason,Region 2,,911 Non-Transporting Service,715-218-2585,townofrussellemr@gmail.com,45.30908,-89.496982
+Pickerel Volunteer Fire & Rescue Squad,Langlade,Emergency Medical Technician (EMT),911 Transporting Service,Pickerel,Region 2,,911 Transporting Service,517-215-9498,rnctipton@gmail.com,45.358621,-88.909492
+Lincoln County Ems - Tomahawk,Lincoln,Paramedic,911 Transporting Service,Tomahawk,Region 2,,911 Transporting Service,715-203-3175,bob.kirkley@aspirus.org,45.488862,-89.733783
+"Laona Rescue Unit, Inc.",Forest,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Laona (Town of),Region 2,,911 Transporting Service,715-889-2322,laonarescue@gmail.com,45.511084415,-88.675152705
+Prentice Volunteer Fire Department Ambulance Service,Price,Emergency Medical Technician (EMT),911 Transporting Service,Prentice,Region 2,,911 Transporting Service,715-657-0427,prenticecoordinator@gmail.com,45.544028,-90.288489
+Laona Rescue - Interfacility Unit,Forest,Paramedic,Interfacility Transfer Service,Laona (Town of),Region 2,,Other Primary Service Type,715-889-2233,laonarescue@gmail.com,45.564861,-88.674262
+Crandon Area Rescue Squad Inc.,Forest,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Crandon,Region 2,,911 Transporting Service,715-478-3470,melinda21carsi@gmail.com,45.573985,-88.903174
+Nokomis Fire Department First Responders,Lincoln,Emergency Medical Responder (EMR),911 Non-Transporting Service,Tomahawk (Town of),Region 2,,911 Non-Transporting Service,715-612-0447,firechief@nokomiswi.gov,45.594095,-89.719831
+Pelican Fire Rescue,Oneida,Emergency Medical Responder (EMR),911 Non-Transporting Service,Rhinelander,Region 2,,911 Non-Transporting Service,715-401-0888,abrooks@pelicanfire.com,45.601156,-89.333682
+Woodboro First Responders,Oneida,Emergency Medical Responder (EMR),911 Non-Transporting Service,Woodboro (Town of),Region 2,,911 Non-Transporting Service,715-360-4197,woodborofirstresponders@gmail.com,45.607726737,-89.554280384
+Crescent First Responders,Oneida,Emergency Medical Responder (EMR),911 Non-Transporting Service,Rhinelander,Region 2,,911 Non-Transporting Service,715-966-1548,crescentfirstresponder@gmail.com,45.617542,-89.485835
+Oneida County Ambulance-Rhinelander,Oneida,Paramedic,911 Transporting Service,Rhinelander,Region 2,,911 Transporting Service,715-203-3175,bob.kirkley@aspirus.org,45.638366,-89.311345
+Rhinelander Fire Department,Oneida,Paramedic,911 Transporting Service,Rhinelander,Region 2,,911 Transporting Service,715-365-5400,ajohnson@rhinelanderwi.us,45.640279,-89.41327
+Little Rice Fd First Responders,Oneida,Emergency Medical Responder (EMR),911 Non-Transporting Service,Tomahawk,Region 2,,911 Non-Transporting Service,715-966-0250,ellenmathein@hotmail.com,45.644829,-89.806941
+Argonne Fire Department,Forest,Emergency Medical Responder (EMR),911 Non-Transporting Service,Argonne (Town of),Region 2,,911 Non-Transporting Service,715-649-3310,randymckee2014@yahoo.com,45.659227,-88.875727
+Stella Volunteer Fire And Rescue,Oneida,Emergency Medical Responder (EMR),911 Non-Transporting Service,Rhinelander,Region 2,,911 Non-Transporting Service,715-499-1453,stellafiredept@gmail.com,45.663034,-89.2215
+Pine Lake First Responders,Oneida,Emergency Medical Responder (EMR),911 Non-Transporting Service,Rhinelander,Region 2,,911 Non-Transporting Service,715-369-9277,plfire@newnorth.net,45.67023,-89.423056
+Central Price County Ambulance Service,Price,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Phillips,Region 2,,911 Transporting Service,715-820-1581,ckrawczyk2525@gmail.com,45.687963,-90.398163
+Newbold Fire Department,Oneida,Emergency Medical Responder (EMR),911 Non-Transporting Service,Rhinelander,Region 2,,911 Non-Transporting Service,715-776-0208,joepeter82@hotmail.com,45.688676,-89.489267
+Hiles Volunteer Fire Department,Forest,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hiles,Region 2,,911 Non-Transporting Service,715-649-3680,nciapalo@gmail.com,45.70541,-88.977261
+Three Lakes Fire Department,Oneida,Emergency Medical Responder (EMR),911 Non-Transporting Service,Three Lakes,Region 2,,911 Non-Transporting Service,715-546-2330,3lakes51@gmail.com,45.79831,-89.176403
+Oneida County Ambulance-Three Lakes Unit,Oneida,Paramedic,911 Transporting Service,Three Lakes,Region 2,,911 Transporting Service,715-203-3175,bob.kirkley@aspirus.org,45.79831,-89.176303
+Fifield Ems First Responders,Price,Emergency Medical Responder (EMR),911 Non-Transporting Service,Fifield,Region 2,,911 Non-Transporting Service,715-762-3800,drkartman@icloud.com,45.873036,-90.422225
+Howard Young Medical Center Ambulance Oneida County Ems,Oneida,Paramedic,911 Transporting Service,Woodruff,Region 2,,911 Transporting Service,715-203-3175,bob.kirkley@aspirus.org,45.894214,-89.70183
+Pike Lake Ems,Price,Emergency Medical Responder (EMR),911 Non-Transporting Service,Park Falls,Region 2,,911 Non-Transporting Service,715-316-3917,up2rwoods@gmail.com,45.912269,-90.083424
+Joint Municipal Fire Commission - Eagle River,Vilas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Eagle River,Region 2,,911 Non-Transporting Service,715-479-8835,erfd024@gmail.com,45.913645,-89.241464
+St. Germain Fire / Rescue Ambulance Service,Vilas,Emergency Medical Technician (EMT),911 Transporting Service,Saint Germain,Region 2,,911 Transporting Service,715-542-3850,sgemschief@stgermainwi.gov,45.914835,-89.487706
+Arbor Vitae First Responders,Vilas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Arbor Vitae,Region 2,,911 Non-Transporting Service,715-892-2382,hfmaintman@gmail.com,45.917785,-89.649964
+Eagle River Memorial Hospital Ambulance Service,Vilas,Paramedic,911 Transporting Service,Eagle River,Region 2,,911 Transporting Service,715-203-3175,bob.kirkley@aspirus.org,45.927652,-89.251797
+Flambeau Hospital Ambulance,Price,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Park Falls,Region 2,,911 Transporting Service,715-387-7433,skaya.dustin@marshfieldclinic.org,45.931417,-90.441752
+Lac Du Flambeau Ambulance Service,Vilas,Emergency Medical Technician (EMT),911 Transporting Service,Lac du Flambeau,Region 2,,911 Transporting Service,847-651-7065,kirbygiampa@gmail.com,45.978963785,-89.893672
+Plum Lake Ambulance Service,Vilas,Emergency Medical Technician (EMT),911 Transporting Service,Sayner,Region 2,,911 Transporting Service,715-542-2619,plfdchief63080@gmail.com,45.982818,-89.527193
+Town Of Alvin Fire & Rescue,Forest,Emergency Medical Responder (EMR),911 Non-Transporting Service,Alvin,Region 2,,911 Non-Transporting Service,262-206-4715,lcclause9688@gmail.com,45.984470806,-88.829030987
+Sherman (Town Of) First Responders Inc,Iron,Emergency Medical Responder (EMR),911 Non-Transporting Service,Town of Sherman,Region 2,,911 Non-Transporting Service,715-574-3601,sue.gantner@gmail.com,46.02793296,-90.079399717
+Conover Ambulance Service,Vilas,Emergency Medical Technician (EMT),911 Transporting Service,Conover,Region 2,,911 Transporting Service,715-477-2036,conoverambulancechief@gmail.com,46.0498,-89.2683
+Phelps Area Emergency Medical Service,Vilas,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Phelps,Region 2,,911 Transporting Service,715-617-0313,selinems@gmail.com,46.064766,-89.084119
+Boulder Junction Volunteer Fire Department,Vilas,Emergency Medical Technician (EMT),911 Transporting Service,Boulder Junction,Region 2,,911 Transporting Service,715-385-2002,emsdeputychief@townofboulderjunction.org,46.106762,-89.642351
+Northwoods Emergency Medical Services District,Vilas,Paramedic,911 Transporting Service,Manitowish Waters,Region 2,,911 Transporting Service,608-963-2380,nemsddirector@gmail.com,46.124641448,-89.875493416
+Manitowish Waters Fire Company,Vilas,Emergency Medical Responder (EMR),911 Non-Transporting Service,Manitowish Waters,Region 2,,911 Non-Transporting Service,715-614-3032,EMSMWFC@gmail.com,46.1398,-89.9182
+Land O Lakes Ambulance Service,Vilas,Emergency Medical Technician (EMT),911 Transporting Service,Land O Lakes,Region 2,,911 Transporting Service,715-547-3255,sigbaake@yahoo.com,46.160717,-89.223666
+Mercer Fire & Ems,Iron,Emergency Medical Technician (EMT),911 Transporting Service,Mercer (Town of),Region 2,,911 Transporting Service,715-476-2244,rickwestbend@gmail.com,46.167401435,-90.064811531
+Mercer Area Ambulance & Rescue Inc.,Iron,Emergency Medical Technician (EMT),911 Transporting Service,Mercer,Region 2,,911 Transporting Service,715-562-0303,kellyjoustra@yahoo.com,46.167542156,-90.065099403
+Winchester Volunteer Ambulance Service,Vilas,Emergency Medical Technician (EMT),911 Transporting Service,Winchester,Region 2,,911 Transporting Service,715-686-7290,emswinchester@gmail.com,46.2297,-89.8297
+Presque Isle Volunteer Fire Department,Vilas,Emergency Medical Technician (EMT),911 Transporting Service,Presque Isle,Region 2,,911 Transporting Service,715-686-2000,cedarbay@centurylink.net,46.248095,-89.7275
+Beacon Ambulance Service,Iron,Paramedic,911 Transporting Service,Hurley,Region 2,,911 Transporting Service,715-561-4140,curtis@avantihs.com,46.445216,-90.182906
+Saxon Gurney First Responders,Iron,Emergency Medical Responder (EMR),911 Non-Transporting Service,Saxon,Region 2,,911 Non-Transporting Service,715-562-0165,saxongurneyfd@centurytel.net,46.492966,-90.413504
+Kiel Fire Department Ambulance Service,Manitowoc,Paramedic,911 Transporting Service,Kiel,Region 3,,911 Transporting Service,920-663-3818,dick.isely@kielwi.gov,43.91308,-88.037839
+Cleveland First Responders,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Cleveland,Region 3,,911 Non-Transporting Service,920-693-8234,lydiaslotke@gmail.com,43.914156,-87.754582
+St. Nazianz Fire Department First Responders,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Saint Nazianz,Region 3,,911 Non-Transporting Service,920-773-2311,flipper0978@gmail.com,44.009312,-87.922584
+Newton First Responders,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Manitowoc,Region 3,,911 Non-Transporting Service,920-901-3373,newtonrescue@lakefield.net,44.022923,-87.739238
+Valders Fire Department Ambulance Service,Manitowoc,Paramedic with Critical Care Endorsement,911 Transporting Service,Valders,Region 3,,911 Transporting Service,920-775-4526,cdallas.vfdrescue@tds.net,44.06234,-87.881618
+Silver Creek First Responders,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Manitowoc,Region 3,,911 Non-Transporting Service,920-323-2432,klschmidt27@gmail.com,44.063022034,-87.661383769
+Collins First Responders,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Collins,Region 3,,911 Non-Transporting Service,920-901-9713,jgreen_911@yahoo.com,44.088531143,-87.981983868
+Manitowoc Fire Rescue Department,Manitowoc,Paramedic with Critical Care Endorsement,911 Transporting Service,Manitowoc,Region 3,,911 Transporting Service,920-686-6540,tblaser@manitowoc.org,44.091287,-87.659351
+Branch Fire & Rescue Inc.,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Whitelaw,Region 3,,911 Non-Transporting Service,715-250-1717,a.zimmerman1717@gmail.com,44.145582,-87.767359
+Two Rivers Fire Department,Manitowoc,Paramedic with Critical Care Endorsement,911 Transporting Service,Two Rivers,Region 3,,911 Transporting Service,920-793-5521,davmur@two-rivers.org,44.152877,-87.57181
+Reedsville First Responders,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Reedsville,Region 3,,911 Non-Transporting Service,920-756-2141,firstresponders@reedsvillewi.gov,44.153246,-87.948211
+Francis Creek Area First Responders,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Francis Creek,Region 3,,911 Non-Transporting Service,920-323-6903,jbiely@mishicot.k12.wi.us,44.202148,-87.721787
+Kellnersville First Responders,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kellnersville,Region 3,,911 Non-Transporting Service,920-588-7118,KCITYFIRE@GMAIL.COM,44.225427493,-87.795166017
+Mishicot Area Ambulance Service,Manitowoc,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Mishicot,Region 3,,911 Transporting Service,920-255-4235,Director@MishicotEMS.org,44.237911,-87.639162
+Two Creeks (Town Of) First Responders,Manitowoc,Emergency Medical Responder (EMR),911 Non-Transporting Service,Two Rivers,Region 3,,911 Non-Transporting Service,920-323-4821,alyssa.johanek@gmail.com,44.284588766,-87.566434127
+Franklin First Responders,Kewaunee,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kewaunee,Region 3,,911 Non-Transporting Service,920-362-8299,suzi.sevcik@gmail.com,44.367531,-87.66419
+Carlton First Responders,Kewaunee,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kewaunee,Region 3,,911 Non-Transporting Service,920-388-4838,STADISCH@YAHOO.COM,44.370648,-87.582601
+Lawrence (Town Of) Fire Department,Brown,Emergency Medical Responder (EMR),911 Non-Transporting Service,De Pere,Region 3,,911 Non-Transporting Service,920-336-9131,ronc@lawrencewi.gov,44.398213,-88.151502
+Ledgeview (Town Of) Fire Department,Brown,Emergency Medical Responder (EMR),911 Non-Transporting Service,De Pere,Region 3,,911 Non-Transporting Service,920-336-3360,thendricks@ledgeview.wi.gov,44.423586206,-87.97721756
+Montpelier First Responders,Kewaunee,Emergency Medical Responder (EMR),911 Non-Transporting Service,Luxemburg,Region 3,,911 Non-Transporting Service,920-845-2585,stodolafarms@gmail.com,44.434047,-87.735309
+West Kewaunee First Responders,Kewaunee,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kewaunee,Region 3,,911 Non-Transporting Service,920-255-4401,kolszewski1469@gmail.com,44.443063387,-87.567044645
+De Pere Fire Rescue,Brown,Paramedic,911 Transporting Service,De Pere,Region 3,,911 Transporting Service,920-339-4091,bjansen@deperewi.gov,44.446397,-88.060371
+Kewaunee Area Ambulance Service,Kewaunee,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Kewaunee,Region 3,,911 Transporting Service,920-255-1436,deb.pribek@gmail.com,44.459636,-87.521963
+"Aegis Group, Inc. D.B.A. County Rescue Service",Brown,Paramedic with Critical Care Endorsement,911 Transporting Service,Green Bay,Region 3,,911 Transporting Service,920-469-9779,countyrescue@countyrescue.com,44.470055,-87.995087
+"Aegis Group, Inc. D.B.A. Eagle Iii",Brown,Paramedic with Critical Care Endorsement,Air Medical Service,Green Bay,Region 3,,Air Medical Service,920-469-9779,eagle3@eagle3.org,44.471055918,-87.995324237
+"Aegis Group, Inc. D.B.A. County Rescue Services - Aemt",Brown,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Green Bay,Region 3,,911 Transporting Service,920-469-9779,countyrescue@countyrescue.com,44.47166579,-87.99502241
+Ashwaubenon Department Of Public Safety,Brown,Paramedic,911 Transporting Service,Ashwaubenon,Region 3,,911 Transporting Service,920-593-4480,tbaxter@ashwaubenon.gov,44.492165,-88.057122
+Green Bay Metro Fire Department,Brown,Paramedic,911 Transporting Service,Green Bay,Region 3,,911 Transporting Service,920-448-3276,Eric.Jeltema@greenbaywi.gov,44.51364678,-88.012774189
+Luxemburg Emergency & Rescue Association,Kewaunee,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Luxemburg,Region 3,,911 Transporting Service,920-360-7750,opickadan@yahoo.com,44.538389,-87.704912
+Howard (Village Of) Fire Department,Brown,Paramedic,911 Transporting Service,Green Bay,Region 3,,911 Transporting Service,920-434-4679,dstaeven@villageofhoward.com,44.562208,-88.076622
+Algoma Fire & Rescue,Kewaunee,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Algoma,Region 3,,911 Transporting Service,920-487-2712,rory.groessl@algomacity.org,44.609464,-87.437207
+Casco Lincoln First Responders,Kewaunee,Emergency Medical Responder (EMR),911 Non-Transporting Service,Casco,Region 3,,911 Non-Transporting Service,920-680-1111,blegreve@techvisionssolutions.com,44.609744,-87.602057
+Suamico (Village Of) Fire Department,Brown,Emergency Medical Responder (EMR),911 Non-Transporting Service,Suamico (Town of),Region 3,,911 Non-Transporting Service,920-434-3201,cgabryszek@suamicowi.gov,44.621739,-88.063903
+N.E.W. Para-Medic Rescue Inc.,Brown,Paramedic,911 Transporting Service,Pulaski,Region 3,,911 Transporting Service,920-822-7600,nromenesko@goldcross.org,44.673004389,-88.246123232
+Southern Door County First Responders,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Forestville,Region 3,,911 Non-Transporting Service,920-493-8772,sdemr42@yahoo.com,44.690315526,-87.479074274
+Brussels Union Gardner Fire Department,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Brussels,Region 3,,911 Non-Transporting Service,920-825-1465,bugemr2025@gmail.com,44.722317795,-87.61910346
+Gardner First Responders,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sturgeon Bay,Region 3,,911 Non-Transporting Service,920-495-5127,gardneremr@gmail.com,44.768294,-87.533987
+Pensaukee Fire Department First Responders,Oconto,Emergency Medical Responder (EMR),911 Non-Transporting Service,Abrams,Region 3,,911 Non-Transporting Service,920-826-7610,amanda@pensaukeefiredept.org,44.804711,-87.998759
+Sevastopol First Responders,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sturgeon Bay,Region 3,,911 Non-Transporting Service,920-493-5252,ashleybittorf@gmail.com,44.821217,-87.412883
+Sturgeon Bay Fire Department First Responders,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sturgeon Bay,Region 3,,911 Non-Transporting Service,920-746-2916,kmontevideo@sturgeonbaywi.gov,44.834802,-87.374704
+Nasewaupee Fire Rescue,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sturgeon Bay,Region 3,,911 Non-Transporting Service,920-495-0650,firechief@townofnasewaupeewi.gov,44.835508709,-87.427334915
+Door County Emergency Medical Service,Door,Paramedic,911 Transporting Service,Sturgeon Bay,Region 3,,911 Transporting Service,920-743-5461,aleclair@co.door.wi.us,44.845458,-87.36145
+"Oconto Falls Area Joint Ambulance Service, Inc.",Oconto,Paramedic with Critical Care Endorsement,911 Transporting Service,Oconto Falls,Region 3,,911 Transporting Service,920-846-2662,ofambulance@rescue30.com,44.866298,-88.128055
+Menominee Tribal Ambulance Service,Menominee,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Keshena,Region 3,,911 Transporting Service,715-799-3391,deborahb@mtclinic.net,44.884321,-88.651127
+Oconto (City Of) Ambulance Service,Oconto,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Oconto,Region 3,,911 Transporting Service,920-834-7775,emsdirector@cityofoconto.com,44.887106,-87.865886
+"Gillett Area Ambulance Service, Inc.",Oconto,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Gillett,Region 3,,911 Transporting Service,920-855-6060,gaas@centurytel.net,44.892092,-88.315014
+Egg Harbor First Responders,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sturgeon Bay,Region 3,,911 Non-Transporting Service,920-559-6081,ssbn608g@gmail.com,44.951632,-87.320532
+Jacksonport First Responders,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Jacksonport,Region 3,,911 Non-Transporting Service,920-823-2488,aleclair@co.door.wi.us,44.979086,-87.188978
+Peshtigo (City Of) Fire/Rescue Department,Marinette,Emergency Medical Responder (EMR),911 Non-Transporting Service,Peshtigo,Region 3,,911 Non-Transporting Service,715-582-3041,chief@cityofpeshtigo.us,45.054260377,-87.751893074
+Baileys Harbor First Responders,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Baileys Harbor,Region 3,,911 Non-Transporting Service,920-495-3040,danielkiehnau@gmail.com,45.066484,-87.126632
+Aurora Medical Center - Bay Area,Marinette,Paramedic with Critical Care Endorsement,911 Transporting Service,Marinette,Region 3,,911 Transporting Service,715-735-4200,michael.orlando@aah.org,45.0707,-87.634
+Coleman Area Rescue Squad Inc.,Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Coleman,Region 3,,911 Transporting Service,920-897-2858,colemanemt@outlook.com,45.079509,-88.032581
+Emergency Rescue Squad Inc.,Marinette,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Marinette,Region 3,,911 Transporting Service,715-923-2683,marinette.ers@gmail.com,45.082151,-87.648902
+Marinette (City Of) Fire Department First Responders,Marinette,Emergency Medical Responder (EMR),911 Non-Transporting Service,Marinette,Region 3,,911 Non-Transporting Service,715-732-5178,dvanwinkle@marinette.wi.us,45.097132,-87.624927
+Brazeau (Town Of) Ambulance,Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Pound,Region 3,,911 Transporting Service,920-897-3855,brazeauambulance@gmail.com,45.100556,-88.200399
+Gibraltar First Responders,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Fish Creek,Region 3,,911 Non-Transporting Service,920-559-0736,amurre@gibraltarfirerescue.org,45.126629,-87.24167
+Sister Bay And Liberty Grove Fire Department,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sister Bay,Region 3,,911 Non-Transporting Service,920-854-4021,sblgfd1@gmail.com,45.190183,-87.125453
+Mountain Ambulance Service,Oconto,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Mountain,Region 3,,911 Transporting Service,715-276-6669,mountainambulance@hotmail.com,45.194206,-88.489064
+Crivitz Rescue Squad Inc.,Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Crivitz,Region 3,,911 Transporting Service,715-854-7666,crivitzrescue@crivitzrescue.com,45.233255,-88.012819
+"Twin Bridge Rescue Squad, Inc.",Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Crivitz,Region 3,,911 Transporting Service,715-757-2682,twinbridgerescue@outlook.com,45.306417,-88.162606
+Community Ambulance Service,Oconto,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Townsend,Region 3,,911 Transporting Service,715-276-1513,mfd2600@gmail.com,45.308149888,-88.555982595
+Wausaukee Rescue Squad Inc.,Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Wausaukee,Region 3,,911 Transporting Service,715-856-5035,wausaukeers911@gmail.com,45.375645,-87.949193
+Washington Island Fire Department Emr,Door,Emergency Medical Responder (EMR),911 Non-Transporting Service,Washington Island,Region 3,,911 Non-Transporting Service,920-847-2522,qwkhelp911@gmail.com,45.376186259,-86.920564785
+Silver Cliff Rescue Squad Inc.,Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Silver Cliff (Town of),Region 3,,911 Transporting Service,715-757-2752,annhummingbird@gmail.com,45.396007,-88.279852
+Pembine-Dunbar-Beecher Rescue Squad,Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Pembine,Region 3,,911 Transporting Service,715-324-5656,pembinerescue@gmail.com,45.618574,-87.99472
+Goodman-Armstrong Rescue Squad Inc.,Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Goodman,Region 3,,911 Transporting Service,715-336-2027,goodmanrescue@yahoo.com,45.631607,-88.357461
+Florence County Rescue Squad D.B.A. Aurora Homestead Rescue Squad,Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Niagara,Region 3,,911 Transporting Service,906-282-6598,swestman32@gmail.com,45.771361247,-87.994956345
+Niagara Area Emergency Unit Inc.,Marinette,Emergency Medical Technician (EMT),911 Transporting Service,Niagara,Region 3,,911 Transporting Service,715-251-3136,naeu66@gmail.com,45.784637,-88.005069
+Long Lake Volunteer Fire Department D.B.A. Long Lake Fire Department Ems,Florence,Emergency Medical Technician (EMT),911 Transporting Service,Long Lake (Town of),Region 3,,911 Transporting Service,715-674-2261,dlenehanllfd@gmail.com,45.844908,-88.668437
+"Long Lake-Tipler Rescue Squad, Ltd.",Florence,Emergency Medical Technician (EMT),911 Transporting Service,Tipler,Region 3,,911 Transporting Service,715-889-2674,the_mulveys@yahoo.com,45.919313,-88.632549
+Florence County Rescue Squad Llc,Florence,Emergency Medical Technician (EMT),911 Transporting Service,Florence,Region 3,,911 Transporting Service,715-528-3030,dianekt1017@gmail.com,45.921376,-88.253581
+Florence County Ems,Florence,Emergency Medical Technician (EMT),911 Transporting Service,Florence,Region 3,,911 Transporting Service,414-296-1059,amulvey@florencecountywi.gov,45.921464204,-88.253408516
+Rural Bridgeport Prairie Du Chien First Responders,Crawford,Emergency Medical Responder (EMR),911 Non-Transporting Service,Prairie du Chien,Region 4,,911 Non-Transporting Service,608-412-1033,interstate979@yahoo.com,43.037539,-91.138602
+Wauzeka First Responders,Crawford,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wauzeka,Region 4,,911 Non-Transporting Service,608-412-2929,mewoodson57@gmail.com,43.084171693,-90.885806417
+Eastman First Responders,Crawford,Emergency Medical Responder (EMR),911 Non-Transporting Service,Eastman,Region 4,,911 Non-Transporting Service,608-412-0039,saknutson107@gmail.com,43.162310978,-91.020520856
+Steuben First Responders,Crawford,Emergency Medical Responder (EMR),911 Non-Transporting Service,Steuben,Region 4,,911 Non-Transporting Service,608-412-0338,sassyone_1972@yahoo.com,43.181188063,-90.858616947
+Seneca First Responders,Crawford,Emergency Medical Responder (EMR),911 Non-Transporting Service,Seneca,Region 4,,911 Non-Transporting Service,608-734-3126,tjzach20@gmail.com,43.265,-90.9583
+Ocooch Mountain Rescue,Crawford,Emergency Medical Technician (EMT),911 Transporting Service,Gays Mills,Region 4,,911 Transporting Service,608-412-3564,tjzach20@gmail.com,43.341,-90.8406
+Ferryville First Responders,Crawford,Emergency Medical Responder (EMR),911 Non-Transporting Service,Ferryville,Region 4,,911 Non-Transporting Service,608-790-2632,brendavassar@mwt.net,43.342243,-91.085713
+North Crawford Rescue Squad Inc,Crawford,Emergency Medical Technician (EMT),911 Transporting Service,Soldiers Grove,Region 4,,911 Transporting Service,608-632-0220,tlsalmon@mwt.net,43.388109,-90.763072
+Desoto First Responders,Vernon,Emergency Medical Responder (EMR),911 Non-Transporting Service,De Soto,Region 4,,911 Non-Transporting Service,608-648-3331,desotoems@mwt.net,43.421947,-91.198803
+Readstown Emergency Medical Service,Vernon,Emergency Medical Technician (EMT),911 Transporting Service,Readstown,Region 4,,911 Transporting Service,608-629-5379,mike.mendygral@gmail.com,43.449541,-90.76099
+Wheatland First Responders,Vernon,Emergency Medical Responder (EMR),911 Non-Transporting Service,De Soto,Region 4,,911 Non-Transporting Service,608-606-3353,wheatlandemsvc@gmail.com,43.472067,-91.145523
+Viroqua Fire Department,Vernon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Viroqua,Region 4,,911 Non-Transporting Service,608-637-3118,vfd@viroqua-wisconsin.com,43.560913,-90.881194
+Lafarge Area Emergency Medical Service,Vernon,Emergency Medical Technician (EMT),911 Transporting Service,La Farge,Region 4,,911 Transporting Service,608-625-2110,quinnfm@live.com,43.573273,-90.631557
+Genoa Harmony First Responders,Vernon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Genoa,Region 4,,911 Non-Transporting Service,608-689-2151,redfire@mwt.net,43.581162,-91.22661
+Hillsboro Area Ambulance Service,Vernon,Emergency Medical Technician (EMT),911 Transporting Service,Hillsboro,Region 4,,911 Transporting Service,608-553-0469,bwitmer@ymail.com,43.657008,-90.332505
+Westby First Responders,Vernon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Westby,Region 4,,911 Non-Transporting Service,608-632-4053,westbyems@gmail.com,43.660382,-90.856902
+Stoddard Bergen Fire Dept First Responders,Vernon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Stoddard,Region 4,,911 Non-Transporting Service,608-457-2118,sbfd@mwt.net,43.663577,-91.218858
+Coon Creek Fire & Rescue,Vernon,Emergency Medical Responder (EMR),911 Non-Transporting Service,Coon Valley,Region 4,,911 Non-Transporting Service,608-780-5973,ken.phillips2023@gmail.com,43.701267,-91.01718
+Ontario Emergency Medical Service,Vernon,Emergency Medical Technician (EMT),911 Transporting Service,Ontario,Region 4,,911 Transporting Service,608-337-4381,ontario459ems@gmail.com,43.723077,-90.591931
+Cashton Fire & Rescue First Responders,Monroe,Emergency Medical Responder (EMR),911 Non-Transporting Service,Cashton,Region 4,,911 Non-Transporting Service,608-654-5441,rsmb10511@gmail.com,43.743505,-90.779658
+Shelby Fire Department First Responders,La Crosse,Emergency Medical Responder (EMR),911 Non-Transporting Service,La Crosse,Region 4,,911 Non-Transporting Service,608-788-1032,kholinka@townofshelby.com,43.783158,-91.214052
+Gundersen Air,La Crosse,Paramedic with Critical Care Endorsement,Air Medical Service,La Crosse,Region 4,,Air Medical Service,608-775-3874,jsweaver@gundersenhealth.org,43.794628,-91.246313
+La Crosse Fire Department,La Crosse,Paramedic,911 Non-Transporting Service,La Crosse,Region 4,,911 Non-Transporting Service,608-789-8606,hillcoatj@cityoflacrosse.org,43.805375,-91.250424
+Wilton (Village Of) Ambulance Service,Monroe,Emergency Medical Technician (EMT),911 Transporting Service,Wilton,Region 4,,911 Transporting Service,608-435-6666,villageofwilton@centurytel.net,43.813227,-90.52515
+"Tri State Regional Ambulance, Inc.",La Crosse,Paramedic with Critical Care Endorsement,911 Transporting Service,La Crosse,Region 4,,911 Transporting Service,608-784-8827,TETornst@gundersenhealth.org,43.825172,-91.25382
+Tri State Ambulance Inc. - La Crosse,La Crosse,Paramedic with Critical Care Endorsement,911 Transporting Service,La Crosse,Region 4,,911 Transporting Service,608-784-8827,TETornst@gundersenhealth.org,43.825172,-91.25372
+Norwalk First Responders,Monroe,Emergency Medical Responder (EMR),911 Non-Transporting Service,Norwalk,Region 4,,911 Non-Transporting Service,608-633-0545,daisylynn64@yahoo.com,43.831042,-90.623185
+Campbell First Responders,La Crosse,Emergency Medical Responder (EMR),911 Non-Transporting Service,La Crosse,Region 4,,911 Non-Transporting Service,608-783-0050,campbell.ems@gmail.com,43.858919,-91.260129
+Onalaska Fire Department,La Crosse,Emergency Medical Technician (EMT),911 Non-Transporting Service,Onalaska,Region 4,,911 Non-Transporting Service,608-781-9546,jsouthworth@onalaskawi.gov,43.883791,-91.230611
+Bangor First Responders,La Crosse,Emergency Medical Responder (EMR),911 Non-Transporting Service,Bangor,Region 4,,911 Non-Transporting Service,608-797-3691,bangorwifirstresponders@gmail.com,43.892097,-90.990751
+West Salem First Responders,La Crosse,Emergency Medical Responder (EMR),911 Non-Transporting Service,West Salem,Region 4,,911 Non-Transporting Service,608-786-2501,danwilson31@yahoo.com,43.904881,-91.088945
+Brice Prairie First Responders,La Crosse,Emergency Medical Responder (EMR),911 Non-Transporting Service,Onalaska,Region 4,,911 Non-Transporting Service,608-781-5707,emss@bpfr.org,43.93403,-91.299755
+Badgerland Emergency Medical Services,Monroe,Paramedic with Critical Care Endorsement,Interfacility Transfer Service,Sparta,Region 4,,Other Primary Service Type,608-487-5710,badgerland.ems@gmail.com,43.937467839,-90.782265989
+Sparta Area Ambulance Service Ltd,Monroe,Paramedic with Critical Care Endorsement,911 Transporting Service,Sparta,Region 4,,911 Transporting Service,608-269-4949,huberm.spartaambulance@gmail.com,43.938471,-90.818332
+Holmen Area Fire Department First Responders,La Crosse,Emergency Medical Technician (EMT),911 Non-Transporting Service,Holmen,Region 4,,911 Non-Transporting Service,608-526-9363,rostreng@holmenfire.com,43.959343,-91.256827
+Tomah Area Ambulance Service,Monroe,Paramedic with Critical Care Endorsement,911 Transporting Service,Tomah,Region 4,,911 Transporting Service,608-374-7460,arobarge@tomahwi.gov,43.989611578,-90.497956775
+Tomah Area Medical Responders,Monroe,Emergency Medical Responder (EMR),911 Non-Transporting Service,Tomah,Region 4,,911 Non-Transporting Service,608-387-0900,tomahareamedicalresponders@gmail.com,43.996109,-90.496116
+Trempealeau Fire Department First Responders,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Trempealeau,Region 4,,911 Non-Transporting Service,608-534-6464,1stResponders@trempealeaufd.com,44.007341,-91.43087
+Fort Mccoy Fire Department,Monroe,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Fort McCoy (Military Reservation),Region 4,,911 Transporting Service,608-388-2508,timothy.a.jorgensen.civ@army.mil,44.019068762,-90.691142015
+Farmington Emergency Medical Team Inc.,La Crosse,Emergency Medical Technician (EMT),911 Non-Transporting Service,Mindoro,Region 4,,911 Non-Transporting Service,608-857-3139,postmaster@farmingtonems.org,44.02099,-91.102095
+Galesville Ettrick First Responders,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Galesville,Region 4,,911 Non-Transporting Service,608-525-0054,ge95FR@yahoo.com,44.079116,-91.358177
+Cataract First Responders,Monroe,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sparta,Region 4,,911 Non-Transporting Service,608-272-3252,dar@centurytel.net,44.089417,-90.840466
+Fountain City First Responders,Buffalo,Emergency Medical Responder (EMR),911 Non-Transporting Service,Fountain City,Region 4,,911 Non-Transporting Service,507-429-3870,fcfirstresponders@gmail.com,44.127469495,-91.713712474
+Warrens Area Fire District,Monroe,Emergency Medical Responder (EMR),911 Non-Transporting Service,Warrens (RR name Warren),Region 4,,911 Non-Transporting Service,608-696-8608,WarrensAreaFireDistrict@gmail.com,44.127634863,-90.50321759
+Lincoln (Town Of) Fire Dept Monroe Co,Monroe,Emergency Medical Responder (EMR),911 Non-Transporting Service,Warrens (RR name Warren),Region 4,,911 Non-Transporting Service,608-696-8608,tlfdwarrens@hotmail.com,44.1276575,-90.503203833
+Melrose First Responders Inc.,Jackson,Emergency Medical Responder (EMR),911 Non-Transporting Service,Melrose,Region 4,,911 Non-Transporting Service,715-896-4508,melrosefirstresponders@melrosewi.com,44.130747,-90.996109
+Dodge First Responders,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Dodge,Region 4,,911 Non-Transporting Service,608-863-1426,jessandtone@gmail.com,44.132410878,-91.550121003
+Scenic Valley Emergency Medical Service,Buffalo,Emergency Medical Technician (EMT),911 Transporting Service,Cochrane,Region 4,,911 Transporting Service,507-459-7949,scenicvalleyems@outlook.com,44.230488935,-91.851571375
+Arcadia Ambulance Service,Trempealeau,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Arcadia,Region 4,,911 Transporting Service,608-323-3589,dslaby@gundersenhealth.org,44.2434,-91.4739
+Black River Falls Emergency Medical Service,Jackson,Emergency Medical Technician (EMT),911 Transporting Service,Black River Falls,Region 4,,911 Transporting Service,715-284-2656,fire.chief@blackriverfalls.us,44.294007,-90.847254
+Blair-Preston Fire Department,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Blair,Region 4,,911 Non-Transporting Service,608-864-0302,luke.haarsma@pilgrims.com,44.294484,-91.230758
+Waumandee First Responders,Buffalo,Emergency Medical Responder (EMR),911 Non-Transporting Service,Waumandee,Region 4,,911 Non-Transporting Service,608-323-0220,fdfjen31@gmail.com,44.303957,-91.704459
+Ho-Chunk Nation Ems First Responders,Jackson,Emergency Medical Responder (EMR),911 Non-Transporting Service,Black River Falls,Region 4,,911 Non-Transporting Service,715-284-5877,darrell.dick@ho-chunk.com,44.306121,-90.799833
+Taylor Fire & Rescue First Responders,Jackson,Emergency Medical Responder (EMR),911 Non-Transporting Service,Taylor,Region 4,,911 Non-Transporting Service,715-538-3425,roselexi16@gmail.com,44.323279,-91.121826
+Western Buffalo County Ambulance Service,Buffalo,Emergency Medical Technician (EMT),911 Transporting Service,Alma,Region 4,,911 Transporting Service,715-495-2744,wbcaservice@gmail.com,44.324351,-91.917455
+Independence First Responders,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Independence,Region 4,,911 Non-Transporting Service,715-530-1441,frindee@tcc.coop,44.363192,-91.41265
+Tri County Ambulance Service,Trempealeau,Emergency Medical Technician (EMT),911 Transporting Service,Whitehall,Region 4,,911 Transporting Service,715-538-1794,broterin@gundersenhealth.org,44.364648,-91.318727
+Hixton Area First Responders,Jackson,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hixton,Region 4,,911 Non-Transporting Service,715-579-5042,hixtonfirstresponders@gmail.com,44.387828,-91.000997
+Hale First Responders,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Whitehall,Region 4,,911 Non-Transporting Service,715-533-0536,farmerboy1200@hotmail.com,44.413132,-91.291771
+Hatfield First Responders,Jackson,Emergency Medical Responder (EMR),911 Non-Transporting Service,Merrillan,Region 4,,911 Non-Transporting Service,712-344-2164,Sachenw@outlook.com,44.415313749,-90.730532476
+Pigeon Falls First Responders,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Pigeon Falls,Region 4,,911 Non-Transporting Service,715-299-5446,nicguthrie88@gmail.com,44.425291128,-91.209602613
+Alma Center First Responders,Jackson,Emergency Medical Responder (EMR),911 Non-Transporting Service,Alma Center,Region 4,,911 Non-Transporting Service,715-896-1836,gregmandigo211@gmail.com,44.437609,-90.913156
+County Line Fire And Rescue,Jackson,Emergency Medical Responder (EMR),911 Non-Transporting Service,Alma Center,Region 4,,911 Non-Transporting Service,608-807-9183,clfrrescue@gmail.com,44.437728482,-90.913564945
+Merrillan Fire Department First Responders,Jackson,Emergency Medical Responder (EMR),911 Non-Transporting Service,Merrillan,Region 4,,911 Non-Transporting Service,715-333-8711,scottkloveland@yahoo.com,44.451204,-90.841485
+Dover-Gilmanton First Responders,Buffalo,Emergency Medical Responder (EMR),911 Non-Transporting Service,Alma,Region 4,,911 Non-Transporting Service,715-946-3644,janetolson804@gmail.com,44.45903853,-91.696503695
+Strum Unity Rescue First Responders,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Strum,Region 4,,911 Non-Transporting Service,715-695-3313,jjshermo35@yahoo.com,44.549498,-91.391525
+Mondovi Ambulance Service,Buffalo,Emergency Medical Technician (EMT),911 Transporting Service,Mondovi,Region 4,,911 Transporting Service,715-926-3772,bryangibbs1963@gmail.com,44.565407,-91.669211
+Eleva First Responders,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Eleva,Region 4,,911 Non-Transporting Service,715-797-1487,elevafirstresponders@gmail.com,44.575641,-91.467641
+Osseo Rural Fd First Responders,Trempealeau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Osseo,Region 4,,911 Non-Transporting Service,715-597-3108,kirkagunderson@gmail.com,44.582565384,-91.198731167
+Beloit (City Of) Fire Department,Rock,Paramedic,911 Transporting Service,Beloit,Region 5,,911 Transporting Service,608-364-2900,ahrensm@beloitwi.gov,42.508803,-89.028
+Beloit (Town Of) Fire Department,Rock,Paramedic,911 Transporting Service,Beloit (Town of),Region 5,,911 Transporting Service,608-364-2997,senadd24@gmail.com,42.53933,-89.051464
+Hazel Green Area Rescue Squad,Grant,Emergency Medical Technician (EMT),911 Transporting Service,Hazel Green,Region 5,,911 Transporting Service,608-732-7729,hgrescue@yahoo.com,42.543426,-90.437812
+Clinton Fire Protection District - Ems,Rock,Emergency Medical Technician (EMT),911 Transporting Service,Clinton (Town of),Region 5,,911 Transporting Service,608-676-5550,clintonemswi@gmail.com,42.566000244,-88.860260378
+South Wayne First Response,Lafayette,Emergency Medical Responder (EMR),911 Non-Transporting Service,South Wayne,Region 5,,911 Non-Transporting Service,608-258-6186,kfosterswfr@gmail.com,42.56879,-89.878431
+Benton First Responders,Lafayette,Emergency Medical Responder (EMR),911 Non-Transporting Service,Benton,Region 5,,911 Non-Transporting Service,608-482-5093,Benton1st@gmail.com,42.569669,-90.381168
+Shullsburg Ambulance Service,Lafayette,Emergency Medical Technician (EMT),911 Transporting Service,Shullsburg,Region 5,,911 Transporting Service,608-965-8928,213@cityofshullsburg.org,42.572332,-90.230854
+Turtle (Town Of) Fd,Rock,Emergency Medical Responder (EMR),911 Non-Transporting Service,Beloit,Region 5,,911 Non-Transporting Service,608-856-0077,turtledcrogers@gmail.com,42.575179,-88.942067
+Browntown Fire And First Response,Green,Emergency Medical Responder (EMR),911 Non-Transporting Service,Browntown,Region 5,,911 Non-Transporting Service,608-966-3780,browntownfiredept@tds.net,42.577677,-89.794621
+Gratiot First Responders,Lafayette,Emergency Medical Responder (EMR),911 Non-Transporting Service,Gratiot,Region 5,,911 Non-Transporting Service,608-922-6626,gratiotfire@live.com,42.579398,-90.0229
+Jamestown First Responders,Grant,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kieler,Region 5,,911 Non-Transporting Service,563-543-8621,jamestownfire@tds.net,42.581926,-90.603266
+"Juda And Community Fire Association, Inc.",Green,Emergency Medical Responder (EMR),911 Non-Transporting Service,Juda,Region 5,,911 Non-Transporting Service,608-934-5563,judafirstresponse@gmail.com,42.588535249,-89.503760245
+Monroe Fire Department First Responders,Green,Emergency Medical Responder (EMR),911 Non-Transporting Service,Monroe,Region 5,,911 Non-Transporting Service,608-426-1174,arufer@monroefiredept.com,42.5957,-89.6511
+Green County Emergency Medical Service Inc.,Green,Paramedic with Critical Care Endorsement,911 Transporting Service,Monroe,Region 5,,911 Transporting Service,608-329-4367,ems@greencountyems.org,42.600045533,-89.637049418
+Monroe Rural Fire District,Green,Emergency Medical Responder (EMR),911 Non-Transporting Service,Monroe,Region 5,,911 Non-Transporting Service,608-558-7310,mrfd6900@gmail.com,42.603040416,-89.66794006
+Brodhead Area Ems Inc.,Green,Emergency Medical Technician (EMT),911 Transporting Service,Brodhead,Region 5,,911 Transporting Service,608-897-4092,brodheademscaptain@gmail.com,42.618330125,-89.378514559
+Brodhead Fire Dept First Responders,Green,Emergency Medical Responder (EMR),911 Non-Transporting Service,Brodhead,Region 5,,911 Non-Transporting Service,608-897-4270,brodheadfiredistrict1@gmail.com,42.618781,-89.379113
+Dickeyville Rescue Squad Inc.,Grant,Emergency Medical Technician (EMT),911 Transporting Service,Dickeyville,Region 5,,911 Transporting Service,608-568-3095,dickeyvillerescue@gmail.com,42.6225,-90.5907
+Orfordville Fire Protection District,Rock,Emergency Medical Technician (EMT),911 Transporting Service,Orfordville,Region 5,,911 Transporting Service,608-879-2122,orfordvillefire@yahoo.com,42.629097,-89.254951
+Footville Fire Department Ems,Rock,Emergency Medical Technician (EMT),911 Transporting Service,Footville,Region 5,,911 Transporting Service,608-876-6118,jeramimielke@gmail.com,42.674638,-89.209717
+Lafayette County Ems,Lafayette,Emergency Medical Technician (EMT),911 Transporting Service,Darlington,Region 5,,911 Transporting Service,608-776-4999,sphillips@lafayettecoems.org,42.680117613,-90.118548586
+Janesville Fire Department Ambulance  Service,Rock,Paramedic,911 Transporting Service,Janesville,Region 5,,911 Transporting Service,608-373-3433,kessenichj@ci.janesville.wi.us,42.686787,-89.018076
+Mercy Health Systems,Rock,Paramedic,ALS Intercept Service,Janesville,Region 5,,Other Primary Service Type,608-756-6182,BLieber@mhemail.org,42.689735001,-89.034402715
+Potosi Rescue Squad Inc.,Grant,Emergency Medical Technician (EMT),911 Transporting Service,Potosi,Region 5,,911 Transporting Service,661-510-9200,pugsalways@aol.com,42.69589,-90.699473
+Argyle Emergency Medical Service,Lafayette,Emergency Medical Technician (EMT),911 Transporting Service,Argyle,Region 5,,911 Transporting Service,608-543-3750,argyleems204@gmail.com,42.701404,-89.866079
+Albany Area Emergency Medical Service Inc.,Green,Emergency Medical Technician (EMT),911 Transporting Service,Albany,Region 5,,911 Transporting Service,608-862-3249,albany860ems@gmail.com,42.70908,-89.438513
+Albany Community Vfd,Green,Emergency Medical Responder (EMR),911 Non-Transporting Service,Albany,Region 5,,911 Non-Transporting Service,608-862-3276,bhauri972@yahoo.com,42.709878,-89.438099
+Cassville Rescue Squad,Grant,Emergency Medical Technician (EMT),911 Transporting Service,Cassville,Region 5,,911 Transporting Service,608-725-5875,cassvilleems@yahoo.com,42.715586,-90.993312
+Southwest Health Emergency Medical Service,Grant,Paramedic with Critical Care Endorsement,911 Transporting Service,Platteville,Region 5,,911 Transporting Service,608-342-6250,ems@southwesthealth.org,42.720521,-90.455974
+Belmont Ambulance Service,Lafayette,Emergency Medical Technician (EMT),911 Transporting Service,Belmont,Region 5,,911 Transporting Service,608-762-5495,belmont207@hotmail.com,42.739125,-90.333338
+Monticello Fire And Rescue,Green,Emergency Medical Responder (EMR),911 Non-Transporting Service,Monticello,Region 5,,911 Non-Transporting Service,608-938-4979,monticellofire@tds.net,42.748566,-89.594174
+Evansville Emergency Medical Service,Rock,Emergency Medical Technician (EMT),911 Transporting Service,Evansville,Region 5,,911 Transporting Service,608-882-2269,carolyn.kleisch@ci.evansville.wi.gov,42.7789,-89.299609
+Blanchardville Fire Department,Lafayette,Emergency Medical Technician (EMT),911 Transporting Service,Blanchardville,Region 5,,911 Transporting Service,608-523-4520,ems_chief@blanchardvillewi.gov,42.81031,-89.860998
+New Glarus Area Emergency Medical Service,Green,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,New Glarus,Region 5,,911 Transporting Service,608-527-5067,directorngems@yahoo.com,42.81156,-89.638557
+New Glarus Fire Department,Green,Emergency Medical Responder (EMR),911 Non-Transporting Service,New Glarus,Region 5,,911 Non-Transporting Service,608-527-5300,ngfd@newglarusfd.com,42.818452,-89.635372
+Glen Haven Fire Department,Grant,Emergency Medical Responder (EMR),911 Non-Transporting Service,Glen Haven,Region 5,,911 Non-Transporting Service,608-732-2509,ghfdfr@gmail.com,42.822207,-91.03813
+Edgerton Fire Protection District - Ems Division,Rock,Paramedic,911 Transporting Service,Edgerton,Region 5,,911 Transporting Service,608-884-3327,whitmoreb@edgertonfire.com,42.839939,-89.063583
+Rewey First Responders,Iowa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Rewey,Region 5,,911 Non-Transporting Service,608-943-6161,alex_watson1103@yahoo.com,42.841029,-90.397751
+"Lancaster Ems, Inc.",Grant,Emergency Medical Technician (EMT),911 Transporting Service,Lancaster,Region 5,,911 Transporting Service,608-723-6331,lancasterems@tds.net,42.850304,-90.712257
+Brooklyn Fire And Ems Protection District,Green,Emergency Medical Technician (EMT),911 Transporting Service,Brooklyn,Region 5,,911 Transporting Service,608-455-3812,brooklynems.r42@gmail.com,42.853445,-89.379615
+Mineral Point Rescue Squad,Iowa,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Mineral Point,Region 5,,911 Transporting Service,608-987-2752,mineralpointems@gmail.com,42.854385,-90.189094
+Belleville Exeter & Montrose Fire & Ems District,Dane,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Belleville,Region 5,,911 Transporting Service,608-424-3350,chief@bellevilleems.com,42.868026,-89.5329
+Hollandale First Responders,Iowa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hollandale,Region 5,,911 Non-Transporting Service,608-235-7950,hfrsectreas@mhtc.net,42.875181,-89.935556
+Palmyra (Village Of) Fire Rescue,Jefferson,Emergency Medical Technician (EMT),911 Transporting Service,Palmyra,Region 5,,911 Transporting Service,262-495-4200,mgartzke@vi.palmyra.wi.gov,42.879032,-88.585096
+West Grant Rescue Squad Inc,Grant,Emergency Medical Technician (EMT),911 Transporting Service,Bloomington,Region 5,,911 Transporting Service,608-994-3180,wgrescue@tds.net,42.883821,-90.923755
+Livingston-Clifton First Responders,Grant,Emergency Medical Responder (EMR),911 Non-Transporting Service,Livingston,Region 5,,911 Non-Transporting Service,608-943-6199,zackaryhake@gmail.com,42.901532,-90.431855
+Bagley First Responders,Grant,Emergency Medical Responder (EMR),911 Non-Transporting Service,Bagley,Region 5,,911 Non-Transporting Service,608-732-1922,jsmyhre@gmail.com,42.901638,-91.100186
+Stoughton Area Emergency Medical Service,Dane,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Stoughton,Region 5,,911 Transporting Service,608-873-6500,lschimelpfenig@ci.stoughton.wi.us,42.914613,-89.218113
+Linden First Responders,Iowa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Linden,Region 5,,911 Non-Transporting Service,608-574-6667,amandaschultz_g@icloud.com,42.917881,-90.272281
+Oregon Area Fire Ems District,Dane,Paramedic,911 Transporting Service,Oregon,Region 5,,911 Transporting Service,608-835-5587,cjesberger@oregonareafireems.org,42.926186,-89.383349
+Fort Atkinson Fire Department Rescue Squad,Jefferson,Paramedic,911 Transporting Service,Fort Atkinson,Region 5,,911 Transporting Service,920-563-7796,mlawrence@fortatkinsonwi.gov,42.926963,-88.839812
+Dodgeville Area Ambulance Service,Iowa,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Dodgeville,Region 5,,911 Transporting Service,608-935-5111,dodgevilleems@dodgevillewi.gov,42.964406,-90.133599
+Cobb First Responders,Iowa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Cobb,Region 5,,911 Non-Transporting Service,608-574-2500,ryan.urich@gmail.com,42.968116,-90.334749
+"Montfort Rescue Squad,  Inc.",Grant,Emergency Medical Technician (EMT),911 Transporting Service,Montfort,Region 5,,911 Transporting Service,608-943-6045,montfortrescue@yahoo.com,42.96834,-90.430953
+"Fennimore Area Rescue Squad, Inc.",Grant,Emergency Medical Technician (EMT),911 Transporting Service,Fennimore,Region 5,,911 Transporting Service,608-822-1129,frschief@gmail.com,42.984573,-90.65414
+Verona Fire Department,Dane,Emergency Medical Responder (EMR),911 Non-Transporting Service,Verona,Region 5,,911 Non-Transporting Service,608-497-2901,dmachotka@veronafire.com,42.99195,-89.528263
+Fitch-Rona Ems District,Dane,Paramedic,911 Transporting Service,Verona,Region 5,,911 Transporting Service,608-497-2909,patricka@fitchronaems.com,42.99195,-89.528163
+Fitchburg (City Of) Fire Department,Dane,Emergency Medical Responder (EMR),911 Non-Transporting Service,Fitchburg,Region 5,,911 Non-Transporting Service,608-270-7070,chad.grossen@fitchburgwi.gov,43.001176,-89.444875
+Cambridge Area Emergency Medical Service,Dane,Paramedic,911 Transporting Service,Cambridge,Region 5,,911 Transporting Service,608-423-3511,chief@ccfireandemsdistrict.com,43.004225,-89.020748
+Mount Horeb Area Joint Fire Department,Dane,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Mount Horeb,Region 5,,911 Transporting Service,608-437-5571,info@fdmh.org,43.004402,-89.745469
+Jefferson Emergency Medical Service,Jefferson,Paramedic,911 Transporting Service,Jefferson,Region 5,,911 Transporting Service,920-674-2751,emsdirector@jeffersonwis.com,43.005266,-88.801408
+Ridgeway First Responders,Iowa,Emergency Medical Responder (EMR),911 Non-Transporting Service,Ridgeway,Region 5,,911 Non-Transporting Service,608-924-2027,rfd@mhtc.net,43.005917,-89.987256
+Helenville Fire And Rescue District,Jefferson,Emergency Medical Responder (EMR),911 Non-Transporting Service,Helenville,Region 5,,911 Non-Transporting Service,920-728-5201,jessicaolson81@outlook.com,43.0123,-88.6988
+Mcfarland Emergency Medical Service,Dane,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,McFarland,Region 5,,911 Transporting Service,608-838-3278,chris.dennis@mcfarland.wi.us,43.013171,-89.28723
+Barneveld Area Rescue Squad,Iowa,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Barneveld,Region 5,,911 Transporting Service,608-924-7050,barneveldems@gmail.com,43.0169,-89.886
+Woodman First Responders,Grant,Emergency Medical Responder (EMR),911 Non-Transporting Service,Mount Hope,Region 5,,911 Non-Transporting Service,608-988-4893,bergegd@tds.net,43.038602,-90.838219
+Highland Ambulance Service,Iowa,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Highland,Region 5,,911 Transporting Service,608-778-9299,highlandems@mhtc.net,43.046797,-90.37975
+Ryan Brothers Ambulance Service - Madison,Dane,Paramedic with Critical Care Endorsement,Critical Care Transport Service,Madison,Region 5,,Other Primary Service Type,608-257-9591,madams@ryanbros.net,43.057703,-89.399833
+Ryan Brothers Ambulance Service - Fort Atkinson,Dane,Paramedic,911 Transporting Service,Madison,Region 5,,911 Transporting Service,608-257-9591,madams@ryanbros.net,43.057808734,-89.399691359
+St. Mary's Perinatal Center For Sw Wi,Dane,Paramedic with Critical Care Endorsement,Critical Care Transport Service,Madison,Region 5,,Other Primary Service Type,608-258-6840,jessica.urso@ssmhealth.com,43.05953,-89.400996
+Monona Emergency Medical Service,Dane,Paramedic,911 Transporting Service,Madison,Region 5,,911 Transporting Service,608-216-7442,firechief@ci.monona.wi.us,43.063746,-89.338169
+Deer-Grove Ems District,Dane,Paramedic,911 Transporting Service,Cottage Grove,Region 5,,911 Transporting Service,608-839-5658,chief@deergroveems.com,43.069702,-89.199464
+Madison (City Of) Fire Department,Dane,Paramedic,911 Transporting Service,Madison,Region 5,,911 Transporting Service,608-266-4201,fire@cityofmadison.com,43.07403,-89.389549
+Johnson Creek Emergency Medical Service,Jefferson,Paramedic,911 Transporting Service,Johnson Creek,Region 5,,911 Transporting Service,920-699-3456,matthewa@vi.johnsoncreek.wi.gov,43.075423,-88.774416
+Uw Med Flight,Dane,Paramedic with Critical Care Endorsement,Air Medical Service,Madison,Region 5,,Air Medical Service,608-263-3258,ARikkers@uwhealth.org,43.077208,-89.429249
+Lake Mills Fire Department,Jefferson,Emergency Medical Technician (EMT),911 Transporting Service,Lake Mills,Region 5,,911 Transporting Service,920-648-5117,jtheder@ci.lake-mills.wi.us,43.078453,-88.914146
+Middleton Emergency Medical Service,Dane,Paramedic,911 Transporting Service,Middleton,Region 5,,911 Transporting Service,608-827-1040,swunsch@ci.middleton.wi.us,43.097179,-89.51171
+Maple Bluff Fire Rescue Department,Dane,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Madison,Region 5,,911 Transporting Service,608-244-3390,jdrager@villageofmaplebluff.com,43.109637,-89.364249
+Cross Plains Area Emergency Medical Service,Dane,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Cross Plains,Region 5,,911 Transporting Service,608-798-2720,chief@crossplainsems.com,43.114067,-89.648721
+Boscobel Rescue Squad Inc.,Grant,Emergency Medical Technician (EMT),911 Transporting Service,Boscobel,Region 5,,911 Transporting Service,608-485-0263,pcashman1965@gmail.com,43.138651,-90.705614
+Ixonia (Town Of) Emergency Medical Service,Jefferson,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Ixonia,Region 5,,911 Transporting Service,920-261-2440,ixoniafd@townofixonia.com,43.144524,-88.597229
+Arena Emergency Medical Services,Iowa,Emergency Medical Technician (EMT),911 Transporting Service,Arena,Region 5,,911 Transporting Service,608-753-2335,arenaems84@gmail.com,43.162297,-89.90042
+Dane County District #1 Ems,Dane,Emergency Medical Technician (EMT),911 Transporting Service,Mazomanie,Region 5,,911 Transporting Service,608-795-9860,cparman@districtoneems.org,43.171879,-89.800393
+Spring Green Fire Protection District,Sauk,Emergency Medical Technician (EMT),911 Transporting Service,Spring Green,Region 5,,911 Transporting Service,608-588-2030,dmiller2300@gmail.com,43.172271,-90.064226
+Sun Prairie Emergency Medical Services,Dane,Paramedic,911 Transporting Service,Sun Prairie,Region 5,,911 Transporting Service,608-837-3604,cgarrison@cityofsunprairie.com,43.176339,-89.263222
+Sun Prairie Volunteer Fire Department Inc,Dane,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sun Prairie,Region 5,,911 Non-Transporting Service,608-837-5066,twestermeyer@cityofsunprairie.com,43.176814903,-89.264488647
+Avoca & Rural Emergency Medical Service,Iowa,Emergency Medical Technician (EMT),911 Transporting Service,Avoca,Region 5,,911 Transporting Service,608-475-4039,emtjk06@gmail.com,43.182753,-90.325681
+Lone Rock Rescue Unit,Richland,Emergency Medical Technician (EMT),911 Transporting Service,Lone Rock,Region 5,,911 Transporting Service,608-583-3412,LoneRockEMS21@outlook.com,43.184334546,-90.199016655
+Blue River Volunteer Rescue Squad,Grant,Emergency Medical Technician (EMT),911 Transporting Service,Blue River,Region 5,,911 Transporting Service,608-537-2357,blueriverfirewi@gmail.com,43.185956,-90.568902
+Watertown Fire Department,Jefferson,Paramedic,911 Transporting Service,Watertown,Region 5,,911 Transporting Service,920-261-3610,treynen@watertownwi.gov,43.186559489,-88.732963003
+Waterloo Fire Department,Jefferson,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Waterloo,Region 5,,911 Transporting Service,920-478-2535,Chief@waterloowi.us,43.188977,-88.979287
+Muscoda Rescue Squad,Grant,Emergency Medical Technician (EMT),911 Transporting Service,Muscoda,Region 5,,911 Transporting Service,608-739-3006,muscodaems@gmail.com,43.192295,-90.443332
+Waunakee Area Emergency Medical Service,Dane,Paramedic,911 Transporting Service,Waunakee,Region 5,,911 Transporting Service,608-849-7522,srussell@waems.net,43.193399,-89.463666
+Deforest Windsor Fire Protection Board,Dane,Paramedic,911 Transporting Service,De Forest,Region 5,,911 Transporting Service,608-846-4364,adisalvo@deforestwindsorfire.com,43.247486758,-89.339822247
+Lebanon Fire Department - Ems,Dodge,Emergency Medical Responder (EMR),911 Non-Transporting Service,Lebanon,Region 5,,911 Non-Transporting Service,920-988-9332,cwalterslebanon@yahoo.com,43.2589,-88.6259
+Plain Fire Emergency Protection District,Sauk,Emergency Medical Technician (EMT),911 Transporting Service,Plain,Region 5,,911 Transporting Service,608-570-0550,plainamb@plainfire.org,43.279513,-90.044776
+Sauk Prairie Ambulance Association,Sauk,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Prairie du Sac,Region 5,,911 Transporting Service,608-643-4183,kkirch21@gmail.com,43.282165,-89.724158
+Clr Fire And Rescue,Dodge,Emergency Medical Responder (EMR),911 Non-Transporting Service,Reeseville,Region 5,,911 Non-Transporting Service,920-296-5364,firstresponders@clrfirerescue.org,43.3042,-88.8483
+Neosho First Responders,Dodge,Emergency Medical Responder (EMR),911 Non-Transporting Service,Neosho,Region 5,,911 Non-Transporting Service,262-224-0338,braunschweigalex@yahoo.com,43.310116,-88.518591
+Lodi Area Emergency Medical Service,Columbia,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Lodi,Region 5,,911 Transporting Service,608-592-7123,abrown73104@gmail.com,43.320674,-89.534484
+Arlington Emergency Medical Service,Columbia,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Arlington,Region 5,,911 Transporting Service,608-635-2899,bobbijbrown2000@gmail.com,43.338561,-89.379955
+Hustisford First Responders,Dodge,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hustisford,Region 5,,911 Non-Transporting Service,920-349-3814,cmarshall@hustisfordfire.com,43.34356003,-88.600506121
+Richland County Ambulance Service,Richland,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Richland Center,Region 5,,911 Transporting Service,608-647-6474,emsdirector@co.richland.wi.us,43.343966977,-90.387248244
+Ithaca First Responders,Richland,Emergency Medical Responder (EMR),911 Non-Transporting Service,Richland Center,Region 5,,911 Non-Transporting Service,608-604-0351,sue.pilla@yahoo.com,43.355182,-90.270899
+Merrimac Fire And Rescue First Responders,Sauk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Merrimac,Region 5,,911 Non-Transporting Service,608-493-2722,moey6078@yahoo.com,43.373646,-89.623745
+Poynette Dekorra Emergency Medical Service,Columbia,Emergency Medical Technician (EMT),911 Transporting Service,Poynette,Region 5,,911 Transporting Service,608-516-7838,pschwanbeck@pdfd.net,43.3906,-89.4034
+Iron Ridge First Responders,Dodge,Emergency Medical Responder (EMR),911 Non-Transporting Service,Iron Ridge,Region 5,,911 Non-Transporting Service,920-664-2747,IronRidgefire@gmail.com,43.397604,-88.53978
+Juneau Emergency Medical Service,Dodge,Emergency Medical Technician (EMT),911 Transporting Service,Juneau,Region 5,,911 Transporting Service,920-386-4813,ems@cityofjuneauwi.gov,43.400227,-88.704224
+Hillpoint First Responders,Sauk,Emergency Medical Responder (EMR),911 Non-Transporting Service,HillPoint,Region 5,,911 Non-Transporting Service,608-604-9985,hillpointems@gmail.com,43.4108,-90.1287
+Loganville First Responders,Sauk,Emergency Medical Responder (EMR),911 Non-Transporting Service,Loganville,Region 5,,911 Non-Transporting Service,608-963-5325,plainwayne98@gmail.com,43.441013,-90.038215
+Horicon Emergency Medical Services,Dodge,Emergency Medical Technician (EMT),911 Transporting Service,Horicon,Region 5,,911 Transporting Service,920-485-3512,caroleba717@gmail.com,43.446933,-88.641711
+Rio Fire Department,Columbia,Emergency Medical Technician (EMT),911 Transporting Service,Rio,Region 5,,911 Transporting Service,920-992-5605,rioems@outlook.com,43.449467,-89.246003
+Beaver Dam Fire Department,Dodge,Paramedic,911 Transporting Service,Beaver Dam,Region 5,,911 Transporting Service,920-887-4609,jzemlickaretzlaff@ci.beaverdam.wi.gov,43.454986,-88.834
+North Freedom Fire Department,Sauk,Emergency Medical Responder (EMR),911 Non-Transporting Service,North Freedom,Region 5,,911 Non-Transporting Service,608-522-4570,fanstett@centurytel.net,43.460695,-89.866912
+Baraboo District Ambulance Service,Sauk,Paramedic with Critical Care Endorsement,911 Transporting Service,Baraboo,Region 5,,911 Transporting Service,608-356-3455,cjohnson@baraboofireandems.com,43.470966,-89.741777
+Mayville Emergency Medical Service,Dodge,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Mayville,Region 5,,911 Transporting Service,920-387-7989,mayvilleems@mayvillecity.com,43.49456,-88.543307
+Burnett First Responders,Dodge,Emergency Medical Responder (EMR),911 Non-Transporting Service,Burnett,Region 5,,911 Non-Transporting Service,920-689-2278,burnettfd@live.com,43.504821,-88.70928
+Kickapoo Valley Rescue Squad Inc.,Richland,Emergency Medical Technician (EMT),911 Transporting Service,Viola,Region 5,,911 Transporting Service,608-627-1810,kvrs@mwt.net,43.507439,-90.667368
+Theresa Ambulance Service,Dodge,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Theresa,Region 5,,911 Transporting Service,920-488-6301,theresaambulanceservice@gmail.com,43.517118621,-88.451458392
+Cazenovia Area Rescue Squad,Richland,Emergency Medical Technician (EMT),911 Transporting Service,Cazenovia,Region 5,,911 Transporting Service,608-983-2368,director@cazambulance.org,43.525883,-90.195836
+Kekoskee First Responders,Dodge,Emergency Medical Responder (EMR),911 Non-Transporting Service,Mayville,Region 5,,911 Non-Transporting Service,262-937-7741,kfd2401@gmail.com,43.529915049,-88.558892668
+City Of Reedsburg Ambulance,Sauk,Paramedic with Critical Care Endorsement,911 Transporting Service,Reedsburg,Region 5,,911 Transporting Service,608-524-3074,director@reedsburgambulance.com,43.530057899,-90.006927474
+Randolph Ambulance Association,Columbia,Emergency Medical Technician (EMT),911 Transporting Service,Randolph,Region 5,,911 Transporting Service,920-326-3662,pmacheel@centurytel.net,43.538583,-89.007859
+Yuba First Responders,Richland,Emergency Medical Responder (EMR),911 Non-Transporting Service,Yuba,Region 5,,911 Non-Transporting Service,608-434-6164,urbanek@mwt.net,43.539047,-90.428941
+Portage Fire Department,Columbia,Paramedic,911 Transporting Service,Portage,Region 5,,911 Transporting Service,608-742-2172,cody.doucette@portagewi.gov,43.54138879,-89.462285059
+Cambria Community Ambulance Service,Columbia,Emergency Medical Technician (EMT),911 Transporting Service,Cambria,Region 5,,911 Transporting Service,920-296-8463,cambria112@yahoo.com,43.548,-89.1071
+Fox Lake Fire Department,Dodge,Emergency Medical Technician (EMT),911 Transporting Service,Fox Lake,Region 5,,911 Transporting Service,920-928-6115,jenquade77@hotmail.com,43.565866,-88.903608
+Divine Savior Emergency Medical Service,Columbia,Paramedic with Critical Care Endorsement,911 Transporting Service,Portage,Region 5,,911 Transporting Service,608-745-5143,bob.kirkley@aspirus.org,43.566135,-89.46926
+La Valle First Responders,Sauk,Emergency Medical Responder (EMR),911 Non-Transporting Service,La Valle,Region 5,,911 Non-Transporting Service,608-985-7583,sleddoc@mwt.net,43.582177,-90.130496
+Lomira Fire Department First Responders,Dodge,Emergency Medical Responder (EMR),911 Non-Transporting Service,Lomira,Region 5,,911 Non-Transporting Service,920-539-0972,lieutenant2@villageoflomira.gov,43.586983,-88.436451
+Friesland Emergency Medical Responders,Columbia,Emergency Medical Responder (EMR),911 Non-Transporting Service,Friesland,Region 5,,911 Non-Transporting Service,920-763-2332,frieslandemresponders@gmail.com,43.587876,-89.067323
+Dells-Delton Emergency Medical Service,Sauk,Paramedic,911 Transporting Service,Lake Delton,Region 5,,911 Transporting Service,608-254-2159,dgavinski@dells-deltonems.org,43.5903,-89.7924
+Brownsville Fire Company First Responders,Dodge,Emergency Medical Responder (EMR),911 Non-Transporting Service,Brownsville,Region 5,,911 Non-Transporting Service,920-583-4024,brownsvillefireco@gmail.com,43.615467,-88.490796
+Wonewoc Area Fire & Ambulance Association,Juneau,Emergency Medical Technician (EMT),911 Transporting Service,Wonewoc,Region 5,,911 Transporting Service,608-479-1781,skaroemt@gmail.com,43.669299,-90.181295
+Dells Raceway Park Ems,Adams,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wisconsin Dells,Region 5,,911 Non-Transporting Service,608-212-8571,pholicek@rudolphfd.com,43.676197,-89.848128
+Lyndon Station First Responders,Juneau,Emergency Medical Responder (EMR),911 Non-Transporting Service,Lyndon Station,Region 5,,911 Non-Transporting Service,608-666-2580,lsfdrespond@hotmail.com,43.71255,-89.901326
+Elroy Area Ambulance Association Inc.,Juneau,Emergency Medical Technician (EMT),911 Transporting Service,Elroy,Region 5,,911 Transporting Service,608-462-5006,elroyareaambulance53929@gmail.com,43.738843,-90.270288
+Mauston Area Ambulance Association Inc,Juneau,Paramedic with Critical Care Endorsement,911 Transporting Service,Mauston,Region 5,,911 Transporting Service,608-847-2223,cleopold@maustonems.org,43.793958,-90.072921
+Marquette County Ems,Marquette,Paramedic,911 Transporting Service,Montello,Region 5,,911 Transporting Service,608-297-3125,rlulling@co.marquette.wi.us,43.795328,-89.342655
+New Lisbon (City Of) First Responders,Juneau,Emergency Medical Responder (EMR),911 Non-Transporting Service,New Lisbon,Region 5,,911 Non-Transporting Service,608-548-4759,nlfr@mwt.net,43.881381,-90.167828
+New Chester Fire & Rescue First Responders,Adams,Emergency Medical Responder (EMR),911 Non-Transporting Service,Grand Marsh,Region 5,,911 Non-Transporting Service,608-339-6100,emrdirector.ncfd@yahoo.com,43.886277355,-89.704680552
+Wisconsin Task Force I Usar Medical Unit,Juneau,Paramedic,911 Non-Transporting Service,Camp Douglas,Region 5,,911 Non-Transporting Service,608-289-1854,john.mcmanus@widma.gov,43.924683921,-90.263870887
+Volk Field Fire & Ems,Juneau,Emergency Medical Technician (EMT),911 Transporting Service,Camp Douglas,Region 5,,911 Transporting Service,608-427-1417,timothy.robers@us.af.mil,43.931402077,-90.262254659
+Neshkoro Fire Dist First Responders,Marquette,Emergency Medical Responder (EMR),911 Non-Transporting Service,Neshkoro,Region 5,,911 Non-Transporting Service,920-229-1976,jsinarescue1@hotmail.com,43.958396,-89.218406
+Big Flats Emergency Medical Responders,Adams,Emergency Medical Responder (EMR),911 Non-Transporting Service,Arkdale,Region 5,,911 Non-Transporting Service,608-564-7754,stuymac2004@yahoo.com,44.112554438,-89.79887546
+Southern Green Lake County Ambulance Service,Green Lake,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Markesan,Region 6,,911 Transporting Service,920-229-7493,joel@rennerts.com,43.718368,-88.990721
+Green Lake/Brooklyn First Responders,Green Lake,Emergency Medical Responder (EMR),911 Non-Transporting Service,Green Lake,Region 6,,911 Non-Transporting Service,920-807-9549,glbfirstresponders@gmail.com,43.847793,-88.94148
+Nekimi First Responders,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Oshkosh,Region 6,,911 Non-Transporting Service,920-379-5618,becker.carson123@gmail.com,43.946032388,-88.587640698
+New Holstein First Responders,Calumet,Emergency Medical Responder (EMR),911 Non-Transporting Service,New Holstein,Region 6,,911 Non-Transporting Service,920-602-3330,halby04@hotmail.com,43.951537,-88.09559
+Utica First Responders,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Oshkosh,Region 6,,911 Non-Transporting Service,920-376-0999,uticaff501@gmail.com,43.953946,-88.679336
+Berlin Emergency Medical Service,Green Lake,Paramedic,911 Transporting Service,Berlin,Region 6,,911 Transporting Service,920-361-5468,evandenlangenberg@cityofberlin.wi.gov,43.9688,-88.949057
+Oshkosh (City Of) Fire Department,Winnebago,Paramedic,911 Transporting Service,Oshkosh,Region 6,,911 Transporting Service,920-236-5240,adroessler@ci.oshkosh.wi.us,44.014787,-88.534837
+Ascension Calumet Hospital Ambulance,Calumet,Paramedic,911 Transporting Service,Chilton,Region 6,,911 Transporting Service,920-967-6068,nromenesko@goldcross.org,44.025318,-88.154207
+Chilton (City Of) Fire Department Emergency Medical Responders,Calumet,Emergency Medical Responder (EMR),911 Non-Transporting Service,Chilton,Region 6,,911 Non-Transporting Service,920-849-2451,bschoenborn@chiltonwi.gov,44.029237,-88.164418
+Algoma (Town Of) First Responders,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Oshkosh,Region 6,,911 Non-Transporting Service,920-233-5905,gdemler@toafd.net,44.032878,-88.598126
+Omro Rushford  First Responders,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Omro,Region 6,,911 Non-Transporting Service,920-216-3896,andersencl7@yahoo.com,44.038419,-88.750483
+Coloma Volunteer Fire Department First Responders,Waushara,Emergency Medical Responder (EMR),911 Non-Transporting Service,Coloma,Region 6,,911 Non-Transporting Service,715-228-5555,cvfd300@uniontel.net,44.041553,-89.509867
+Redgranite Area Fire District First Responders,Waushara,Emergency Medical Responder (EMR),911 Non-Transporting Service,Redgranite (Red Granite),Region 6,,911 Non-Transporting Service,920-566-4411,rgfd@redgranitefdwi.gov,44.043203,-89.1011
+Wautoma Area Fire District First Responders,Waushara,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wautoma,Region 6,,911 Non-Transporting Service,920-787-7612,MikeStephen60@yahoo.com,44.066352,-89.287659
+Stockbridge First Responders,Calumet,Emergency Medical Responder (EMR),911 Non-Transporting Service,Stockbridge,Region 6,,911 Non-Transporting Service,920-841-0230,stadeck1@gmail.com,44.070428733,-88.300291645
+Waushara County Emergency Medical Services,Waushara,Paramedic with Critical Care Endorsement,911 Transporting Service,Wautoma,Region 6,,911 Transporting Service,920-787-6531,Keith.Melvin@co.waushara.wi.us,44.074192,-89.290077
+Oshkosh (Town Of) First Responders,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Oshkosh,Region 6,,911 Non-Transporting Service,920-379-4718,Emsdirector@town.oshkosh.wi.gov,44.08374918,-88.537679932
+Vinland (Town Of) First Responders,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Oshkosh,Region 6,,911 Non-Transporting Service,920-235-6953,jschmoker15@yahoo.com,44.111175,-88.58388
+Winneconne Poygan First Responders,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Winneconne,Region 6,,911 Non-Transporting Service,920-379-7091,toddnagler67@gmail.com,44.111404024,-88.71901008
+Poy Sippi Volunteer Fire Department,Waushara,Emergency Medical Responder (EMR),911 Non-Transporting Service,Poy Sippi,Region 6,,911 Non-Transporting Service,920-987-5408,psfd297@gmail.com,44.137549,-88.99367
+Hilbert/Potter First Responders,Calumet,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hilbert,Region 6,,911 Non-Transporting Service,920-841-7455,lumberdog322@potterbs.com,44.140208976,-88.160891773
+Neenah (Town Of) Fire Department First Responders,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Neenah,Region 6,,911 Non-Transporting Service,920-722-6623,firedept@townofneenah.com,44.156228,-88.508038
+Wild Rose Fire Department First Responders,Waushara,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wild Rose,Region 6,,911 Non-Transporting Service,920-622-3699,wildrosefiredepartment@gmail.com,44.173897,-89.255483
+Saxeville Springwater Volunteer Fire Department,Waushara,Emergency Medical Responder (EMR),911 Non-Transporting Service,Saxeville,Region 6,,911 Non-Transporting Service,920-622-4455,saxevillefd@centurytel.net,44.176230439,-89.115046622
+Neenah-Menasha Fire Rescue,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Neenah,Region 6,,911 Non-Transporting Service,920-886-6202,skrueger@nmfire.org,44.184675,-88.462517
+Thedastar Air Medical,Winnebago,Paramedic with Critical Care Endorsement,Air Medical Service,Neenah,Region 6,,Air Medical Service,920-729-2114,thedastar@thedacare.org,44.187851,-88.454016
+"Great Lakes Ems, Inc. (Dropped)",Calumet,Advanced Emergency Medical Technician (AEMT),Interfacility Transfer Service,Brillion,Region 6,,Other Primary Service Type,920-581-8000,ryan@greatlakesems.org,44.189449,-88.063368
+Clayton Fire Rescue,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Larsen,Region 6,,911 Non-Transporting Service,920-836-2170,firechief@claytonwinnebagowi.gov,44.19327,-88.624582
+Harrison First Responders,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Menasha,Region 6,,911 Non-Transporting Service,920-989-1062,jgerl@harrison-wi.org,44.196866672,-88.303035663
+Winchester Emergency Medical Services,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Larsen,Region 6,,911 Non-Transporting Service,920-585-1273,ktscritters@yahoo.com,44.199382,-88.657393
+Medics Wisconsin,Winnebago,Paramedic,911 Non-Transporting Service,Neenah,Region 6,,911 Non-Transporting Service,920-203-8791,jason@medicswisconsin.com,44.199628121,-88.492365732
+Brillion (Town Of) First Responders,Calumet,Emergency Medical Responder (EMR),911 Non-Transporting Service,Forest Junction,Region 6,,911 Non-Transporting Service,920-428-2795,cdebmike@tds.net,44.2121,-88.146
+Plainfield Fire Department First Responders,Waushara,Emergency Medical Responder (EMR),911 Non-Transporting Service,Plainfield,Region 6,,911 Non-Transporting Service,715-335-4253,Plainfieldfdems@gmail.com,44.212592,-89.49273
+Fox Crossing Fire Department,Winnebago,Emergency Medical Responder (EMR),911 Non-Transporting Service,Neenah,Region 6,,911 Non-Transporting Service,920-720-7125,sbordeaux@foxcrossingwi.gov,44.215116,-88.485563
+Gold Cross Ambulance Service Inc. - Brillion,Winnebago,Emergency Medical Technician (EMT),911 Transporting Service,Menasha,Region 6,,911 Transporting Service,920-967-6068,nromenesko@goldcross.org,44.226664,-88.427745
+Gold Cross Ambulance Service Inc. - Menasha,Winnebago,Paramedic with Critical Care Endorsement,911 Transporting Service,Menasha,Region 6,,911 Transporting Service,920-967-6068,nromenesko@goldcross.org,44.226664,-88.427245
+Buchanan Fire & Rescue,Outagamie,Emergency Medical Technician (EMT),911 Non-Transporting Service,Appleton,Region 6,,911 Non-Transporting Service,920-734-8599,wiz5347@yahoo.com,44.229477,-88.402095
+Appleton International Airport Public Safety,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Appleton,Region 6,,911 Non-Transporting Service,920-832-1633,tmeisner@atwairport.com,44.256693,-88.509819
+Fremont-Wolf River Ems Ltd.,Waupaca,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Fremont,Region 6,,911 Transporting Service,920-446-3711,fremontwolfriverems@yahoo.com,44.260039,-88.85492
+Combined Locks Fire & Rescue,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Combined Locks,Region 6,,911 Non-Transporting Service,920-810-9112,wiedenbauerk2@combinedlocks.wi.gov,44.265761,-88.31083
+Appleton Fire Department,Outagamie,Paramedic,911 Non-Transporting Service,Appleton,Region 6,,911 Non-Transporting Service,920-832-5810,ryan.homman@appleton.org,44.268125,-88.400775
+Kimberly Fire Department,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kimberly,Region 6,,911 Non-Transporting Service,920-788-7500,kimberlyems@vokimberly.org,44.271903,-88.340149
+Dale Fire & Rescue,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Dale,Region 6,,911 Non-Transporting Service,920-779-4609,towndalewi@gmail.com,44.273,-88.6783
+Kaukauna Fire Department Ambulance Service,Outagamie,Paramedic,911 Transporting Service,Kaukauna,Region 6,,911 Transporting Service,920-766-6320,schneica@kaukauna-wi.org,44.278766,-88.273376
+Kaukauna Vanden Broek First Responders,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kaukauna,Region 6,,911 Non-Transporting Service,920-850-1848,vkfireclerk@gmail.com,44.302164,-88.234909
+Appleton Alliance Church Inc.,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Appleton,Region 6,,911 Non-Transporting Service,920-931-1115,ghooley@aac.church,44.303202,-88.44568
+Grand Chute Fire Department,Outagamie,Paramedic,911 Transporting Service,Grand Chute (Town Of),Region 6,,911 Transporting Service,920-832-6050,matthew.kasriel@grandchutewi.gov,44.303578,-88.442229
+Greenville First Responders,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Greenville,Region 6,,911 Non-Transporting Service,920-757-7262,ems@greenvillewi.gov,44.303684855,-88.537185359
+Hortonville Emergency Medical Services,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hortonville,Region 6,,911 Non-Transporting Service,920-609-7148,Thelmy123@hotmail.com,44.331335,-88.65613
+Center (Town Of) First Responders,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Appleton,Region 6,,911 Non-Transporting Service,920-595-0294,burchill6@gmail.com,44.359043,-88.490963
+Freedom First Responders,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Freedom,Region 6,,911 Non-Transporting Service,920-371-5297,rogerstanley57@att.net,44.372344,-88.308703
+Ellington Emergency Medical Responders,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hortonville,Region 6,,911 Non-Transporting Service,920-810-1546,ryogerst@icloud.com,44.378565,-88.583012
+New London First Responders,Waupaca,Emergency Medical Responder (EMR),911 Non-Transporting Service,New London,Region 6,,911 Non-Transporting Service,920-213-5454,Streyrn@gmail.com,44.390658272,-88.741106289
+Shiocton-Bovina Fire Department,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Shiocton,Region 6,,911 Non-Transporting Service,920-986-3232,dnabbefeld@shiocton.us,44.442973,-88.57785
+Ogdensburg-St. Lawrence Fire & Rescue,Waupaca,Emergency Medical Responder (EMR),911 Non-Transporting Service,Ogdensburg,Region 6,,911 Non-Transporting Service,920-244-7682,pddurrant@wolfnet.net,44.452407984,-89.030987216
+Manawa Rural Ambulance,Waupaca,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Manawa,Region 6,,911 Transporting Service,920-596-2593,manawaems@wolfnet.net,44.461701,-88.919739
+Black Creek Rescue Service,Outagamie,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Black Creek,Region 6,,911 Transporting Service,920-984-3444,blackcreekrescue@blackcreekwi.net,44.46693,-88.44624
+Northwest First Responders,Waupaca,Emergency Medical Responder (EMR),911 Non-Transporting Service,Iola,Region 6,,911 Non-Transporting Service,715-340-4580,debbarton29@gmail.com,44.483805433,-89.110239676
+Iola Ambulance Service,Waupaca,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Iola,Region 6,,911 Transporting Service,715-445-2515,iolaamb@tds.net,44.506166,-89.134619
+Seymour Rescue Squad,Outagamie,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Seymour,Region 6,,911 Transporting Service,920-833-2209,Seymourrescue1@outlook.com,44.51458273,-88.319330461
+Seymour Rural Fire/Emr Department,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Seymour,Region 6,,911 Non-Transporting Service,920-268-6870,amhoffman12@yahoo.com,44.514841,-88.321044
+Bear Creek Area First Responders,Outagamie,Emergency Medical Responder (EMR),911 Non-Transporting Service,Bear Creek,Region 6,,911 Non-Transporting Service,,sc.selle@hotmail.com,44.531205,-88.727581
+Navarino Lessor Ems First Responders,Shawano,Emergency Medical Responder (EMR),911 Non-Transporting Service,Bonduel,Region 6,,911 Non-Transporting Service,920-595-1300,town.lessor@gmail.com,44.610993,-88.488496
+Clintonville Area Ambulance Service,Waupaca,Paramedic with Critical Care Endorsement,911 Transporting Service,Clintonville,Region 6,,911 Transporting Service,715-823-5967,clintamb@clintonvilleambulance.org,44.622888,-88.763451
+Clintonville Fire Department,Waupaca,Emergency Medical Responder (EMR),911 Non-Transporting Service,Clintonville,Region 6,,911 Non-Transporting Service,715-823-3750,skrueger@clintonvillewi.org,44.623107,-88.763215
+Marion Area First Responders,Waupaca,Emergency Medical Responder (EMR),911 Non-Transporting Service,Marion,Region 6,,911 Non-Transporting Service,715-250-0780,ffemtjlh@gmail.com,44.626534,-88.991194
+Embarrass Fire Department,Waupaca,Emergency Medical Responder (EMR),911 Non-Transporting Service,Embarrass,Region 6,,911 Non-Transporting Service,920-574-5313,dakotamaynard17@gmail.com,44.664875446,-88.706117559
+N.E.W. First Responders,Brown,Emergency Medical Responder (EMR),911 Non-Transporting Service,Pulaski,Region 6,,911 Non-Transporting Service,920-822-7600,nromenesko@goldcross.org,44.673004389,-88.246023232
+Grant (Town Of) Ems First Responders,Waupaca,Emergency Medical Responder (EMR),911 Non-Transporting Service,Marion,Region 6,,911 Non-Transporting Service,715-853-6991,ffemtschultz@hotmail.com,44.675477098,-88.889671003
+Belle Plaine Ems,Waupaca,Emergency Medical Responder (EMR),911 Non-Transporting Service,Clintonville,Region 6,,911 Non-Transporting Service,715-524-2690,kingkw54166@yahoo.com,44.696546501,88.69048626
+Bonduel Area Ems First Responders,Shawano,Emergency Medical Responder (EMR),911 Non-Transporting Service,Bonduel,Region 6,,911 Non-Transporting Service,715-851-5773,hoppe12@yahoo.com,44.738458,-88.447702
+Tigerton Area Ambulance Service Association Inc.,Shawano,Emergency Medical Technician (EMT),911 Transporting Service,Tigerton,Region 6,,911 Transporting Service,715-535-2222,taasa911@gmail.com,44.7398,-89.0637
+Pella First Responders,Waupaca,Emergency Medical Responder (EMR),911 Non-Transporting Service,Marion,Region 6,,911 Non-Transporting Service,715-460-1265,bjwestfahl@frontier.com,44.742484601,-88.80241836
+"Shawano Ambulance Service, Inc.",Shawano,Paramedic with Critical Care Endorsement,911 Transporting Service,Shawano,Region 6,,911 Transporting Service,715-524-2036,ptrinko@shawanoambulance.com,44.783491,-88.609242
+Shawano Area Fire Department,Shawano,Emergency Medical Responder (EMR),911 Non-Transporting Service,Shawano,Region 6,,911 Non-Transporting Service,715-526-9888,sborlace@cityofshawano.com,44.784485755,-88.609013418
+Wescott Ems First Responders,Shawano,Emergency Medical Responder (EMR),911 Non-Transporting Service,Shawano,Region 6,,911 Non-Transporting Service,715-851-9633,Rodenbeck3475@yahoo.com,44.800306,-88.60975
+Wittenberg Area Protective Services District,Shawano,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Wittenberg,Region 6,,911 Transporting Service,715-253-3733,wittenbergambulance@gmail.com,44.823739,-89.170394
+Birnamwood Area Emergency Services,Shawano,Emergency Medical Technician (EMT),911 Transporting Service,Birnamwood,Region 6,,911 Transporting Service,715-449-3131,birnamwoodems@gmail.com,44.929735,-89.208811
+Sharon Fire & Rescue,Walworth,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Sharon,Region 7,,911 Transporting Service,262-736-4543,sharonfirechief@sharon.wi.gov,42.500612,-88.722478
+Salem Lakes (Village Of) Fire & Rescue,Kenosha,Paramedic,911 Transporting Service,Trevor,Region 7,,911 Transporting Service,262-298-5630,acarr@voslwi.gov,42.51348,-88.116507
+Kenosha County Fair Association Inc.,Kenosha,Emergency Medical Responder (EMR),911 Non-Transporting Service,Wilmot,Region 7,,911 Non-Transporting Service,262-862-6121,fairmanager@kenoshacofair.com,42.515515772,-88.180690069
+Pleasant Prairie Fire & Rescue,Kenosha,Paramedic,911 Transporting Service,Pleasant Prairie,Region 7,,911 Transporting Service,262-694-8027,firerescue@pleasantprairiewi.gov,42.526961685,-87.922051104
+Bloomfield Genoa City Fire & Rescue,Walworth,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Pell Lake,Region 7,,911 Transporting Service,262-279-2033,chiefschalow@bgcfire.org,42.531258162,-88.364062264
+Twin Lakes Volunteer Fire Department & Rescue Squad,Kenosha,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Twin Lakes,Region 7,,911 Transporting Service,262-877-2373,emschief@twinlakesfire.com,42.531575,-88.252029
+Walworth Emergency Services,Walworth,Emergency Medical Technician (EMT),911 Transporting Service,Walworth,Region 7,,911 Transporting Service,262-275-3838,wfr@vi.walworth.wi.gov,42.532904,-88.599846
+Randall (Town Of) Fire Department First Responders,Kenosha,Emergency Medical Responder (EMR),911 Non-Transporting Service,Burlington,Region 7,,911 Non-Transporting Service,262-877-2941,antarami@live.com,42.535617987,-88.216085448
+Town Of Linn Fire & Ems,Walworth,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Lake Geneva,Region 7,,911 Transporting Service,262-249-8808,FireChief@townoflinn.wi.gov,42.542346,-88.46243
+Fontana Fire Rescue Department,Walworth,Paramedic,911 Transporting Service,Fontana (corp name Fontana-on-Geneva Lake),Region 7,,911 Transporting Service,262-275-2131,rmanthy@vi.fontana.wi.gov,42.549309131,-88.577783476
+Bristol Fire & Rescue,Kenosha,Paramedic,911 Transporting Service,Bristol,Region 7,,911 Transporting Service,262-857-2711,brst5200@gmail.com,42.556922,-88.048162
+"Ljh Ambulance, Inc.",Kenosha,Paramedic with Critical Care Endorsement,Interfacility Transfer Service,Kenosha,Region 7,,Other Primary Service Type,262-951-0712,thomas.pasch@docgo.com,42.576656,-87.842813
+Kenosha Fire Department,Kenosha,Paramedic,911 Transporting Service,Kenosha,Region 7,,911 Transporting Service,262-653-4097,wglass@kenosha.org,42.577212,-87.83504
+Williams Bay Rescue Squad,Walworth,Emergency Medical Technician (EMT),911 Transporting Service,Williams Bay,Region 7,,911 Transporting Service,262-245-2712,williamsbayems@gmail.com,42.577788,-88.540789
+Wheatland (Town Of) Volunteer Fire Department,Kenosha,Emergency Medical Responder (EMR),911 Non-Transporting Service,New Munster,Region 7,,911 Non-Transporting Service,262-891-7660,louisdenko@gmail.com,42.5794,-88.2277
+Scout Leaders Rescue Squad,Kenosha,Emergency Medical Technician (EMT),911 Transporting Service,Kenosha,Region 7,,911 Transporting Service,262-652-2041,sclr.schedule@gmail.com,42.595285,-87.845941
+Lake Geneva Fire Department - Ems Division,Walworth,Paramedic,911 Transporting Service,Lake Geneva,Region 7,,911 Transporting Service,262-248-6075,ddetkowski@cityoflakegeneva.com,42.598708,-88.43449
+Joint Fire / Ems Department Of The Village And Town Of Darien,Walworth,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Darien,Region 7,,911 Transporting Service,262-565-7541,4001bruce@gmail.com,42.607793,-88.719729
+Delavan (Town Of) Rescue Squad,Walworth,Paramedic,911 Transporting Service,Delavan,Region 7,,911 Transporting Service,262-728-3780,jpetkoff@tdfd.net,42.619063,-88.541168
+Paris (Town Of) Fire & Rescue,Racine,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Union Grove,Region 7,,911 Transporting Service,262-672-6416,colin.hennessey@townofparis.org,42.628711,-88.010159
+Delavan (City Of) Fire Department,Walworth,Emergency Medical Technician (EMT),911 Transporting Service,Delavan,Region 7,,911 Transporting Service,262-728-5646,DFDTHOMASONEILL2506@gmail.com,42.630621,-88.635949
+Somers Fire & Rescue,Kenosha,Intermediate,911 Transporting Service,Kenosha,Region 7,,911 Transporting Service,262-859-2277,astrom@somers.org,42.639846,-87.900123
+Lyons (Town Of) Ambulance Service,Walworth,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Lyons,Region 7,,911 Transporting Service,262-763-3322,cpt2906@townoflyonswi.com,42.654413651,-88.37138694
+"Aurora Health Care, Inc.",Walworth,Paramedic with Critical Care Endorsement,Interfacility Transfer Service,Elkhorn,Region 7,,Other Primary Service Type,262-743-3438,Stephanie.Welch@aah.org,42.662481,-88.496701
+"Elkhorn Fire Department, Ems Division",Walworth,Paramedic,911 Transporting Service,Elkhorn,Region 7,,911 Transporting Service,262-723-5080,dace@cityofelkhorn.gov,42.671587,-88.544608
+Burlington (City Of) Fire Department,Racine,Paramedic,911 Transporting Service,Burlington,Region 7,,911 Transporting Service,262-763-7842,tstuckart@burlington-wi.gov,42.677781,-88.279712
+South Shore Consolidated Fire Department,Racine,Paramedic,911 Transporting Service,Racine,Region 7,,911 Transporting Service,262-995-1200,mwienke@mtpleasantwi.gov,42.686579,-87.855784
+Kansasville Fire & Rescue Department,Racine,Paramedic,911 Transporting Service,Kansasville,Region 7,,911 Transporting Service,262-878-3811,kansasvillefire@gmail.com,42.689883,-88.121435
+Union Grove-Yorkville Fire Department,Racine,Paramedic,911 Transporting Service,Union Grove,Region 7,,911 Transporting Service,262-878-4181,ugyfd14@sbcglobal.net,42.691449,-88.052082
+North Central Emergency Medical Services & Rescue Squad,Racine,Emergency Medical Technician (EMT),Interfacility Transfer Service,Racine,Region 7,,Other Primary Service Type,262-729-9886,mailbox@ncemswi.com,42.718837,-87.817576
+Racine Fire Department,Racine,Paramedic,911 Transporting Service,Racine,Region 7,,911 Transporting Service,262-635-7927,joshua.weber@cityofracine.org,42.724616,-87.790104
+Rochester Volunteer Fire Department,Racine,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Burlington,Region 7,,911 Transporting Service,262-534-3444,rvfc@tds.net,42.738679,-88.229729
+"Lakeview Critical Care Ems, Inc",Racine,Paramedic with Critical Care Endorsement,Critical Care Transport Service,Waterford,Region 7,,Other Primary Service Type,262-758-8558,tbluhm@lakeviewsystem.com,42.739197,-88.169723
+Waterford (Village Of) Fire Department,Racine,Paramedic,911 Transporting Service,Waterford,Region 7,,911 Transporting Service,414-699-5729,dbrandt@waterfordwi.org,42.753151,-88.227523
+Lauderdale-Lagrange Fire Department,Walworth,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Whitewater,Region 7,,911 Transporting Service,262-949-9704,bclark@llfd.org,42.799497,-88.601282
+East Troy Rescue,Walworth,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,East Troy,Region 7,,911 Transporting Service,262-642-7439,jdegaro@gmail.com,42.80165,-88.379501
+Raymond (Village Of) Fire & Rescue,Racine,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Franksville,Region 7,,911 Transporting Service,262-835-1687,firedepartment@raymondwi.com,42.805265,-88.01208
+Caledonia Fire Department,Racine,Paramedic,911 Transporting Service,Caledonia,Region 7,,911 Transporting Service,262-835-2050,firechief@caledonia-wi.gov,42.814339,-87.894964
+"Wind Lake Volunteer Fire Company, Inc.",Racine,Intermediate,911 Transporting Service,Wind Lake,Region 7,,911 Transporting Service,262-895-7533,assistantchief@townofnorwaywi.gov,42.827116,-88.159566
+Norway (Town Of) Fire Department,Racine,Paramedic,911 Transporting Service,Wind Lake,Region 7,,911 Transporting Service,262-895-7533,clerk@townofnorway.org,42.827357649,-88.159174533
+"Tichigan Volunteer Fire Company, Inc.",Racine,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Waterford,Region 7,,911 Transporting Service,262-662-3570,william722@aol.com,42.831446,-88.197878
+Whitewater Fire And Ems,Walworth,Paramedic,911 Transporting Service,Whitewater,Region 7,,911 Transporting Service,262-473-0115,JDean@whitewater-wi.gov,42.831981,-88.733617
+Mukwonago Fire Department,Waukesha,Paramedic with Critical Care Endorsement,911 Transporting Service,Mukwonago,Region 7,,911 Transporting Service,262-363-6426,ChiefStien@mukwonagofire.org,42.872101,-88.315201
+Big Bend (Village Of) Fire Department,Waukesha,Emergency Medical Technician (EMT),911 Transporting Service,Big Bend,Region 7,,911 Transporting Service,262-662-2747,chiefsoneberg@villageofbigbend.com,42.877774,-88.209302
+Kettle Moraine Fire District,Waukesha,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Eagle,Region 7,,911 Transporting Service,262-594-3302,assistantchief@kettlemorainefd.com,42.879108,-88.47388
+Franklin Fire Department,Milwaukee,Paramedic,911 Transporting Service,Franklin,Region 7,,911 Transporting Service,414-425-1420,santhoine@franklinwi.gov,42.901486,-88.025926
+South Milwaukee Fire Department,Milwaukee,Paramedic,911 Transporting Service,South Milwaukee,Region 7,,911 Transporting Service,414-768-8191,egner@smwi.org,42.906447,-87.859935
+Vernon Fire Department Ems,Waukesha,Paramedic,911 Transporting Service,Big Bend,Region 7,,911 Transporting Service,262-662-2079,afelde3@live.com,42.910941744,-88.216026341
+Oak Creek Fire Department,Milwaukee,Paramedic,911 Transporting Service,Oak Creek,Region 7,,911 Transporting Service,414-570-5630,mkressuk@oakcreekwi.gov,42.917823,-87.919571
+Tess Corners Volunteer Fire Department,Waukesha,Intermediate,911 Transporting Service,Muskego,Region 7,,911 Transporting Service,414-422-9733,tesscorners@sbcglobal.net,42.9222,-88.0945
+Cudahy Fire Department,Milwaukee,Paramedic,911 Transporting Service,Cudahy,Region 7,,911 Transporting Service,414-769-2231,bloor@cudahy-wi.gov,42.937098463,-87.870910847
+128th Air Refueling Wing Fire And Emergency Services,Milwaukee,Emergency Medical Technician (EMT),911 Non-Transporting Service,Milwaukee,Region 7,,911 Non-Transporting Service,414-944-8458,tyler.lecher@us.af.mil,42.941732,-87.885746
+Hales Corners Fire Department,Milwaukee,Paramedic,911 Transporting Service,Hales Corners,Region 7,,911 Transporting Service,414-529-6168,pjaskulski@halescornersfire.org,42.943511,-88.038412
+Greendale Fire Department,Milwaukee,Paramedic,911 Transporting Service,Greendale,Region 7,,911 Transporting Service,414-423-2131,kkais@greendale.org,42.944772,-87.987911
+Milwaukee County Fire Department - Airport,Milwaukee,Emergency Medical Technician (EMT),911 Non-Transporting Service,Milwaukee,Region 7,,911 Non-Transporting Service,414-769-3913,mphillips@mitchellairport.com,42.948751,-87.909408
+Greenfield (City Of) Fire Department,Milwaukee,Paramedic,911 Transporting Service,Greenfield,Region 7,,911 Transporting Service,414-545-7946,Daniel.Weber@gffd.us,42.965754,-88.028108
+New Berlin (City Of) Fire Department,Waukesha,Paramedic with Critical Care Endorsement,911 Transporting Service,New Berlin,Region 7,,911 Transporting Service,262-785-6120,cpierce@newberlin.org,42.970968,-88.116517
+St. Francis Fire Department,Milwaukee,Paramedic,911 Transporting Service,Saint Francis,Region 7,,911 Transporting Service,414-483-4424,jeff.trudell@stfranwi.org,42.973908,-87.864679
+Waukesha (Village Of) Fire Department,Waukesha,Intermediate,911 Transporting Service,Waukesha,Region 7,,911 Transporting Service,262-542-3199,Astolldorf@villageofwaukesha.com,42.979575058,-88.248097902
+"Bell Ambulance, Inc.",Milwaukee,Paramedic with Critical Care Endorsement,911 Transporting Service,Milwaukee,Region 7,,911 Transporting Service,414-486-4044,canderson@264bell.com,42.999931,-87.902345
+Waukesha (City Of) Fire Department,Waukesha,Paramedic,911 Transporting Service,Waukesha,Region 7,,911 Transporting Service,262-524-3650,dgraff@waukesha-wi.gov,43.01184193,-88.236134983
+West Allis (City Of) Fire Department,Milwaukee,Paramedic,911 Transporting Service,West Allis,Region 7,,911 Transporting Service,414-302-8900,bmorawitz@westalliswi.gov,43.012472,-88.004007
+Brookfield (Town Of) Fire Department,Waukesha,Paramedic,911 Transporting Service,Brookfield,Region 7,,911 Transporting Service,262-796-3793,jpschilling@tbfd.org,43.037031,-88.156865
+Milwaukee County Emergency Medical Services,Milwaukee,Paramedic,911 Non-Transporting Service,Milwaukee,Region 7,,911 Non-Transporting Service,414-374-3837,dan.pojar@milwaukeecountywi.gov,43.038676,-87.919884
+Flight For Life Transport System,Waukesha,Paramedic with Critical Care Endorsement,Air Medical Service,Waukesha,Region 7,,Air Medical Service,414-778-5427,lerickson@mrmcffl.org,43.03938,-88.244096
+Marquette University Emergency Medical Services,Milwaukee,Emergency Medical Responder (EMR),911 Non-Transporting Service,Milwaukee,Region 7,,911 Non-Transporting Service,414-288-6800,liamhoyer82@gmail.com,43.039861561,-87.932767202
+Milwaukee Fire Department,Milwaukee,Paramedic,911 Transporting Service,Milwaukee,Region 7,,911 Transporting Service,414-286-8981,MCIECI@milwaukee.gov,43.040106,-87.920635
+Flight For Life Incorporated,Waukesha,Paramedic with Critical Care Endorsement,Air Medical Service,Waukesha,Region 7,,Air Medical Service,414-778-5427,lerickson@mrmcffl.org,43.040222439,-88.242720276
+Children's Hospital Of Wisconsin-Transport Team,Milwaukee,Paramedic with Critical Care Endorsement,Interfacility Transfer Service,Wauwatosa,Region 7,,Other Primary Service Type,414-266-3826,NBadertscher@childrenswi.org,43.042546553,-88.024007959
+Elm Grove Emergency Medical Service,Waukesha,Paramedic,911 Transporting Service,Elm Grove,Region 7,,911 Transporting Service,262-782-6700,emslicensing@cdell.fastmail.fm,43.045831,-88.082371
+Wauwatosa Fire Department,Milwaukee,Paramedic,911 Transporting Service,Wauwatosa,Region 7,,911 Transporting Service,414-471-8490,csandoval@wauwatosa.net,43.051658,-88.008802
+Pewaukee (City Of) Fire Department,Waukesha,Paramedic,911 Transporting Service,Waukesha,Region 7,,911 Transporting Service,262-522-2500,cook@pewaukee.wi.us,43.055912,-88.225092
+Brookfield (City Of) Fire Department,Waukesha,Paramedic,911 Transporting Service,Brookfield,Region 7,,911 Transporting Service,262-782-8932,cass@ci.brookfield.wi.us,43.057786,-88.125916
+Lake Country Fire And Rescue,Waukesha,Paramedic with Critical Care Endorsement,911 Transporting Service,Delafield,Region 7,,911 Transporting Service,262-646-6235,gherzberg@lakecountryfire.com,43.059741,-88.411733
+Medix Ambulance Service Inc.,Milwaukee,Paramedic with Critical Care Endorsement,911 Transporting Service,Milwaukee,Region 7,,911 Transporting Service,262-763-8438,aibarra@medixals.com,43.060026,-87.883614
+Curtis Universal Ambulance Service - Milwaukee,Milwaukee,Paramedic,911 Transporting Service,Milwaukee,Region 7,,911 Transporting Service,414-276-7711,drobakowski@curtisambulance.com,43.060026,-87.883514
+Western Lakes Fire District,Waukesha,Paramedic with Critical Care Endorsement,911 Transporting Service,Oconomowoc,Region 7,,911 Transporting Service,262-567-8282,bbowen@westernlakesfd.org,43.081938254,-88.466188215
+"Butler Volunteer Fire Department, Inc.",Waukesha,Emergency Medical Technician (EMT),911 Transporting Service,Butler,Region 7,,911 Transporting Service,262-783-2537,jseidl@butlerfire.org,43.104522,-88.068988
+Hartland Fire Department Rescue,Waukesha,Paramedic,911 Transporting Service,Hartland,Region 7,,911 Transporting Service,262-367-6878,davej@villageofhartland.wi.gov,43.106827,-88.344647
+Sussex Fire Department,Waukesha,Paramedic,911 Transporting Service,Sussex,Region 7,,911 Transporting Service,262-246-5197,bthew@villagesussex.org,43.13372,-88.231686
+"Merton Community Fire Department, Inc. (Dropped)",Waukesha,Emergency Medical Technician (EMT),911 Transporting Service,Merton,Region 7,,911 Transporting Service,262-538-2300,josh.paral@mertonfire.com,43.141041528,-88.30999023
+Merton (Village Of) Fire Department,Waukesha,Emergency Medical Technician (EMT),911 Transporting Service,Merton,Region 7,,911 Transporting Service,262-538-2300,info@mertonfire.com,43.141135456,-88.309745245
+Menomonee Falls (Village Of) Fire Department,Waukesha,Paramedic,911 Transporting Service,Menomonee Falls,Region 7,,911 Transporting Service,262-532-8853,rschone@menomonee-falls.org,43.153941,-88.084406
+Lisbon Fire Department (Dropped),Waukesha,Paramedic with Critical Care Endorsement,911 Transporting Service,Lisbon (Town of),Region 7,,911 Transporting Service,262-538-3902,mdrager@townoflisbonwi.com,43.174963583,-88.211205132
+North Shore Fire Department,Milwaukee,Paramedic,911 Transporting Service,Brown Deer,Region 7,,911 Transporting Service,414-357-0113,jboehlke@nsfire.org,43.177564,-87.965754
+"Superior Air Ground Ambulance Service Of Wisconsin, Inc.",Waukesha,Paramedic with Critical Care Endorsement,Interfacility Transfer Service,Menomonee Falls,Region 7,,Other Primary Service Type,630-716-0807,avandusseldorp@superiorambulance.com,43.180206,-88.089214
+Fox Point Police Department First Responders,Milwaukee,Emergency Medical Responder (EMR),911 Non-Transporting Service,Fox Point,Region 7,,911 Non-Transporting Service,414-351-8911,cfreedy@villageoffoxpoint.com,43.1821,-87.9081
+Southern Ozaukee Fire And Emergency Medical Services Department,Ozaukee,Paramedic with Critical Care Endorsement,911 Transporting Service,Mequon,Region 7,,911 Transporting Service,262-242-2530,dbialk@sofdwi.gov,43.222355724,-87.989142331
+Germantown Fire Department,Washington,Paramedic,911 Transporting Service,Germantown,Region 7,,911 Transporting Service,262-502-4701,rholms@germantownwi.gov,43.227579,-88.141819
+Richfield Volunteer Fire Company,Washington,Paramedic,911 Transporting Service,Hubertus,Region 7,,911 Transporting Service,262-628-1601,greg.west@richfieldfire.com,43.23688,-88.245131
+Richfield Fire Department,Washington,Paramedic,911 Transporting Service,Hubertus,Region 7,,911 Transporting Service,262-628-1601,ems@richfieldwi.gov,43.237463649,-88.246348418
+Cedarburg Fire Department Rescue Squad,Ozaukee,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Cedarburg,Region 7,,911 Transporting Service,262-375-7630,jvahsholtz@cityofcedarburg.wi.gov,43.298464,-87.986411
+Ozaukee Central Fire Department,Ozaukee,Paramedic,911 Transporting Service,Grafton,Region 7,,911 Transporting Service,262-375-5314,info@ozcentralfirewi.gov,43.316854709,-87.950785559
+Grafton Fire Department,Ozaukee,Paramedic,911 Transporting Service,Grafton,Region 7,,911 Transporting Service,262-375-5314,mkarpinski@ozcentralfirewi.gov,43.31688,-87.950662
+Hartford Fire & Rescue,Washington,Paramedic,911 Transporting Service,Hartford,Region 7,,911 Transporting Service,262-673-8295,edaly@hartford.wi.gov,43.32001,-88.380327
+Jackson Fire Department,Washington,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Jackson,Region 7,,911 Transporting Service,262-677-3811,aswaney@jacksonfdwi.gov,43.322,-88.1887
+Jackson Fire Department (Interfacility),Washington,Advanced Emergency Medical Technician (AEMT),Interfacility Transfer Service,Jackson,Region 7,,Other Primary Service Type,262-677-3811,aswaney@jacksonfdwi.gov,43.323395714,-88.15416209
+St. Lawrence Fire Company,Washington,Emergency Medical Responder (EMR),911 Non-Transporting Service,Hartford,Region 7,,911 Non-Transporting Service,262-644-8529,slfd2537@gmail.com,43.371605,-88.335405
+Saukville Ambulance,Ozaukee,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Saukville,Region 7,,911 Transporting Service,262-284-5800,dlaabs@village.saukville.wi.us,43.383978,-87.931818
+Port Washington Fire Department Ambulance,Ozaukee,Paramedic,911 Transporting Service,Port Washington,Region 7,,911 Transporting Service,262-284-2891,jdeboer@portwashingtonwi.gov,43.38953,-87.871159
+Charter Steel Emergency Response Team,Ozaukee,Emergency Medical Responder (EMR),911 Non-Transporting Service,Saukville,Region 7,,911 Non-Transporting Service,800-437-8789,burmescht@chartermfg.com,43.400371186,-87.949003947
+"Allenton Volunteer Fire Department, Inc.",Washington,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Allenton,Region 7,,911 Transporting Service,262-629-5413,chief1304@allentonfiredepartment.org,43.417425,-88.341501
+"Lifestar Emergency Medical Service, Llc",Washington,Paramedic with Critical Care Endorsement,911 Transporting Service,West Bend,Region 7,,911 Transporting Service,262-335-9950,mkrueger@lifestar-ems.com,43.420368,-88.199183
+West Bend (City Of) Fire Department,Washington,Paramedic,911 Transporting Service,West Bend,Region 7,,911 Transporting Service,262-335-5054,benidtm@westbendwi.gov,43.426406,-88.186081
+Newburg Fire Department Ambulance,Washington,Emergency Medical Technician (EMT),911 Transporting Service,Newburg,Region 7,,911 Transporting Service,262-675-6262,ems@newburgfirerescue.com,43.432852839,-88.046066832
+Fredonia Fire Department Ambulance,Ozaukee,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Fredonia,Region 7,,911 Transporting Service,262-692-9973,depchiefems673@fredoniawi.gov,43.468694,-87.950922
+Kohlsville Volunteer Fire Company,Washington,Emergency Medical Responder (EMR),911 Non-Transporting Service,West Bend,Region 7,,911 Non-Transporting Service,262-629-5931,kohlsvillefd@gmail.com,43.469956,-88.321648
+"Waubeka Fire Department, Inc.",Ozaukee,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Waubeka,Region 7,,911 Transporting Service,262-692-2656,ems@waubekafd.com,43.473247,-87.996309
+Fillmore Fire Department,Washington,Emergency Medical Responder (EMR),911 Non-Transporting Service,West Bend,Region 7,,911 Non-Transporting Service,262-692-2361,fillmorefd@nconnect.net,43.497898,-88.071085
+Belgium Rescue Squad First Responders,Ozaukee,Emergency Medical Responder (EMR),911 Non-Transporting Service,Belgium,Region 7,,911 Non-Transporting Service,262-285-3257,emscaptain@belgiumfd.com,43.501642,-87.852326
+Kewaskum Fire Department,Washington,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kewaskum,Region 7,,911 Non-Transporting Service,262-626-6731,jwarnkey@kewaskumwi.gov,43.517448,-88.226072
+Boltonville Volunteer Fire Department,Washington,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kewaskum,Region 7,,911 Non-Transporting Service,262-692-2231,boltonvillefd@gmail.com,43.528337,-88.099157
+Random Lake Fire Department Ambulance,Sheboygan,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Random Lake,Region 7,,911 Transporting Service,920-946-1848,assistemschief@randomlakewi.com,43.555745,-87.969306
+Cedar Grove Fire Department First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Cedar Grove,Region 7,,911 Non-Transporting Service,920-668-6415,cgfiredept@wi.rr.com,43.568575,-87.820185
+Scott (Town Of) Emergency Medical Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Adell,Region 7,,911 Non-Transporting Service,920-994-4470,tmreysen@hotmail.com,43.586347,-88.100313
+Campbellsport Volunteer Fire Department,Fond du Lac,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Campbellsport,Region 7,,911 Transporting Service,920-533-5266,info@campbellsportfire.com,43.598196,-88.271895
+Adell First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Adell,Region 7,,911 Non-Transporting Service,920-838-4326,caseihman@gmail.com,43.619125116,-87.950618414
+Oostburg Emergency Medical Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Oostburg,Region 7,,911 Non-Transporting Service,920-698-0868,captain@oostburgemr.org,43.622191,-87.80236
+Waupun Fire & Rescue Department,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Waupun,Region 7,,911 Non-Transporting Service,920-324-7910,bjdemaa@waupunpd.org,43.633312,-88.734186
+Cascade First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Cascade,Region 7,,911 Non-Transporting Service,920-838-3969,Cascaderec@hotmail.com,43.661327665,-88.000491716
+Aldrich Chemical Company First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sheboygan Falls,Region 7,,911 Non-Transporting Service,920-234-3258,brenda.blaser@milliporesigma.com,43.673892,-87.78158
+Oakfield Emergency Medical Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Oakfield,Region 7,,911 Non-Transporting Service,920-583-2511,Oakfieldemslt@gmail.com,43.683557,-88.547158
+Wilson (Town Of) First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sheboygan,Region 7,,911 Non-Transporting Service,920-458-6763,72shelleyh@gmail.com,43.686543,-87.751907
+Eden Fire Department First Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Eden,Region 7,,911 Non-Transporting Service,920-477-3131,edenfire@villageofeden.com,43.692154,-88.356819
+Sheboygan Falls (City Of) Fire Department First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sheboygan Falls,Region 7,,911 Non-Transporting Service,920-467-7914,amandasmyszewski@gmail.com,43.729423,-87.81323
+"Orange Cross Ambulance, Inc.",Sheboygan,Paramedic with Critical Care Endorsement,911 Transporting Service,Sheboygan,Region 7,,911 Transporting Service,920-694-0347,info@orangecross.org,43.729693,-87.731988
+Brandon-Fairwater First Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Brandon,Region 7,,911 Non-Transporting Service,920-904-7729,brandonfairwaterEMR@gmail.com,43.732246,-88.776036
+Lamartine Fire Department First Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Oakfield,Region 7,,911 Non-Transporting Service,608-444-5738,EMRcoordinator@townoflamartinewi.gov,43.732642,-88.565372
+Kohler (Village Of) Emergency Medical Service,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Kohler,Region 7,,911 Non-Transporting Service,920-459-3877,cgross@kohlerpolice.com,43.738023,-87.780284
+Sheboygan Falls (Town Of) First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sheboygan Falls,Region 7,,911 Non-Transporting Service,920-467-4876,tffd@tffd.org,43.739208,-87.850448
+Plymouth Volunteer Fire Department Ambulance Squad,Sheboygan,Advanced Emergency Medical Technician (AEMT),911 Transporting Service,Plymouth,Region 7,,911 Transporting Service,920-893-1331,jason.mccoy@sargento.com,43.748566,-87.979252
+Fond Du Lac (Town Of) Emergency Medical Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Fond du Lac,Region 7,,911 Non-Transporting Service,920-948-5568,tfdlfrc@gmail.com,43.7546,-88.4618
+Fond Du Lac (City Of) Fire/Rescue Department,Fond du Lac,Paramedic,911 Transporting Service,Fond du Lac,Region 7,,911 Transporting Service,920-322-3839,aaird@fdl.wi.gov,43.756253,-88.448302
+Sheboygan (City Of) Fire Department,Sheboygan,Paramedic with Critical Care Endorsement,911 Transporting Service,Sheboygan,Region 7,,911 Transporting Service,920-459-3327,Michael.lubbert@sheboyganwi.gov,43.759363,-87.739842
+Sheboygan (Town Of) Fire Department,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Sheboygan,Region 7,,911 Non-Transporting Service,920-467-6800,andrew.perman@townofsheboygan.org,43.787007,-87.779862
+Glenbeulah Fire Department First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Glenbeulah,Region 7,,911 Non-Transporting Service,920-838-6390,amulter@glenbeulahwi.gov,43.797683,-88.047827
+North Fond Du Lac Fire & Ems Department,Fond du Lac,Paramedic,911 Transporting Service,North Fond du Lac,Region 7,,911 Transporting Service,920-322-6139,amoriarty@nfdl.org,43.807884,-88.479114
+Rosendale Area First Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Rosendale Center,Region 7,,911 Non-Transporting Service,920-929-5352,dfmccoy@charter.net,43.807939,-88.670739
+Saint Cloud First Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Saint Cloud,Region 7,,911 Non-Transporting Service,920-904-2564,Jeffhorn80@yahoo.com,43.822448382,-88.165598503
+Howards Grove Fire Department First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Howards Grove (PO name Howards Grove-Millersville),Region 7,,911 Non-Transporting Service,920-565-3112,tyler.wuestenhagen@howardsgrovefd.com,43.823350832,-87.826441388
+Mount Calvary Ambulance Service,Fond du Lac,Emergency Medical Technician (EMT),911 Transporting Service,Mount Calvary,Region 7,,911 Transporting Service,920-753-6086,michaelroehrig@hotmail.com,43.82617,-88.238081
+Elkhart Lake First Responders,Sheboygan,Emergency Medical Responder (EMR),911 Non-Transporting Service,Elkhart Lake,Region 7,,911 Non-Transporting Service,920-876-2244,MMeeusen1@gmail.com,43.834052803,-88.013924985
+Ripon Guardian Ambulance Service,Fond du Lac,Paramedic,911 Transporting Service,Ripon,Region 7,,911 Transporting Service,920-748-4904,mmatuszeski@cityofripon.com,43.846439,-88.838667
+Eldorado First Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Eldorado,Region 7,,911 Non-Transporting Service,920-642-3131,eldoradowiemr@gmail.com,43.85098,-88.619102
+Van Dyne Fire Department & First Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Van Dyne,Region 7,,911 Non-Transporting Service,920-688-2293,vandynefire@gmail.com,43.886415,-88.502574
+Calumet (Town Of) Fire Department First Responders,Fond du Lac,Emergency Medical Responder (EMR),911 Non-Transporting Service,Malone,Region 7,,911 Non-Transporting Service,920-795-4500,towncalumetemr@gmail.com,43.914028,-88.323801
+,,,,,,,,,,43.9464,-89.7748
+,,,,,,,,,,46.3491,-90.7366
+,,,,,,,,,,45.4265,-91.8486
+,,,,,,,,,,46.5601,-91.2402
+,,,,,,,,,,44.4646,-87.9779
+,,,,,,,,,,44.3147,-91.722
+,,,,,,,,,,45.8994,-92.363
+,,,,,,,,,,44.0612,-88.2235
+,,,,,,,,,,45.0767,-91.2876
+,,,,,,,,,,44.7321,-90.6192
+,,,,,,,,,,43.4614,-89.3035
+,,,,,,,,,,43.2104,-90.8849
+,,,,,,,,,,43.073,-89.4247
+,,,,,,,,,,43.413,-88.7032
+,,,,,,,,,,44.9881,-87.267
+,,,,,,,,,,46.4537,-91.9223
+,,,,,,,,,,44.9461,-91.8932
+,,,,,,,,,,44.7306,-91.286
+,,,,,,,,,,45.8674,-88.3756
+,,,,,,,,,,43.7377,-88.5229
+,,,,,,,,,,45.729,-88.8616
+,,,,,,,,,,42.8621,-90.7628
+,,,,,,,,,,42.6775,-89.6024
+,,,,,,,,,,43.8078,-89.0268
+,,,,,,,,,,43.0094,-90.1334
+,,,,,,,,,,46.287,-90.2401
+,,,,,,,,,,44.3311,-90.7417
+,,,,,,,,,,43.0217,-88.7768
+,,,,,,,,,,43.9467,-90.1322
+,,,,,,,,,,42.5814,-88.0586
+,,,,,,,,,,44.5033,-87.6245
+,,,,,,,,,,43.9075,-91.1276
+,,,,,,,,,,42.6602,-90.1317
+,,,,,,,,,,45.2517,-89.0523
+,,,,,,,,,,45.3385,-89.7354
+,,,,,,,,,,44.1103,-87.8415
+,,,,,,,,,,44.8951,-89.7693
+,,,,,,,,,,45.382,-88.1503
+,,,,,,,,,,43.8129,-89.3981
+,,,,,,,,,,44.9899,-88.7347
+,,,,,,,,,,43.0178,-87.9818
+,,,,,,,,,,43.9434,-90.6118
+,,,,,,,,,,45.0268,-88.3037
+,,,,,,,,,,45.6879,-89.5447
+,,,,,,,,,,44.419,-88.4637
+,,,,,,,,,,43.3679,-87.9585
+,,,,,,,,,,44.5458,-92.0873
+,,,,,,,,,,44.7034,-92.4259
+,,,,,,,,,,45.4696,-92.4193
+,,,,,,,,,,44.4745,-89.475
+,,,,,,,,,,45.6691,-90.3605
+,,,,,,,,,,42.7271,-88.0428
+,,,,,,,,,,43.3664,-90.4289
+,,,,,,,,,,42.6692,-89.072
+,,,,,,,,,,45.4691,-91.1092
+,,,,,,,,,,45.0351,-92.4543
+,,,,,,,,,,43.3945,-89.8965
+,,,,,,,,,,45.902,-91.1097
+,,,,,,,,,,44.8071,-88.7375
+,,,,,,,,,,43.715,-87.9328
+,,,,,,,,,,45.2065,-90.4856
+,,,,,,,,,,44.2856,-91.3478
+,,,,,,,,,,43.5769,-90.7714
+,,,,,,,,,,46.0789,-89.4371
+,,,,,,,,,,42.6678,-88.5413
+,,,,,,,,,,45.9017,-91.7871
+,,,,,,,,,,43.3686,-88.2293
+,,,,,,,,,,43.0181,-88.3044
+,,,,,,,,,,44.4525,-88.9801
+,,,,,,,,,,44.1173,-89.2418
+,,,,,,,,,,44.0677,-88.6452
+,,,,,,,,,,44.4689,-90.0212
