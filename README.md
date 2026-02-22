@@ -1,4 +1,4 @@
-# PULSE: Predictive Urban Location Safety Engine
+# PULSE: Predictive Urban Logistics & Safety Engine
 
 Turn historical crash data, live weather, and road conditions into actionable safety intelligence — with a built-in simulator to plan before harm occurs.
 
@@ -10,11 +10,17 @@ PULSE is a decision-support system for urban safety and EMS resource planning. I
 
 ---
 
+## Problem
+
+Most safety tools stop at the heatmap. PULSE is designed around the next question every operator actually asks: *"So what do we do about it?"*
+
+---
+
 ## How It Works
 
-1. **Risk Forecasting** — Machine learning models trained on Wisconsin crash data, weather, and road conditions generate short-term risk predictions across Madison, gridded by location and time.
+1. **Risk Forecasting** — Machine learning models trained on Madison crash data, weather, and road conditions generate short-term risk predictions across Madison, gridded by location and time.
 
-2. **What-If Simulator** — Adjust conditions and proposed interventions (speed limit changes, lighting improvements, event traffic) and see how predicted risk shifts. This is the core of PULSE — not just "here's the risk," but "here's what changes if you act."
+2. **What-If Simulator** — Adjust conditions and proposed interventions (speed limit changes, lighting improvements, event traffic) and see how predicted risk shifts. This is a core feature of PULSE — not just "here's the risk," but "here's what changes if you act."
 
 3. **EMS Deployment Recommendations** — Based on current forecasts, PULSE suggests optimal pre-positioning of limited emergency resources to minimize expected response time and harm.
 
@@ -72,13 +78,7 @@ PULSE is a decision-support system for urban safety and EMS resource planning. I
 
 ---
 
-## Problem
-
-Most safety tools stop at the heatmap. PULSE is designed around the next question every operator actually asks: *"So what do we do about it?"*
-
----
-
-## Roadmap
+## Roadmap to scaling
 
 - Real-time 911 dispatch integration
 - Multi-city deployment beyond Madison
