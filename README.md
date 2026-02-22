@@ -109,6 +109,8 @@ Most safety tools stop at the heatmap. PULSE is designed around the next questio
 
 <div align="center">
 
-*Built for MadData 2026 — Madison, WI* 🗺️
+*Built for MadData 2026 — Madison, WI* 
+<br>
+*By Abhinav, Niyati, Sahana*
 
 </div>
