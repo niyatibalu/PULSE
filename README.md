@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="your-logo-here.png" alt="PULSE Logo" width="180"/>
+<img src="Pulse logo.png" alt="PULSE Logo" width="180"/>
 
 # PULSE
 ### Predictive Urban Logistics & Safety Engine
