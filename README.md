@@ -1,36 +1,56 @@
-# PULSE: Predictive Urban Logistics & Safety Engine
+<div align="center">
 
-Turn historical crash data, live weather, and road conditions into actionable safety intelligence — with a built-in simulator to plan before harm occurs.
+<img src="your-logo-here.png" alt="PULSE Logo" width="180"/>
+
+# PULSE
+### Predictive Urban Logistics & Safety Engine
+
+*Turn historical crash data, live weather, and road conditions into actionable safety intelligence —*
+*with a built-in simulator to plan before harm occurs.*
+
+</div>
 
 ---
 
-## Overview
+## 🌟 Overview
 
 PULSE is a decision-support system for urban safety and EMS resource planning. It doesn't just tell you where accidents are likely — it helps city planners, dispatchers, and analysts figure out what to do about it, and what happens if they do something different.
 
 ---
 
-## Problem
+## 💡 Problem
 
-Most safety tools stop at the heatmap. PULSE is designed around the next question every operator actually asks: *"So what do we do about it?"*
+Most safety tools stop at the heatmap. PULSE is designed around the next question every operator actually asks:
 
----
+<div align="center">
 
-## How It Works
+**"So what do we do about it?"**
 
-1. **Risk Forecasting** — Machine learning models trained on Madison crash data, weather, and road conditions generate short-term risk predictions across Madison, gridded by location and time.
-
-2. **What-If Simulator** — Adjust conditions and proposed interventions (speed limit changes, lighting improvements, event traffic) and see how predicted risk shifts. This is a core feature of PULSE — not just "here's the risk," but "here's what changes if you act."
-
-3. **EMS Deployment Recommendations** — Based on current forecasts, PULSE suggests optimal pre-positioning of limited emergency resources to minimize expected response time and harm.
-
-4. **Equity View** — Overlays census data to surface neighborhoods with persistently high risk and lower service coverage, so resource decisions can account for fairness, not just efficiency.
-
-5. **Explainable Outputs** — Every forecast comes with a plain-language summary of the driving factors: weather, time of day, traffic volume, recent incidents.
+</div>
 
 ---
 
-## Key Features
+## ⚙️ How It Works
+
+1. 📊 **Risk Forecasting** — Machine learning models trained on Madison crash data, weather, and road conditions generate short-term risk predictions across Madison, gridded by location and time.
+   
+3. 🔁 **What-If Simulator** — Adjust conditions and proposed interventions (speed limit changes, lighting improvements, event traffic) and see how predicted risk shifts. This is a core feature of PULSE — not just "here's the risk," but "here's what changes if you act."
+   
+5. 🚑 **EMS Deployment Recommendations** — Based on current forecasts, PULSE suggests optimal pre-positioning of limited emergency resources to minimize expected response time and harm.
+   
+7. ⚖️ **Equity View** — Overlays census data to surface neighborhoods with persistently high risk and lower service coverage, so resource decisions can account for fairness, not just efficiency.
+   
+9. 💬 **Explainable Outputs** — Every forecast comes with a plain-language summary of the driving factors: weather, time of day, traffic volume, recent incidents.
+
+---
+
+## 🧩 Key Features
+
+<div align="center">
+
+**Prediction** &nbsp;|&nbsp; **Simulation** &nbsp;|&nbsp; **Optimization** &nbsp;|&nbsp; **Explainability**
+</div>
+<br>
 
 **Prediction**
 - Gradient boosted ML model trained on WisDOT statewide crash records
@@ -54,7 +74,7 @@ Most safety tools stop at the heatmap. PULSE is designed around the next questio
 
 ---
 
-## Tech Stack
+## 🧑‍💻 Tech Stack
 
 **Data**
 - WisDOT Crash Records (statewide, severity + coordinates)
@@ -78,7 +98,7 @@ Most safety tools stop at the heatmap. PULSE is designed around the next questio
 
 ---
 
-## Roadmap to scaling
+## 🚀 Roadmap to Scaling
 
 - Real-time 911 dispatch integration
 - Multi-city deployment beyond Madison
@@ -87,4 +107,8 @@ Most safety tools stop at the heatmap. PULSE is designed around the next questio
 
 ---
 
-*Built for MadData 2025 — Madison, WI*
+<div align="center">
+
+*Built for MadData 2025 — Madison, WI* 🗺️
+
+</div>
