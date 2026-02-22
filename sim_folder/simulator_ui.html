@@ -1,0 +1,1147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Urban Safety · Policy Simulator</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:       #0b0f14;
+    --surface:  #111720;
+    --border:   #1e2a38;
+    --border2:  #253347;
+    --text:     #d4dde8;
+    --muted:    #5a7090;
+    --accent:   #00d4ff;
+    --green:    #00e89c;
+    --yellow:   #f5c842;
+    --red:      #ff4757;
+    --orange:   #ff8c42;
+    --mono:     'IBM Plex Mono', monospace;
+    --sans:     'DM Sans', sans-serif;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* ── HEADER ── */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 0 32px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #0d121a;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .logo {
+    font-family: var(--mono);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: var(--accent);
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .logo::before {
+    content: '';
+    width: 8px; height: 8px;
+    background: var(--accent);
+    border-radius: 50%;
+    box-shadow: 0 0 8px var(--accent);
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.4} }
+
+  .header-badge {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+    letter-spacing: 0.05em;
+  }
+
+  /* ── LAYOUT ── */
+  .app-grid {
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    min-height: calc(100vh - 60px);
+  }
+
+  /* ── LEFT PANEL ── */
+  .left-panel {
+    border-right: 1px solid var(--border);
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .panel-section {
+    border-bottom: 1px solid var(--border);
+    padding: 20px 24px;
+  }
+
+  .section-label {
+    font-family: var(--mono);
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 16px;
+  }
+
+  /* ── PRESETS ── */
+  .presets-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .preset-btn {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 10px 12px;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-align: left;
+    color: var(--text);
+    font-family: var(--sans);
+  }
+  .preset-btn:hover {
+    border-color: var(--accent);
+    background: #0f1e2e;
+  }
+  .preset-btn.active {
+    border-color: var(--accent);
+    background: #0a1f30;
+  }
+  .preset-name { font-size: 12px; font-weight: 500; margin-bottom: 3px; }
+  .preset-desc { font-size: 11px; color: var(--muted); }
+
+  /* ── POLICY SLIDERS ── */
+  .policy-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    transition: border-color 0.15s;
+  }
+  .policy-card:last-child { margin-bottom: 0; }
+  .policy-card.active { border-color: var(--accent); }
+
+  .policy-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  .policy-name-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .policy-icon { font-size: 18px; }
+  .policy-label { font-size: 13px; font-weight: 500; }
+  .policy-toggle {
+    width: 36px; height: 20px;
+    background: var(--border2);
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    transition: background 0.2s;
+    flex-shrink: 0;
+  }
+  .policy-toggle.on { background: var(--accent); }
+  .policy-toggle::after {
+    content: '';
+    position: absolute;
+    top: 3px; left: 3px;
+    width: 14px; height: 14px;
+    background: white;
+    border-radius: 50%;
+    transition: transform 0.2s;
+  }
+  .policy-toggle.on::after { transform: translateX(16px); }
+
+  .policy-slider-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    opacity: 0.3;
+    transition: opacity 0.2s;
+    pointer-events: none;
+  }
+  .policy-slider-row.enabled {
+    opacity: 1;
+    pointer-events: all;
+  }
+  .slider {
+    flex: 1;
+    -webkit-appearance: none;
+    height: 4px;
+    border-radius: 2px;
+    background: var(--border2);
+    outline: none;
+  }
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 16px; height: 16px;
+    border-radius: 50%;
+    background: var(--accent);
+    cursor: pointer;
+    box-shadow: 0 0 6px rgba(0,212,255,0.5);
+  }
+  .slider-value {
+    font-family: var(--mono);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--accent);
+    min-width: 20px;
+    text-align: right;
+  }
+
+  .research-note {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid var(--border);
+    display: none;
+  }
+  .policy-card.active .research-note { display: block; }
+
+  /* ── CONTEXT OVERRIDES ── */
+  .context-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+  .context-field label {
+    display: block;
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 4px;
+    font-family: var(--mono);
+  }
+  .context-field select,
+  .context-field input {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 7px 10px;
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 13px;
+    outline: none;
+  }
+  .context-field select:focus,
+  .context-field input:focus { border-color: var(--accent); }
+
+  /* ── RUN BUTTON ── */
+  .run-btn {
+    width: 100%;
+    background: var(--accent);
+    color: #000;
+    border: none;
+    border-radius: 8px;
+    padding: 14px;
+    font-family: var(--mono);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.2s;
+    position: relative;
+    overflow: hidden;
+  }
+  .run-btn:hover { background: #00eaff; transform: translateY(-1px); }
+  .run-btn:active { transform: translateY(0); }
+  .run-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+  .run-btn.loading::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.3) 50%, transparent 100%);
+    animation: shimmer 1s infinite;
+  }
+  @keyframes shimmer { 0%{transform:translateX(-100%)} 100%{transform:translateX(100%)} }
+
+  /* ── RIGHT PANEL ── */
+  .right-panel {
+    padding: 28px 32px;
+    overflow-y: auto;
+  }
+
+  .result-placeholder {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--muted);
+    gap: 12px;
+    text-align: center;
+  }
+  .result-placeholder .big-icon { font-size: 48px; opacity: 0.3; }
+  .result-placeholder p { font-size: 14px; max-width: 300px; }
+
+  .results-area { display: none; }
+  .results-area.visible { display: block; }
+
+  /* ── METRIC CARDS ── */
+  .metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  .metric-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 16px;
+    position: relative;
+    overflow: hidden;
+  }
+  .metric-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+  }
+  .metric-card.green::before  { background: var(--green); }
+  .metric-card.blue::before   { background: var(--accent); }
+  .metric-card.yellow::before { background: var(--yellow); }
+  .metric-card.red::before    { background: var(--red); }
+
+  .metric-label {
+    font-size: 11px;
+    color: var(--muted);
+    font-family: var(--mono);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .metric-value {
+    font-size: 28px;
+    font-weight: 700;
+    font-family: var(--mono);
+    line-height: 1;
+    margin-bottom: 4px;
+  }
+  .metric-card.green  .metric-value { color: var(--green); }
+  .metric-card.blue   .metric-value { color: var(--accent); }
+  .metric-card.yellow .metric-value { color: var(--yellow); }
+  .metric-card.red    .metric-value { color: var(--red); }
+  .metric-sub {
+    font-size: 11px;
+    color: var(--muted);
+  }
+
+  /* ── COMPARISON BAR ── */
+  .comparison-section {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .comparison-title {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 16px;
+  }
+  .risk-bar-row {
+    margin-bottom: 16px;
+  }
+  .risk-bar-label {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-bottom: 6px;
+  }
+  .risk-bar-label span:first-child { color: var(--muted); }
+  .risk-bar-label span:last-child { font-family: var(--mono); font-weight: 600; }
+  .risk-bar-track {
+    height: 8px;
+    background: var(--border);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .risk-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+  .risk-bar-fill.baseline { background: var(--red); }
+  .risk-bar-fill.modified { background: var(--green); }
+
+  /* ── CONFIDENCE BAND ── */
+  .ci-band {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    margin-top: 8px;
+    color: var(--muted);
+  }
+  .ci-range {
+    flex: 1;
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    position: relative;
+  }
+  .ci-range-fill {
+    position: absolute;
+    height: 100%;
+    background: rgba(0,212,255,0.3);
+    border-radius: 3px;
+    border: 1px solid var(--accent);
+    transition: all 0.8s ease;
+  }
+  .ci-point {
+    position: absolute;
+    top: -3px;
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    background: var(--accent);
+    transform: translateX(-50%);
+    transition: left 0.8s ease;
+  }
+
+  /* ── POLICY CONTRIBUTION BARS ── */
+  .contributions-section {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  .contrib-bar-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+  .contrib-bar-row:last-child { margin-bottom: 0; }
+  .contrib-label {
+    font-size: 12px;
+    width: 200px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .contrib-track {
+    flex: 1;
+    height: 6px;
+    background: var(--border);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .contrib-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent), var(--green));
+    border-radius: 3px;
+    transition: width 0.8s ease;
+  }
+  .contrib-pct {
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--green);
+    min-width: 40px;
+    text-align: right;
+  }
+
+  /* ── EXPLANATION BOX ── */
+  .explanation-box {
+    background: #0a1520;
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 8px 8px 0;
+    padding: 16px 20px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    line-height: 1.7;
+    color: #a8c4d8;
+  }
+
+  /* ── CRASH ESTIMATE ── */
+  .crash-estimate {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .crash-big-number {
+    font-family: var(--mono);
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--green);
+    line-height: 1;
+    flex-shrink: 0;
+  }
+  .crash-detail {
+    flex: 1;
+  }
+  .crash-detail h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+  .crash-detail p {
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+  .crash-range {
+    display: flex;
+    gap: 16px;
+  }
+  .crash-range-item {
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .crash-range-item span {
+    display: block;
+    font-family: var(--mono);
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text);
+  }
+
+  /* ── UNCERTAINTY BADGE ── */
+  .uncertainty-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 5px 12px;
+    font-size: 11px;
+    font-family: var(--mono);
+  }
+  .uncertainty-dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+  }
+  .uncertainty-dot.low    { background: var(--green); }
+  .uncertainty-dot.medium { background: var(--yellow); }
+  .uncertainty-dot.high   { background: var(--red); }
+
+  /* ── ERROR BANNER ── */
+  .error-banner {
+    background: rgba(255,71,87,0.1);
+    border: 1px solid var(--red);
+    border-radius: 8px;
+    padding: 16px;
+    color: var(--red);
+    font-size: 13px;
+    margin-bottom: 20px;
+    display: none;
+  }
+
+  /* ── COMPARE TAB ── */
+  .tab-bar {
+    display: flex;
+    gap: 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 24px;
+  }
+  .tab {
+    padding: 10px 20px;
+    font-size: 13px;
+    font-family: var(--mono);
+    cursor: pointer;
+    color: var(--muted);
+    border-bottom: 2px solid transparent;
+    transition: all 0.15s;
+  }
+  .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 900px) {
+    .app-grid { grid-template-columns: 1fr; }
+    .metrics-grid { grid-template-columns: 1fr 1fr; }
+    .left-panel { border-right: none; border-bottom: 1px solid var(--border); }
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 2px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Urban Safety · Policy Simulator</div>
+  <div class="header-badge">Madison, WI &nbsp;·&nbsp; WisDOT Data &nbsp;·&nbsp; ML-Powered</div>
+</header>
+
+<div class="app-grid">
+
+  <!-- ── LEFT PANEL ── -->
+  <div class="left-panel">
+
+    <!-- Presets -->
+    <div class="panel-section">
+      <div class="section-label">Quick Scenario Presets</div>
+      <div class="presets-grid" id="presets-grid"></div>
+    </div>
+
+    <!-- Policies -->
+    <div class="panel-section" style="flex:1">
+      <div class="section-label">Policy Levers</div>
+      <div id="policy-list"></div>
+    </div>
+
+    <!-- Context -->
+    <div class="panel-section">
+      <div class="section-label">Scenario Context (Optional)</div>
+      <div class="context-row">
+        <div class="context-field">
+          <label>WEATHER</label>
+          <select id="ctx-weather">
+            <option value="">— Any —</option>
+            <option value="0">Clear</option>
+            <option value="1">Rain</option>
+            <option value="2">Snow / Ice</option>
+            <option value="3">Fog / Low Visibility</option>
+          </select>
+        </div>
+        <div class="context-field">
+          <label>TIME OF DAY</label>
+          <select id="ctx-hour">
+            <option value="">— Any —</option>
+            <option value="8">Morning Rush (8am)</option>
+            <option value="13">Midday (1pm)</option>
+            <option value="17">Afternoon Rush (5pm)</option>
+            <option value="22">Night (10pm)</option>
+          </select>
+        </div>
+        <div class="context-field">
+          <label>ROAD SURFACE</label>
+          <select id="ctx-surface">
+            <option value="">— Any —</option>
+            <option value="0">Dry</option>
+            <option value="1">Wet</option>
+            <option value="2">Snow / Ice</option>
+          </select>
+        </div>
+        <div class="context-field">
+          <label>MONTH</label>
+          <select id="ctx-month">
+            <option value="">— Any —</option>
+            <option value="1">January</option>
+            <option value="3">March</option>
+            <option value="7">July</option>
+            <option value="11">November</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Run -->
+    <div class="panel-section">
+      <button class="run-btn" id="run-btn" onclick="runSimulation()">
+        ▶ &nbsp; RUN SIMULATION
+      </button>
+    </div>
+
+  </div>
+
+  <!-- ── RIGHT PANEL ── -->
+  <div class="right-panel">
+
+    <div class="result-placeholder" id="placeholder">
+      <div class="big-icon">🗺️</div>
+      <p>Configure policy levers on the left and run a simulation to see projected impact.</p>
+      <p style="font-size:11px;margin-top:8px;">Requires: <code style="font-family:var(--mono);color:var(--accent)">python simulator_api.py</code> running on port 5050</p>
+    </div>
+
+    <div class="results-area" id="results-area">
+
+      <div class="error-banner" id="error-banner"></div>
+
+      <div class="tab-bar">
+        <div class="tab active" onclick="showTab('impact')">Impact Analysis</div>
+        <div class="tab" onclick="showTab('breakdown')">Policy Breakdown</div>
+        <div class="tab" onclick="showTab('explanation')">AI Explanation</div>
+      </div>
+
+      <!-- Impact Tab -->
+      <div id="tab-impact">
+        <div class="metrics-grid">
+          <div class="metric-card green">
+            <div class="metric-label">Risk Reduction</div>
+            <div class="metric-value" id="m-reduction">—</div>
+            <div class="metric-sub" id="m-ci">CI: — — —</div>
+          </div>
+          <div class="metric-card blue">
+            <div class="metric-label">Predicted Severity</div>
+            <div class="metric-value" id="m-severity">—</div>
+            <div class="metric-sub">vs <span id="m-baseline-val">—</span> baseline</div>
+          </div>
+          <div class="metric-card yellow">
+            <div class="metric-label">Crashes Prevented</div>
+            <div class="metric-value" id="m-crashes">—</div>
+            <div class="metric-sub" id="m-crashes-range">est. annually</div>
+          </div>
+          <div class="metric-card red" id="card-uncertainty">
+            <div class="metric-label">Model Uncertainty</div>
+            <div class="metric-value" id="m-uncertainty">—</div>
+            <div class="metric-sub" id="m-uncertainty-label">confidence score</div>
+          </div>
+        </div>
+
+        <div class="comparison-section">
+          <div class="comparison-title">Risk Before vs After Intervention</div>
+          <div class="risk-bar-row">
+            <div class="risk-bar-label">
+              <span>Baseline Risk Level</span>
+              <span id="bar-baseline-val" style="color:var(--red)">—</span>
+            </div>
+            <div class="risk-bar-track">
+              <div class="risk-bar-fill baseline" id="bar-baseline" style="width:0%"></div>
+            </div>
+          </div>
+          <div class="risk-bar-row">
+            <div class="risk-bar-label">
+              <span>Simulated Risk Level</span>
+              <span id="bar-modified-val" style="color:var(--green)">—</span>
+            </div>
+            <div class="risk-bar-track">
+              <div class="risk-bar-fill modified" id="bar-modified" style="width:0%"></div>
+            </div>
+          </div>
+          <div class="ci-band">
+            <span id="ci-low-label" style="font-family:var(--mono);font-size:11px">—%</span>
+            <div class="ci-range" id="ci-range">
+              <div class="ci-range-fill" id="ci-fill" style="left:10%;right:10%"></div>
+              <div class="ci-point" id="ci-point" style="left:50%"></div>
+            </div>
+            <span id="ci-high-label" style="font-family:var(--mono);font-size:11px">—%</span>
+          </div>
+          <div style="text-align:center;margin-top:4px">
+            <div class="uncertainty-badge">
+              <div class="uncertainty-dot" id="unc-dot"></div>
+              <span id="unc-label">—</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="crash-estimate">
+          <div class="crash-big-number" id="crash-number">—</div>
+          <div class="crash-detail">
+            <h3>Estimated Annual Crash Reductions</h3>
+            <p>Based on ~4,500 annual crashes in Madison region</p>
+            <div class="crash-range">
+              <div class="crash-range-item">
+                Conservative<span id="crash-low">—</span>
+              </div>
+              <div class="crash-range-item">
+                Expected<span id="crash-est">—</span>
+              </div>
+              <div class="crash-range-item">
+                Optimistic<span id="crash-high">—</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Breakdown Tab -->
+      <div id="tab-breakdown" style="display:none">
+        <div class="contributions-section">
+          <div class="comparison-title">Policy Contribution to Risk Reduction</div>
+          <div id="contrib-bars"></div>
+        </div>
+        <div class="contributions-section">
+          <div class="comparison-title">Feature-Level Changes</div>
+          <div id="feature-impacts"></div>
+        </div>
+      </div>
+
+      <!-- Explanation Tab -->
+      <div id="tab-explanation" style="display:none">
+        <div class="explanation-box" id="explanation-text"></div>
+        <div class="contributions-section" id="research-notes-box" style="display:none">
+          <div class="comparison-title">Research Evidence</div>
+          <div id="research-notes"></div>
+        </div>
+        <div class="contributions-section">
+          <div class="comparison-title">Model Performance</div>
+          <div id="model-meta" style="font-size:12px;color:var(--muted);line-height:2"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script>
+  const API = "http://localhost:5050/api";
+
+  // ── Policy definitions (mirror of backend) ────────────────────────────────
+  const POLICIES = {
+    speed_limit_reduction:           { label: "Speed Limit Reduction",         icon: "🚦", default: 0 },
+    stop_sign_increase:              { label: "Add Stop Signs / All-Way Stops", icon: "🛑", default: 0 },
+    street_lighting_improvement:     { label: "Street Lighting Improvement",    icon: "💡", default: 0 },
+    road_surface_improvement:        { label: "Road Surface Improvement",       icon: "🛣️", default: 0 },
+    traffic_calming_measures:        { label: "Traffic Calming Measures",       icon: "🔄", default: 0 },
+    pedestrian_crossing_improvements:{ label: "Pedestrian Crossing Upgrades",   icon: "🚶", default: 0 },
+    visibility_enhancement:          { label: "Visibility Enhancement",         icon: "🪧", default: 0 },
+    weather_responsive_treatment:    { label: "Weather-Responsive Treatment",   icon: "❄️", default: 0 },
+  };
+
+  const PRESETS = {
+    safe_streets_lite: {
+      label: "Safe Streets Lite", desc: "Quick wins",
+      policies: { street_lighting_improvement: 5, visibility_enhancement: 6, pedestrian_crossing_improvements: 5 }
+    },
+    speed_first: {
+      label: "Speed Focus", desc: "Reduce speed risk",
+      policies: { speed_limit_reduction: 8, stop_sign_increase: 6, traffic_calming_measures: 7 }
+    },
+    winter_ready: {
+      label: "Winter Ready", desc: "WI winters",
+      policies: { weather_responsive_treatment: 9, road_surface_improvement: 7, street_lighting_improvement: 5 }
+    },
+    full_bundle: {
+      label: "Full Bundle", desc: "All policies ×7",
+      policies: Object.fromEntries(Object.keys(POLICIES).map(k => [k, 7]))
+    },
+  };
+
+  let policyStates = {};  // {policyKey: {enabled: bool, value: 1-10}}
+  let activePreset = null;
+  let lastResult   = null;
+
+  // ── Init ──────────────────────────────────────────────────────────────────
+  function init() {
+    // Initialize states
+    Object.keys(POLICIES).forEach(k => {
+      policyStates[k] = { enabled: false, value: 5 };
+    });
+    renderPresets();
+    renderPolicies();
+    fetchModelMeta();
+  }
+
+  function renderPresets() {
+    const grid = document.getElementById("presets-grid");
+    grid.innerHTML = Object.entries(PRESETS).map(([id, p]) => `
+      <button class="preset-btn" id="preset-${id}" onclick="applyPreset('${id}')">
+        <div class="preset-name">${p.label}</div>
+        <div class="preset-desc">${p.desc}</div>
+      </button>
+    `).join("");
+  }
+
+  function renderPolicies() {
+    const list = document.getElementById("policy-list");
+    list.innerHTML = Object.entries(POLICIES).map(([key, info]) => `
+      <div class="policy-card" id="card-${key}">
+        <div class="policy-header">
+          <div class="policy-name-row">
+            <span class="policy-icon">${info.icon}</span>
+            <span class="policy-label">${info.label}</span>
+          </div>
+          <button class="policy-toggle" id="toggle-${key}" onclick="togglePolicy('${key}')"></button>
+        </div>
+        <div class="policy-slider-row" id="slider-row-${key}">
+          <input type="range" class="slider" min="1" max="10" value="5"
+                 id="slider-${key}"
+                 oninput="updateSlider('${key}', this.value)">
+          <span class="slider-value" id="val-${key}">5</span>
+        </div>
+        <div class="research-note" id="note-${key}"></div>
+      </div>
+    `).join("");
+  }
+
+  function togglePolicy(key) {
+    policyStates[key].enabled = !policyStates[key].enabled;
+    const toggle  = document.getElementById(`toggle-${key}`);
+    const row     = document.getElementById(`slider-row-${key}`);
+    const card    = document.getElementById(`card-${key}`);
+    if (policyStates[key].enabled) {
+      toggle.classList.add("on");
+      row.classList.add("enabled");
+      card.classList.add("active");
+    } else {
+      toggle.classList.remove("on");
+      row.classList.remove("enabled");
+      card.classList.remove("active");
+    }
+    activePreset = null;
+    document.querySelectorAll(".preset-btn").forEach(b => b.classList.remove("active"));
+  }
+
+  function updateSlider(key, val) {
+    policyStates[key].value = parseInt(val);
+    document.getElementById(`val-${key}`).textContent = val;
+  }
+
+  function applyPreset(id) {
+    activePreset = id;
+    // Reset all
+    Object.keys(POLICIES).forEach(k => {
+      policyStates[k].enabled = false;
+      const toggle = document.getElementById(`toggle-${k}`);
+      const row    = document.getElementById(`slider-row-${k}`);
+      const card   = document.getElementById(`card-${k}`);
+      if (toggle) { toggle.classList.remove("on"); row.classList.remove("enabled"); card.classList.remove("active"); }
+    });
+    // Apply preset
+    const preset = PRESETS[id];
+    Object.entries(preset.policies).forEach(([k, v]) => {
+      if (policyStates[k] !== undefined) {
+        policyStates[k].enabled = true;
+        policyStates[k].value   = v;
+        const toggle  = document.getElementById(`toggle-${k}`);
+        const row     = document.getElementById(`slider-row-${k}`);
+        const card    = document.getElementById(`card-${k}`);
+        const slider  = document.getElementById(`slider-${k}`);
+        const valEl   = document.getElementById(`val-${k}`);
+        if (toggle) {
+          toggle.classList.add("on");
+          row.classList.add("enabled");
+          card.classList.add("active");
+          slider.value = v;
+          valEl.textContent = v;
+        }
+      }
+    });
+    document.querySelectorAll(".preset-btn").forEach(b => b.classList.remove("active"));
+    document.getElementById(`preset-${id}`)?.classList.add("active");
+  }
+
+  // ── Simulation ─────────────────────────────────────────────────────────────
+  async function runSimulation() {
+    const activePolicies = Object.fromEntries(
+      Object.entries(policyStates)
+        .filter(([k, s]) => s.enabled)
+        .map(([k, s]) => [k, s.value])
+    );
+
+    if (Object.keys(activePolicies).length === 0) {
+      showError("Enable at least one policy lever before running a simulation.");
+      return;
+    }
+
+    const context = {};
+    ["weather", "hour", "surface", "month"].forEach(k => {
+      const el = document.getElementById(`ctx-${k}`);
+      if (el && el.value !== "") {
+        const map = { weather: "weather_code", hour: "hour", surface: "road_surface_code", month: "month" };
+        context[map[k]] = parseFloat(el.value);
+      }
+    });
+
+    const btn = document.getElementById("run-btn");
+    btn.disabled = true;
+    btn.classList.add("loading");
+    btn.textContent = "SIMULATING…";
+    hideError();
+
+    try {
+      const res = await fetch(`${API}/simulate`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          policies: activePolicies,
+          context: Object.keys(context).length ? context : undefined
+        })
+      });
+
+      if (!res.ok) {
+        const err = await res.json();
+        throw new Error(err.error || `HTTP ${res.status}`);
+      }
+
+      const data = await res.json();
+      lastResult = data;
+      renderResults(data, activePolicies);
+
+    } catch (e) {
+      showError(`Simulation failed: ${e.message}\n\nMake sure simulator_api.py is running on port 5050.`);
+    } finally {
+      btn.disabled = false;
+      btn.classList.remove("loading");
+      btn.textContent = "▶  RUN SIMULATION";
+    }
+  }
+
+  function renderResults(d, policies) {
+    document.getElementById("placeholder").style.display = "none";
+    const area = document.getElementById("results-area");
+    area.classList.add("visible");
+
+    // Metrics
+    const redPct = d.risk_reduction_pct;
+    document.getElementById("m-reduction").textContent  = `${redPct.toFixed(1)}%`;
+    document.getElementById("m-ci").textContent         = `CI: ${d.confidence_interval[0].toFixed(1)}%–${d.confidence_interval[1].toFixed(1)}%`;
+    document.getElementById("m-severity").textContent   = d.predicted_risk.toFixed(2);
+    document.getElementById("m-baseline-val").textContent = d.baseline_risk.toFixed(2);
+    document.getElementById("m-crashes").textContent    = d.crash_count_reduction.estimated.toLocaleString();
+    document.getElementById("m-crashes-range").textContent = "est. annually";
+    document.getElementById("m-uncertainty").textContent = `${d.uncertainty_score.toFixed(1)}%`;
+
+    // Uncertainty color
+    const unc = d.uncertainty_score;
+    const uncDot   = document.getElementById("unc-dot");
+    const uncLabel = document.getElementById("unc-label");
+    uncDot.className   = `uncertainty-dot ${unc < 5 ? "low" : unc < 12 ? "medium" : "high"}`;
+    uncLabel.textContent = `Uncertainty: ${unc < 5 ? "Low" : unc < 12 ? "Moderate" : "High"} (${unc.toFixed(1)}%)`;
+
+    // Risk bars
+    const maxRisk = Math.max(d.baseline_risk, 5);
+    document.getElementById("bar-baseline-val").textContent = d.baseline_risk.toFixed(3);
+    document.getElementById("bar-modified-val").textContent = d.predicted_risk.toFixed(3);
+    setTimeout(() => {
+      document.getElementById("bar-baseline").style.width = `${(d.baseline_risk / maxRisk * 100).toFixed(1)}%`;
+      document.getElementById("bar-modified").style.width = `${(d.predicted_risk / maxRisk * 100).toFixed(1)}%`;
+    }, 50);
+
+    // CI band
+    const lo = d.confidence_interval[0], hi = d.confidence_interval[1];
+    const maxCI = 80;
+    document.getElementById("ci-low-label").textContent  = `${lo.toFixed(1)}%`;
+    document.getElementById("ci-high-label").textContent = `${hi.toFixed(1)}%`;
+    setTimeout(() => {
+      document.getElementById("ci-fill").style.left  = `${lo/maxCI*100}%`;
+      document.getElementById("ci-fill").style.right = `${(1-hi/maxCI)*100}%`;
+      document.getElementById("ci-point").style.left = `${redPct/maxCI*100}%`;
+    }, 100);
+
+    // Crash estimate
+    const cr = d.crash_count_reduction;
+    document.getElementById("crash-number").textContent = cr.estimated.toLocaleString();
+    document.getElementById("crash-low").textContent    = cr.low.toLocaleString();
+    document.getElementById("crash-est").textContent    = cr.estimated.toLocaleString();
+    document.getElementById("crash-high").textContent   = cr.high.toLocaleString();
+
+    // Policy breakdown
+    const contribEl = document.getElementById("contrib-bars");
+    contribEl.innerHTML = Object.entries(d.policy_contributions)
+      .sort((a,b) => b[1] - a[1])
+      .map(([k, v]) => {
+        const info = POLICIES[k] || { icon: "📌", label: k };
+        return `
+          <div class="contrib-bar-row">
+            <div class="contrib-label">
+              <span>${info.icon}</span>
+              <span>${info.label}</span>
+            </div>
+            <div class="contrib-track">
+              <div class="contrib-fill" style="width:${Math.min(v*4,100)}%"></div>
+            </div>
+            <div class="contrib-pct">${v.toFixed(1)}%</div>
+          </div>`;
+      }).join("");
+
+    // Feature impacts
+    const featEl = document.getElementById("feature-impacts");
+    featEl.innerHTML = Object.entries(d.feature_impacts || {}).map(([k, v]) => {
+      const dir = v < 0 ? "↓" : "↑";
+      const col = v < 0 ? "var(--green)" : "var(--red)";
+      return `<div style="display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--border);font-size:12px">
+        <span style="color:var(--muted)">${k.replace(/_/g," ")}</span>
+        <span style="font-family:var(--mono);color:${col}">${dir} ${Math.abs(v).toFixed(3)}</span>
+      </div>`;
+    }).join("") || "<p style='color:var(--muted);font-size:12px'>No direct feature changes detected.</p>";
+
+    // Explanation
+    document.getElementById("explanation-text").textContent = d.explanation;
+
+    // Research notes
+    const notes = d.research_notes || {};
+    const notesEl = document.getElementById("research-notes");
+    const notesBox = document.getElementById("research-notes-box");
+    const notesHtml = Object.entries(notes).filter(([,v])=>v).map(([k,v]) =>
+      `<div style="padding:8px 0;border-bottom:1px solid var(--border)">
+        <div style="font-size:12px;font-weight:500;margin-bottom:2px">${POLICIES[k]?.label || k}</div>
+        <div style="font-size:11px;color:var(--muted)">${v}</div>
+      </div>`
+    ).join("");
+    if (notesHtml) { notesEl.innerHTML = notesHtml; notesBox.style.display = "block"; }
+  }
+
+  // ── Model meta ─────────────────────────────────────────────────────────────
+  async function fetchModelMeta() {
+    try {
+      const res = await fetch(`${API}/baseline`);
+      if (!res.ok) return;
+      const d = await res.json();
+      const mp = d.model_performance;
+      const metaEl = document.getElementById("model-meta");
+      if (metaEl && mp) {
+        metaEl.innerHTML = [
+          `<b>Data Source:</b> ${d.context?.data_source || "WisDOT"}`,
+          `<b>Training Samples:</b> ${(d.context?.n_training_samples || 0).toLocaleString()}`,
+          `<b>Test MAE:</b> ${mp.mae ?? "—"}`,
+          `<b>R²:</b> ${mp.r2 ?? "—"}`,
+          `<b>Cross-Val R²:</b> ${mp.cv_r2 ?? "—"}`,
+          `<b>Baseline Severity:</b> ${d.baseline_severity ?? "—"}`,
+        ].map(s => `<div>${s}</div>`).join("");
+      }
+    } catch (_) { /* model not running yet */ }
+  }
+
+  // ── Tabs ───────────────────────────────────────────────────────────────────
+  function showTab(name) {
+    ["impact","breakdown","explanation"].forEach(t => {
+      document.getElementById(`tab-${t}`).style.display = t === name ? "block" : "none";
+    });
+    document.querySelectorAll(".tab").forEach((el, i) => {
+      el.classList.toggle("active", ["impact","breakdown","explanation"][i] === name);
+    });
+  }
+
+  // ── Errors ─────────────────────────────────────────────────────────────────
+  function showError(msg) {
+    const b = document.getElementById("error-banner");
+    b.textContent = msg;
+    b.style.display = "block";
+    document.getElementById("placeholder").style.display = "none";
+    document.getElementById("results-area").classList.add("visible");
+  }
+  function hideError() {
+    document.getElementById("error-banner").style.display = "none";
+  }
+
+  init();
+</script>
+</body>
+</html>
